@@ -1,0 +1,78 @@
+Dear Colleague,
+
+You are receiving this email because you recently requested permission
+to download the TUH EEG Corpus.
+
+We are in the final stages of preparing the release of v1.0.0 of the
+TUH EEG Corpus. This will be the first production release and cover
+the years 2002-2015. It will contain about 20,000 patients.
+
+I thought you might be interested in commenting on the proposal below
+for the directory structure and filenaming conventions. If you would
+like to share your thoughts on this, please send an email to
+"joseph.picone@gmail.com" or reply to this message.
+
+Thanks,
+
+-Joe Picone
+
+==================
+I believe what we ultimately want is a structure like this:
+
+tuh_eeg/v1.0.0/edf/00000037/00001234/s001_2012_03_06/00001234_s001_2012_03_06_t001.edf
+tuh_eeg/v1.0.0/edf/00000037/00001234/s001_2012_03_06/00001234_s001_2012_03_06_t002.edf
+tuh_eeg/v1.0.0/edf/00000037/00001234/s001_2012_03_06/00001234_s001_2012_03_06_t003.edf
+...
+
+tuh_eeg:  the database name
+
+v1.0.0:   the release
+
+edf:      data vs. annotations
+
+00000037: an 8-digit number ranging from 00000000 to 99999999
+          indicating a directory that contains 100 patients
+          (I am reserving from capacity for future expansion
+          of the database, including other hospitals)
+
+00001234: a unique (randomized) patient number; in the release
+          these are ordered sequentially, so:
+
+          00000000: patients 00000000 to 00000099
+          00000001: patients 00000100 to 00000199
+
+s001_2012_03_06: session number in chronological order, with
+                 the date in YYYY_MM_DD format
+                 (this makes it easy to search by date)
+
+filename:
+
+ patientnumber_session_date_token.edf
+
+where:
+
+patientnumber: 8-digit zero-padded number that is the same
+               as the directory
+session:       a three-digit number prepended by "s" indicating
+               the session.
+date:          YYYY_MM_DD
+token:         a three-digit number prepended by "t"
+               (e.g., t000 corresponds to the first edf
+               file in the directory, t001 corresponds
+               to a_1.edf, ...)
+
+So, this file:
+
+tuh_eeg/v1.0.0/edf/00000037/00001234/s001_2012_03_06/00001234_s001_2012_03_06_t002.edf
+
+indicates that it is patient number "00001234", and session "001" from
+that patient, collected on "2012_03_06", and this is the second token,
+or edf file, in the sequence of edf files for that session.
+
+The name of the corresponding text file containing the EEG report
+would be:
+
+tuh_eeg/v1.0.0/edf/00000037/00001234/s001_2012_03_06/00001234_s001_2012_03_06.txt
+
+We need to plan to have 1M patients on disk - that day will come in 5
+to 20 years, so we should use at least 8 digits for the patient ID.
