@@ -1,0 +1,1310 @@
+location,description,secs,category,CDNumber,CDName,tracknum,clusterLabel,clusterName
+07036171.wav,"Domestic Mantle Clock striking ten o'clock. (Early 19th Century clock chimes 'A', 8 bells, 1 gong.)",64,,EC209B,Domestic Clock,1,3.0,clock
+07036172.wav,"Domestic Mantle Clock striking eleven o'clock. (Early 19th Century clock chimes 'A', 8 bells, 1 gong.)",65,,EC209B,Domestic Clock,2,3.0,clock
+07036173.wav,"Domestic Mantle Clock striking twelve o'clock. (Early 19th Century clock chimes 'A', 8 bells, 1 gong.)",69,,EC209B,Domestic Clock,3,3.0,clock
+07036175.wav,"Domestic Mantle Clock striking half past the hour. (Early 19th Century clock chimes 'B', 8 bells, 1 gong.)",21,,EC209B,Domestic Clock,5,3.0,clock
+07036174.wav,"Domestic Mantle Clock striking quarter past the hour. (Early 19th Century clock chimes 'B', 8 bells, 1 gong.)",18,,EC209B,Domestic Clock,4,3.0,clock
+07036176.wav,"Domestic Mantle Clock striking quarter to the hour. (Early 19th Century clock chimes 'B', 8 bells, 1 gong.)",24,,EC209B,Domestic Clock,6,3.0,clock
+07036177.wav,"Domestic Mantle Clock striking one o'clock. (Early 19th Century clock chimes 'B', 8 bells, 1 gong.)",40,,EC209B,Domestic Clock,7,3.0,clock
+07036178.wav,"Domestic Mantle Clock striking two o'clock. (Early 19th Century clock chimes 'B', 8 bells, 1 gong.)",45,,EC209B,Domestic Clock,8,3.0,clock
+07036179.wav,"Domestic Mantle Clock striking three o'clock. (Early 19th Century clock chimes 'B', 8 bells, 1 gong.)",45,,EC209B,Domestic Clock,9,3.0,clock
+07036187.wav,"Domestic Mantle Clock striking eleven o'clock. (Early 19th Century clock chimes 'B', 8 bells, 1 gong.)",62,,EC209C,Domestic Clock,5,3.0,clock
+07036181.wav,"Domestic Mantle Clock striking five o'clock. (Early 19th Century clock chimes 'B', 8 bells, 1 gong.)",51,,EC209B,Domestic Clock,11,3.0,clock
+07016184.wav,Trinity & St John's College clock striking two o'clock. (Trinity clock strikes a second time for St. John's College.),35,,EC36T,"Trinity & St. John’S College Clock, Cambridge",2,3.0,clock
+07016185.wav,Trinity & St John's College clock striking three o'clock. (Trinity clock strikes a second time for St. John's College.),36,,EC36T,"Trinity & St. John’S College Clock, Cambridge",3,3.0,clock
+07036203.wav,"Grandfather Clock with St Michael's chimes, striking twelve o'clock.",66,,EC209D,Domestic Clock,9,3.0,clock
+07036202.wav,"Grandfather Clock with St Michael's chimes, striking eleven o'clock.",61,,EC209D,Domestic Clock,8,3.0,clock
+07036201.wav,"Grandfather Clock with St Michael's chimes, striking ten o'clock.",59,,EC209D,Domestic Clock,7,3.0,clock
+07036200.wav,"Grandfather Clock with St Michael's chimes, striking nine o'clock.",57,,EC209D,Domestic Clock,6,3.0,clock
+07036199.wav,"Grandfather Clock with St Michael's chimes, striking eight o'clock.",54,,EC209D,Domestic Clock,5,3.0,clock
+07036198.wav,"Grandfather Clock with St Michael's chimes, striking seven o'clock.",50,,EC209D,Domestic Clock,4,3.0,clock
+07036197.wav,"Grandfather Clock with St Michael's chimes, striking six o'clock.",48,,EC209D,Domestic Clock,3,3.0,clock
+07036196.wav,"Grandfather Clock with St Michael's chimes, striking five o'clock.",45,,EC209D,Domestic Clock,2,3.0,clock
+07036195.wav,"Grandfather Clock with St Michael's chimes, striking four o'clock.",42,,EC209D,Domestic Clock,1,3.0,clock
+07036180.wav,"Domestic Mantle Clock striking four o'clock. (Early 19th Century clock chimes 'B', 8 bells, 1 gong.)",47,,EC209B,Domestic Clock,10,3.0,clock
+07036194.wav,"Grandfather Clock with St Michael's chimes, striking three o'clock.",39,,EC209C,Domestic Clock,12,3.0,clock
+07036192.wav,"Grandfather Clock with St Michael's chimes, striking one o'clock.",34,,EC209C,Domestic Clock,10,3.0,clock
+07036191.wav,"Grandfather Clock with St Michael's chimes, striking quarter to the hour.",30,,EC209C,Domestic Clock,9,3.0,clock
+07036190.wav,"Grandfather Clock with St Michael's chimes, striking half past the hour.",21,,EC209C,Domestic Clock,8,3.0,clock
+07036189.wav,"Grandfather Clock with St Michael's chimes, striking quarter past the hour.",16,,EC209C,Domestic Clock,7,3.0,clock
+07036188.wav,"Domestic Mantle Clock striking twelve o'clock. (Early 19th Century clock chimes 'B', 8 bells, 1 gong.)",64,,EC209C,Domestic Clock,6,3.0,clock
+07036170.wav,"Domestic Mantle Clock striking nine o'clock. (Early 19th Century clock chimes 'A', 8 bells, 1 gong.)",60,,EC209A,Domestic Clock,12,3.0,clock
+07036186.wav,"Domestic Mantle Clock striking ten o'clock. (Early 19th Century clock chimes 'B', 8 bells, 1 gong.)",62,,EC209C,Domestic Clock,4,3.0,clock
+07036185.wav,"Domestic Mantle Clock striking nine o'clock. (Early 19th Century clock chimes 'B', 8 bells, 1 gong.)",58,,EC209C,Domestic Clock,3,3.0,clock
+07036184.wav,"Domestic Mantle Clock striking eight o'clock. (Early 19th Century clock chimes 'B', 8 bells, 1 gong.)",56,,EC209C,Domestic Clock,2,3.0,clock
+07036183.wav,"Domestic Mantle Clock striking seven o'clock. (Early 19th Century clock chimes 'B', 8 bells, 1 gong.)",52,,EC209C,Domestic Clock,1,3.0,clock
+07036182.wav,"Domestic Mantle Clock striking six o'clock. (Early 19th Century clock chimes 'B', 8 bells, 1 gong.)",54,,EC209B,Domestic Clock,12,3.0,clock
+07036193.wav,"Grandfather Clock with St Michael's chimes, striking two o'clock.",40,,EC209C,Domestic Clock,11,3.0,clock
+07036169.wav,"Domestic Mantle Clock striking eight o'clock. (Early 19th Century clock chimes 'A', 8 bells, 1 gong.)",56,,EC209A,Domestic Clock,11,3.0,clock
+07022176.wav,"Grandfather clock striking ten o'clock. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",47,,EC48R,"Grandfather Clock: Bell Type (London, 1845)",4,3.0,clock
+07036167.wav,"Domestic Mantle Clock striking six o'clock. (Early 19th Century clock chimes 'A', 8 bells, 1 gong.)",52,,EC209A,Domestic Clock,9,3.0,clock
+07049101.wav,"St. Marie Church bells, church clock strikes 12",36,Churches: Bells: France,ECD050,France - Paris,10,3.0,clock
+07022062.wav,Domestic clock striking eleven o'clock. (Mid-perspective recording of domestic clock with bell.),28,,EC48F,Domestic Clock (Bell: Mid-Perspective),2,3.0,clock
+07016198.wav,Balliol College clock striking four o'clock.,21,,EC36U,"Balliol College Clock, Oxford",4,3.0,clock
+07016199.wav,Balliol College clock striking five o'clock.,24,,EC36U,"Balliol College Clock, Oxford",5,3.0,clock
+07016200.wav,Balliol College clock striking six o'clock.,25,,EC36U,"Balliol College Clock, Oxford",6,3.0,clock
+07022063.wav,Domestic clock striking twelve o'clock. (Mid-perspective recording of domestic clock with bell.),30,,EC48F,Domestic Clock (Bell: Mid-Perspective),3,3.0,clock
+07016201.wav,Balliol College clock striking seven o'clock.,27,,EC36U,"Balliol College Clock, Oxford",7,3.0,clock
+07016202.wav,Balliol College clock striking eight o'clock.,29,,EC36U,"Balliol College Clock, Oxford",8,3.0,clock
+07016203.wav,Balliol College clock striking nine o'clock.,30,,EC36U,"Balliol College Clock, Oxford",9,3.0,clock
+07016204.wav,Balliol College clock striking ten o'clock.,34,,EC36U,"Balliol College Clock, Oxford",10,3.0,clock
+07016205.wav,Balliol College clock striking eleven o'clock.,36,,EC36U,"Balliol College Clock, Oxford",11,3.0,clock
+07016206.wav,Balliol College clock striking twelve o'clock.,38,,EC36U,"Balliol College Clock, Oxford",12,3.0,clock
+07016207.wav,New College clock striking quarter past the hour.,19,,EC36V,"New College Clock, Oxford",1,3.0,clock
+07016208.wav,New College clock striking half past the hour.,22,,EC36V,"New College Clock, Oxford",2,3.0,clock
+07016209.wav,New College clock striking quarter to the hour.,25,,EC36V,"New College Clock, Oxford",3,3.0,clock
+07016210.wav,New College clock striking one o'clock.,35,,EC36V,"New College Clock, Oxford",4,3.0,clock
+07016211.wav,New College clock striking two o'clock.,41,,EC36V,"New College Clock, Oxford",5,3.0,clock
+07016212.wav,New College clock striking three o'clock.,43,,EC36V,"New College Clock, Oxford",6,3.0,clock
+07016213.wav,New College clock striking four o'clock.,45,,EC36V,"New College Clock, Oxford",7,3.0,clock
+07016214.wav,New College clock striking five o'clock.,47,,EC36V,"New College Clock, Oxford",8,3.0,clock
+07016215.wav,New College clock striking six o'clock.,49,,EC36V,"New College Clock, Oxford",9,3.0,clock
+07016216.wav,New College clock striking seven o'clock.,52,,EC36V,"New College Clock, Oxford",10,3.0,clock
+07016217.wav,New College clock striking eight o'clock.,54,,EC36V,"New College Clock, Oxford",11,3.0,clock
+07022061.wav,Domestic clock striking ten o'clock. (Mid-perspective recording of domestic clock with bell.),27,,EC48F,Domestic Clock (Bell: Mid-Perspective),1,3.0,clock
+07036168.wav,"Domestic Mantle Clock striking seven o'clock. (Early 19th Century clock chimes 'A', 8 bells, 1 gong.)",56,,EC209A,Domestic Clock,10,3.0,clock
+07022060.wav,Domestic clock striking nine o'clock. (Domestic clock with bell.),22,,EC48E,Domestic Clock (Bell),12,3.0,clock
+07016196.wav,Balliol College clock striking two o'clock.,16,,EC36U,"Balliol College Clock, Oxford",2,3.0,clock
+07036166.wav,"Domestic Mantle Clock striking five o'clock. (Early 19th Century clock chimes 'A', 8 bells, 1 gong.)",50,,EC209A,Domestic Clock,8,3.0,clock
+07036165.wav,"Domestic Mantle Clock striking four o'clock. (Early 19th Century clock chimes 'A', 8 bells, 1 gong.)",47,,EC209A,Domestic Clock,7,3.0,clock
+07036164.wav,"Domestic Mantle Clock striking three o'clock. (Early 19th Century clock chimes 'A', 8 bells, 1 gong.)",43,,EC209A,Domestic Clock,6,3.0,clock
+07036163.wav,"Domestic Mantle Clock striking two o'clock. (Early 19th Century clock chimes 'A', 8 bells, 1 gong.)",42,,EC209A,Domestic Clock,5,3.0,clock
+07036162.wav,"Domestic Mantle Clock striking one o'clock. (Early 19th Century clock chimes 'A', 8 bells, 1 gong.)",43,,EC209A,Domestic Clock,4,3.0,clock
+07036161.wav,"Domestic Mantle Clock striking quarter to the hour. (Early 19th Century clock chimes 'A', 8 bells, 1 gong.)",23,,EC209A,Domestic Clock,3,3.0,clock
+07036160.wav,"Domestic Mantle Clock striking half past the hour. (Early 19th Century clock chimes 'A', 8 bells, 1 gong.)",19,,EC209A,Domestic Clock,2,3.0,clock
+07016186.wav,Trinity & St John's College clock striking four o'clock. (Trinity clock strikes a second time for St. John's College.),40,,EC36T,"Trinity & St. John’S College Clock, Cambridge",4,3.0,clock
+07036159.wav,"Domestic Mantle Clock striking quarter past the hour. (Early 19th Century clock chimes 'A', 8 bells, 1 gong.)",16,,EC209A,Domestic Clock,1,3.0,clock
+07016183.wav,Trinity & St John's College clock striking one o'clock. (Trinity clock strikes a second time for St. John's College.),30,,EC36T,"Trinity & St. John’S College Clock, Cambridge",1,3.0,clock
+07022056.wav,Domestic clock striking five o'clock. (Domestic clock with bell.),17,,EC48E,Domestic Clock (Bell),8,3.0,clock
+07022057.wav,Domestic clock striking six o'clock. (Domestic clock with bell.),17,,EC48E,Domestic Clock (Bell),9,3.0,clock
+07022058.wav,Domestic clock striking seven o'clock. (Domestic clock with bell.),20,,EC48E,Domestic Clock (Bell),10,3.0,clock
+07016187.wav,Trinity & St John's College clock striking five o'clock. (Trinity clock strikes a second time for St. John's College.),44,,EC36T,"Trinity & St. John’S College Clock, Cambridge",5,3.0,clock
+07016188.wav,Trinity & St John's College clock striking six o'clock. (Trinity clock strikes a second time for St. John's College.),45,,EC36T,"Trinity & St. John’S College Clock, Cambridge",6,3.0,clock
+07016189.wav,Trinity & St John's College clock striking seven o'clock. (Trinity clock strikes a second time for St. John's College.),49,,EC36T,"Trinity & St. John’S College Clock, Cambridge",7,3.0,clock
+07016190.wav,Trinity & St John's College clock striking eight o'clock. (Trinity clock strikes a second time for St. John's College.),51,,EC36T,"Trinity & St. John’S College Clock, Cambridge",8,3.0,clock
+07016191.wav,Trinity & St John's College clock striking nine o'clock. (Trinity clock strikes a second time for St. John's College.),55,,EC36T,"Trinity & St. John’S College Clock, Cambridge",9,3.0,clock
+07016192.wav,Trinity & St John's College clock striking ten o'clock. (Trinity clock strikes a second time for St. John's College.),57,,EC36T,"Trinity & St. John’S College Clock, Cambridge",10,3.0,clock
+07016193.wav,Trinity & St John's College clock striking eleven o'clock. (Trinity clock strikes a second time for St. John's College.),61,,EC36T,"Trinity & St. John’S College Clock, Cambridge",11,3.0,clock
+07016194.wav,Trinity & St John's College clock striking twelve o'clock. (Trinity clock strikes a second time for St. John's College.),65,,EC36T,"Trinity & St. John’S College Clock, Cambridge",12,3.0,clock
+07016195.wav,Balliol College clock striking one o'clock.,14,,EC36U,"Balliol College Clock, Oxford",1,3.0,clock
+07022059.wav,Domestic clock striking eight o'clock. (Domestic clock with bell.),21,,EC48E,Domestic Clock (Bell),11,3.0,clock
+07016197.wav,Balliol College clock striking three o'clock.,20,,EC36U,"Balliol College Clock, Oxford",3,3.0,clock
+07016182.wav,Trinity & St John's College clock striking quarter to the hour. (Trinity clock strikes a second time for St. John's College.),21,,EC36S,Cambridge Clocks,12,3.0,clock
+07016174.wav,Caius College clock striking seven o'clock.,40,,EC36S,Cambridge Clocks,4,3.0,clock
+07016180.wav,Trinity & St John's College clock striking quarter past the hour. (Trinity clock strikes a second time for St. John's College.),20,,EC36S,Cambridge Clocks,10,3.0,clock
+07002243.wav,Osterley House Clock striking 5 o'clock,18,,EC105T,Osterley House Clock,5,3.0,clock
+07002244.wav,Osterley House Clock striking 6 o'clock,20,,EC105T,Osterley House Clock,6,3.0,clock
+07002246.wav,Osterley House Clock striking 8 o'clock,25,,EC105T,Osterley House Clock,8,3.0,clock
+07002247.wav,Osterley House Clock striking 9 o'clock,27,,EC105T,Osterley House Clock,9,3.0,clock
+07002248.wav,Osterley House Clock striking 10 o'clock,30,,EC105T,Osterley House Clock,10,3.0,clock
+07002249.wav,Osterley House Clock striking 11 o'clock,33,,EC105T,Osterley House Clock,11,3.0,clock
+07002250.wav,Osterley House Clock striking 12 o'clock,36,,EC105T,Osterley House Clock,12,3.0,clock
+07002251.wav,"Church clock striking, 1 o'clock. (St. John the Evangelist)",11,,EC105V,Outdoor Clock,1,3.0,clock
+07002252.wav,"Church clock striking, 2 o'clock. (St. John the Evangelist)",12,,EC105V,Outdoor Clock,2,3.0,clock
+07002253.wav,"Church clock striking, 3 o'clock. (St. John the Evangelist)",13,,EC105V,Outdoor Clock,3,3.0,clock
+07002254.wav,"Church clock striking, 4 o'clock. (St. John the Evangelist)",15,,EC105V,Outdoor Clock,4,3.0,clock
+07002255.wav,"Church clock striking, 5 o'clock. (St. John the Evangelist)",16,,EC105V,Outdoor Clock,5,3.0,clock
+07002256.wav,"Church clock striking, 6 o'clock. (St. John the Evangelist)",17,,EC105V,Outdoor Clock,6,3.0,clock
+07002257.wav,"Church clock striking, 7 o'clock. (St. John the Evangelist)",20,,EC105V,Outdoor Clock,7,3.0,clock
+07002258.wav,"Church clock striking, 8 o'clock. (St. John the Evangelist)",21,,EC105V,Outdoor Clock,8,3.0,clock
+07002259.wav,"Church clock striking, 9 o'clock. (St. John the Evangelist)",23,,EC105V,Outdoor Clock,9,3.0,clock
+07002260.wav,"Church clock striking, 10 o'clock. (St. John the Evangelist)",25,,EC105V,Outdoor Clock,10,3.0,clock
+07002261.wav,"Church clock striking, 11 o'clock. (St. John the Evangelist)",28,,EC105V,Outdoor Clock,11,3.0,clock
+07002262.wav,"Church clock striking, 12 o'clock. (St. John the Evangelist)",30,,EC105V,Outdoor Clock,12,3.0,clock
+07002263.wav,"Church clock striking, 1 o'clock. (All Saints Church)",9,,EC105W,Outdoor Clock,1,3.0,clock
+07002264.wav,"Church clock striking, 2 o'clock. (All Saints Church)",13,,EC105W,Outdoor Clock,2,3.0,clock
+07002265.wav,"Church clock striking, 3 o'clock. (All Saints Church)",15,,EC105W,Outdoor Clock,3,3.0,clock
+07002266.wav,"Church clock striking, 4 o'clock. (All Saints Church)",17,,EC105W,Outdoor Clock,4,3.0,clock
+07002267.wav,"Church clock striking, 5 o'clock. (All Saints Church)",18,,EC105W,Outdoor Clock,5,3.0,clock
+07002268.wav,"Church clock striking, 6 o'clock. (All Saints Church)",19,,EC105W,Outdoor Clock,6,3.0,clock
+07002269.wav,"Church clock striking, 7 o'clock. (All Saints Church)",23,,EC105W,Outdoor Clock,7,3.0,clock
+07002270.wav,"Church clock striking, 8 o'clock. (All Saints Church)",24,,EC105W,Outdoor Clock,8,3.0,clock
+07002242.wav,Osterley House Clock striking 4 o'clock,16,,EC105T,Osterley House Clock,4,3.0,clock
+07002271.wav,"Church clock striking, 9 o'clock. (All Saints Church)",26,,EC105W,Outdoor Clock,9,3.0,clock
+07002241.wav,Osterley House Clock striking 3 o'clock,13,,EC105T,Osterley House Clock,3,3.0,clock
+07002239.wav,"Osterley House Clock striking, 1 o'clock",8,,EC105T,Osterley House Clock,1,3.0,clock
+07002214.wav,"Outdoor clock striking, chimes & 4 o'clock  SS. Peter & Paul ",49,,EC105Q,Outdoor Clock,7,3.0,clock
+07002215.wav,"Outdoor clock striking, chimes & 5 o'clock  SS. Peter & Paul ",54,,EC105Q,Outdoor Clock,8,3.0,clock
+07002216.wav,"Outdoor clock striking, chimes & 6 o'clock  SS. Peter & Paul ",56,,EC105Q,Outdoor Clock,9,3.0,clock
+07016118.wav,Jesus College clock striking two o'clock.,13,,EC36M,"Jesus College Clock, Oxford",5,3.0,clock
+07002217.wav,"Outdoor clock striking, chimes & 7 o'clock  SS. Peter & Paul ",58,,EC105Q,Outdoor Clock,10,3.0,clock
+07016119.wav,Jesus College clock striking three o'clock.,14,,EC36M,"Jesus College Clock, Oxford",6,3.0,clock
+07002218.wav,"Outdoor clock striking, chimes & 8 o'clock  SS. Peter & Paul ",60,,EC105Q,Outdoor Clock,11,3.0,clock
+07016120.wav,Jesus College clock striking four o'clock.,16,,EC36M,"Jesus College Clock, Oxford",7,3.0,clock
+07002219.wav,"Outdoor clock striking, 9 o'clock - SS. Peter & Paul ",65,,EC105R,"Anne Boleyn's Clock, Hampton Court",1,3.0,clock
+07002220.wav,"Outdoor clock striking, 10 o'clock - SS. Peter & Paul",68,,EC105R,"Anne Boleyn's Clock, Hampton Court",2,3.0,clock
+07002221.wav,"Outdoor clock striking, 11 o'clock - SS. Peter & Paul",73,,EC105R,"Anne Boleyn's Clock, Hampton Court",3,3.0,clock
+07002222.wav,"Outdoor clock striking, 12 o'clock - SS. Peter & Paul",79,,EC105R,"Anne Boleyn's Clock, Hampton Court",4,3.0,clock
+07002223.wav,Anne Boleyn's Clock striking half-hour,16,,EC105R,"Anne Boleyn's Clock, Hampton Court",5,3.0,clock
+07002224.wav,Anne Boleyn's Clock striking quarter-hour,17,,EC105R,"Anne Boleyn's Clock, Hampton Court",6,3.0,clock
+07002225.wav,Anne Boleyn's Clock striking three-quarters,20,,EC105R,"Anne Boleyn's Clock, Hampton Court",7,3.0,clock
+07002226.wav,Anne Boleyn's Clock chimes & 1 o'clock,22,,EC105R,"Anne Boleyn's Clock, Hampton Court",8,3.0,clock
+07002227.wav,Anne Boleyn's Clock chimes & 2 o'clock,27,,EC105R,"Anne Boleyn's Clock, Hampton Court",9,3.0,clock
+07002228.wav,Anne Boleyn's Clock chimes & 3 o'clock,31,,EC105R,"Anne Boleyn's Clock, Hampton Court",10,3.0,clock
+07002229.wav,"Anne Boleyn's Clock, chimes & 4 o'clock",33,,EC105S,"Anne Boleyn's Clock, Hampton Court",1,3.0,clock
+07002230.wav,"Anne Boleyn's Clock, chimes & 5 o'clock",33,,EC105S,"Anne Boleyn's Clock, Hampton Court",2,3.0,clock
+07002231.wav,"Anne Boleyn's Clock, chimes & 6 o'clock",37,,EC105S,"Anne Boleyn's Clock, Hampton Court",3,3.0,clock
+07002232.wav,"Anne Boleyn's Clock, chimes & 7 o'clock",41,,EC105S,"Anne Boleyn's Clock, Hampton Court",4,3.0,clock
+07002233.wav,"Anne Boleyn's Clock, chimes & 8 o'clock",43,,EC105S,"Anne Boleyn's Clock, Hampton Court",5,3.0,clock
+07002234.wav,"Anne Boleyn's Clock, chimes & 9 o'clock",44,,EC105S,"Anne Boleyn's Clock, Hampton Court",6,3.0,clock
+07002235.wav,"Anne Boleyn's Clock, chimes & 10 o'clock",47,,EC105S,"Anne Boleyn's Clock, Hampton Court",7,3.0,clock
+07002236.wav,"Anne Boleyn's Clock, chimes & 11 o'clock",52,,EC105S,"Anne Boleyn's Clock, Hampton Court",8,3.0,clock
+07002237.wav,"Anne Boleyn's Clock, chimes & 12 o'clock",56,,EC105S,"Anne Boleyn's Clock, Hampton Court",9,3.0,clock
+07002240.wav,Osterley House Clock striking 2 o'clock,11,,EC105T,Osterley House Clock,2,3.0,clock
+07002272.wav,"Church clock striking, 10 o'clock. (All Saints Church)",28,,EC105W,Outdoor Clock,10,3.0,clock
+07002273.wav,"Church clock striking, 11 o'clock. (All Saints Church)",30,,EC105W,Outdoor Clock,11,3.0,clock
+07002274.wav,"Church clock striking, 12 o'clock. (All Saints Church)",34,,EC105W,Outdoor Clock,12,3.0,clock
+07016153.wav,Keble College clock striking one o'clock.,46,,EC36Q,"Keble College Clock, Oxford ",4,3.0,clock
+07016154.wav,Keble College clock striking two o'clock.,49,,EC36Q,"Keble College Clock, Oxford ",5,3.0,clock
+07016155.wav,Keble College clock striking three o'clock.,51,,EC36Q,"Keble College Clock, Oxford ",6,3.0,clock
+07016156.wav,Keble College clock striking four o'clock.,53,,EC36Q,"Keble College Clock, Oxford ",7,3.0,clock
+07016157.wav,Keble College clock striking five o'clock.,56,,EC36Q,"Keble College Clock, Oxford ",8,3.0,clock
+07016158.wav,Keble College clock striking six o'clock.,59,,EC36Q,"Keble College Clock, Oxford ",9,3.0,clock
+07016159.wav,Keble College clock striking seven o'clock.,61,,EC36Q,"Keble College Clock, Oxford ",10,3.0,clock
+07016160.wav,Keble College clock striking eight o'clock.,64,,EC36Q,"Keble College Clock, Oxford ",11,3.0,clock
+07016161.wav,Keble College clock striking nine o'clock.,64,,EC36R,"Caius College Clock, Cambridge",1,3.0,clock
+07016162.wav,Keble College clock striking ten o'clock.,68,,EC36R,"Caius College Clock, Cambridge",2,3.0,clock
+07016163.wav,Keble College clock striking eleven o'clock.,70,,EC36R,"Caius College Clock, Cambridge",3,3.0,clock
+07016164.wav,Keble College clock striking twelve o'clock.,72,,EC36R,"Caius College Clock, Cambridge",4,3.0,clock
+07016165.wav,Caius College clock striking quarter past the hour.,17,,EC36R,"Caius College Clock, Cambridge",5,3.0,clock
+07016166.wav,Caius College clock striking half past the hour.,19,,EC36R,"Caius College Clock, Cambridge",6,3.0,clock
+07016167.wav,Caius College clock striking quarter to the hour.,19,,EC36R,"Caius College Clock, Cambridge",7,3.0,clock
+07016168.wav,Caius College clock striking one o'clock.,27,,EC36R,"Caius College Clock, Cambridge",8,3.0,clock
+07016169.wav,Caius College clock striking two o'clock.,27,,EC36R,"Caius College Clock, Cambridge",9,3.0,clock
+07016170.wav,Caius College clock striking three o'clock.,31,,EC36R,"Caius College Clock, Cambridge",10,3.0,clock
+07016171.wav,Caius College clock striking four o'clock.,35,,EC36S,Cambridge Clocks,1,3.0,clock
+07016172.wav,Caius College clock striking five o'clock.,35,,EC36S,Cambridge Clocks,2,3.0,clock
+07016173.wav,Caius College clock striking six o'clock.,38,,EC36S,Cambridge Clocks,3,3.0,clock
+07016218.wav,New College clock striking nine o'clock.,54,,EC36V,"New College Clock, Oxford",12,3.0,clock
+07016175.wav,Caius College clock striking eight o'clock.,42,,EC36S,Cambridge Clocks,5,3.0,clock
+07016176.wav,Caius College clock striking nine o'clock.,45,,EC36S,Cambridge Clocks,6,3.0,clock
+07016177.wav,Caius College clock striking ten o'clock.,47,,EC36S,Cambridge Clocks,7,3.0,clock
+07016178.wav,Caius College clock striking eleven o'clock.,50,,EC36S,Cambridge Clocks,8,3.0,clock
+07016179.wav,Caius College clock striking twelve o'clock.,55,,EC36S,Cambridge Clocks,9,3.0,clock
+07016152.wav,Keble College clock striking quarter to the hour.,19,,EC36Q,"Keble College Clock, Oxford ",3,3.0,clock
+07016151.wav,Keble College clock striking half past the hour.,23,,EC36Q,"Keble College Clock, Oxford ",2,3.0,clock
+07016150.wav,Keble College clock striking quarter past the hour.,24,,EC36Q,"Keble College Clock, Oxford ",1,3.0,clock
+07016149.wav,Wadham College clock striking nine o'clock.,19,,EC36P,"Wadham College Clock, Oxford",12,3.0,clock
+07016121.wav,Jesus College clock striking five o'clock.,18,,EC36M,"Jesus College Clock, Oxford",8,3.0,clock
+07016122.wav,Jesus College clock striking six o'clock.,20,,EC36M,"Jesus College Clock, Oxford",9,3.0,clock
+07016123.wav,Jesus College clock striking seven o'clock.,22,,EC36M,"Jesus College Clock, Oxford",10,3.0,clock
+07016124.wav,Jesus College clock striking eight o'clock.,25,,EC36M,"Jesus College Clock, Oxford",11,3.0,clock
+07016125.wav,Jesus College clock striking nine o'clock.,27,,EC36M,"Jesus College Clock, Oxford",12,3.0,clock
+07016126.wav,Lincoln College clock striking ten o'clock.,30,,EC36N,"Lincoln College Clock, Oxford",1,3.0,clock
+07016127.wav,Lincoln College clock striking eleven o'clock.,32,,EC36N,"Lincoln College Clock, Oxford",2,3.0,clock
+07016128.wav,Lincoln College clock striking twelve o'clock.,33,,EC36N,"Lincoln College Clock, Oxford",3,3.0,clock
+07016129.wav,Lincoln College clock striking one o'clock.,11,,EC36N,"Lincoln College Clock, Oxford",4,3.0,clock
+07016130.wav,Lincoln College clock striking two o'clock.,14,,EC36N,"Lincoln College Clock, Oxford",5,3.0,clock
+07016131.wav,Lincoln College clock striking three o'clock.,16,,EC36N,"Lincoln College Clock, Oxford",6,3.0,clock
+07016132.wav,Lincoln College clock striking four o'clock.,18,,EC36N,"Lincoln College Clock, Oxford",7,3.0,clock
+07016133.wav,Lincoln College clock striking five o'clock.,19,,EC36N,"Lincoln College Clock, Oxford",8,3.0,clock
+07016181.wav,Trinity & St John's College clock striking half past the hour. (Trinity clock strikes a second time for St. John's College.),22,,EC36S,Cambridge Clocks,11,3.0,clock
+07016134.wav,Lincoln College clock striking six o'clock.,22,,EC36N,"Lincoln College Clock, Oxford",9,3.0,clock
+07016136.wav,Lincoln College clock striking eight o'clock.,25,,EC36N,"Lincoln College Clock, Oxford",11,3.0,clock
+07016137.wav,Lincoln College clock striking nine o'clock.,27,,EC36N,"Lincoln College Clock, Oxford",12,3.0,clock
+07016138.wav,Wadham College clock striking ten o'clock.,20,,EC36P,"Wadham College Clock, Oxford",1,3.0,clock
+07016139.wav,Wadham College clock striking eleven o'clock.,20,,EC36P,"Wadham College Clock, Oxford",2,3.0,clock
+07016140.wav,Wadham College clock striking twelve o'clock.,22,,EC36P,"Wadham College Clock, Oxford",3,3.0,clock
+07016141.wav,Wadham College clock striking one o'clock.,11,,EC36P,"Wadham College Clock, Oxford",4,3.0,clock
+07016142.wav,Wadham College clock striking two o'clock.,12,,EC36P,"Wadham College Clock, Oxford",5,3.0,clock
+07016143.wav,Wadham College clock striking three o'clock.,13,,EC36P,"Wadham College Clock, Oxford",6,3.0,clock
+07016144.wav,Wadham College clock striking four o'clock.,14,,EC36P,"Wadham College Clock, Oxford",7,3.0,clock
+07016145.wav,Wadham College clock striking five o'clock.,14,,EC36P,"Wadham College Clock, Oxford",8,3.0,clock
+07016146.wav,Wadham College clock striking six o'clock.,16,,EC36P,"Wadham College Clock, Oxford",9,3.0,clock
+07016147.wav,Wadham College clock striking seven o'clock.,17,,EC36P,"Wadham College Clock, Oxford",10,3.0,clock
+07016148.wav,Wadham College clock striking eight o'clock.,17,,EC36P,"Wadham College Clock, Oxford",11,3.0,clock
+07016135.wav,Lincoln College clock striking seven o'clock.,23,,EC36N,"Lincoln College Clock, Oxford",10,3.0,clock
+07016219.wav,New College clock striking ten o'clock.,56,,EC36W,"Christchurch College Clock, Oxford",1,3.0,clock
+07016230.wav,Christchurch College clock striking nine o'clock.,55,,EC36X,"Christchurch College Clock, Oxford",1,3.0,clock
+07016221.wav,New College clock striking twelve o'clock.,61,,EC36W,"Christchurch College Clock, Oxford",3,3.0,clock
+07022164.wav,Domestic clock striking six o'clock. (Domestic clock with Westminster chimes.),44,,EC48P,Domestic Clock: Westminster Chimes,12,3.0,clock
+07022165.wav,Domestic clock striking seven o'clock. (Domestic clock with Westminster chimes.),45,,EC48Q,Clocks,1,3.0,clock
+07022166.wav,Domestic clock striking eight o'clock. (Domestic clock with Westminster chimes.),46,,EC48Q,Clocks,2,3.0,clock
+07022167.wav,Domestic clock striking nine o'clock. (Domestic clock with Westminster chimes.),49,,EC48Q,Clocks,3,3.0,clock
+07022168.wav,Domestic clock ticking. (Domestic clock with Westminster chimes.),131,,EC48Q,Clocks,4,3.0,clock
+07022169.wav,Domestic clock ticking slowly.,113,,EC48Q,Clocks,5,3.0,clock
+07022173.wav,"Grandfather clock striking quarter past the hour. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",14,,EC48R,"Grandfather Clock: Bell Type (London, 1845)",1,3.0,clock
+07022174.wav,"Grandfather clock striking half past the hour. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",16,,EC48R,"Grandfather Clock: Bell Type (London, 1845)",2,3.0,clock
+07022175.wav,"Grandfather clock striking quarter to the hour. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",19,,EC48R,"Grandfather Clock: Bell Type (London, 1845)",3,3.0,clock
+07022177.wav,"Grandfather clock striking eleven o'clock. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",49,,EC48R,"Grandfather Clock: Bell Type (London, 1845)",5,3.0,clock
+07022178.wav,"Grandfather clock striking twelve o'clock. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",52,,EC48R,"Grandfather Clock: Bell Type (London, 1845)",6,3.0,clock
+07022179.wav,"Grandfather clock striking one o'clock. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",26,,EC48R,"Grandfather Clock: Bell Type (London, 1845)",7,3.0,clock
+07022180.wav,"Grandfather clock striking two o'clock. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",29,,EC48R,"Grandfather Clock: Bell Type (London, 1845)",8,3.0,clock
+07022181.wav,"Grandfather clock striking three o'clock. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",30,,EC48R,"Grandfather Clock: Bell Type (London, 1845)",9,3.0,clock
+07022182.wav,"Grandfather clock striking four o'clock. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",33,,EC48R,"Grandfather Clock: Bell Type (London, 1845)",10,3.0,clock
+07022183.wav,"Grandfather clock striking five o'clock. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",35,,EC48R,"Grandfather Clock: Bell Type (London, 1845)",11,3.0,clock
+07022184.wav,"Grandfather clock striking six o'clock. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",40,,EC48R,"Grandfather Clock: Bell Type (London, 1845)",12,3.0,clock
+07022185.wav,"Grandfather clock striking seven o'clock. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",41,,EC48S,Clocks,1,3.0,clock
+07022186.wav,"Grandfather clock striking eight o'clock. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",47,,EC48S,Clocks,2,3.0,clock
+07022187.wav,"Grandfather clock striking nine o'clock. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",50,,EC48S,Clocks,3,3.0,clock
+07022188.wav,"Grandfather clock ticking. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",186,,EC48S,Clocks,4,3.0,clock
+07022189.wav,"Grandfather clock ticking. (Bell type Grandfather clock with Whittington chimes, manufactured in London 1845.)",123,,EC48S,Clocks,5,3.0,clock
+07022190.wav,Winding up cuckoo clock.,27,,EC48S,Clocks,6,3.0,clock
+07022191.wav,Cuckoo clock ticking.,243,,EC48S,Clocks,7,3.0,clock
+07022192.wav,Cuckoo clock striking one o'clock. (Cuckoo & chimes.) (NB half-hour is same as one o'clock.),6,,EC48T,Cuckoo Clock (Cuckoo & Chimes),1,3.0,clock
+07022163.wav,Domestic clock striking five o'clock. (Domestic clock with Westminster chimes.),41,,EC48P,Domestic Clock: Westminster Chimes,11,3.0,clock
+07022162.wav,Domestic clock striking four o'clock. (Domestic clock with Westminster chimes.),39,,EC48P,Domestic Clock: Westminster Chimes,10,3.0,clock
+07022161.wav,Domestic clock striking three o'clock. (Domestic clock with Westminster chimes.),38,,EC48P,Domestic Clock: Westminster Chimes,9,3.0,clock
+07022160.wav,Domestic clock striking two o'clock. (Domestic clock with Westminster chimes.),36,,EC48P,Domestic Clock: Westminster Chimes,8,3.0,clock
+07022134.wav,"Domestic clock striking eight o'clock. (English domestic clock, manufactured 1810.)",34,,EC48M,Domestic Clock Ticking,2,3.0,clock
+07022135.wav,"Domestic clock striking nine o'clock. (English domestic clock, manufactured 1810.)",35,,EC48M,Domestic Clock Ticking,3,3.0,clock
+07022136.wav,"Domestic clock ticking. (English domestic clock, manufactured 1810.)",121,,EC48M,Domestic Clock Ticking,4,3.0,clock
+07022137.wav,Domestic clock ticking.,96,,EC48M,Domestic Clock Ticking,5,3.0,clock
+07022138.wav,Domestic clock ticking.,98,,EC48M,Domestic Clock Ticking,6,3.0,clock
+07022139.wav,Domestic clock ticking.,96,,EC48M,Domestic Clock Ticking,7,3.0,clock
+07022140.wav,Domestic clock ticking.,95,,EC48M,Domestic Clock Ticking,8,3.0,clock
+07022141.wav,Domestic clock striking ten o'clock. (Nineteenth century domestic clock.),23,,EC48N,Domestic Clock (19Th Century),1,3.0,clock
+07022142.wav,Domestic clock striking eleven o'clock. (Nineteenth century domestic clock.),24,,EC48N,Domestic Clock (19Th Century),2,3.0,clock
+07022143.wav,Domestic clock striking twelve o'clock. (Nineteenth century domestic clock.),25,,EC48N,Domestic Clock (19Th Century),3,3.0,clock
+07022144.wav,Domestic clock striking one o'clock. (Nineteenth century domestic clock.),16,,EC48N,Domestic Clock (19Th Century),4,3.0,clock
+07022145.wav,Domestic clock striking two o'clock. (Nineteenth century domestic clock.),16,,EC48N,Domestic Clock (19Th Century),5,3.0,clock
+07022193.wav,Cuckoo clock striking two o'clock. (Cuckoo & chimes.),7,,EC48T,Cuckoo Clock (Cuckoo & Chimes),2,3.0,clock
+07022146.wav,Domestic clock striking three o'clock. (Nineteenth century domestic clock.),17,,EC48N,Domestic Clock (19Th Century),6,3.0,clock
+07022148.wav,Domestic clock striking five o'clock. (Nineteenth century domestic clock.),19,,EC48N,Domestic Clock (19Th Century),8,3.0,clock
+07022149.wav,Domestic clock striking six o'clock. (Nineteenth century domestic clock.),20,,EC48N,Domestic Clock (19Th Century),9,3.0,clock
+07022150.wav,Domestic clock striking seven o'clock. (Nineteenth century domestic clock.),21,,EC48N,Domestic Clock (19Th Century),10,3.0,clock
+07022151.wav,Domestic clock striking eight o'clock. (Nineteenth century domestic clock.),21,,EC48N,Domestic Clock (19Th Century),11,3.0,clock
+07022152.wav,Domestic clock striking nine o'clock. (Nineteenth century domestic clock.),22,,EC48N,Domestic Clock (19Th Century),12,3.0,clock
+07022153.wav,Domestic clock striking quarter past the hour. (Domestic clock with Westminster chimes.),18,,EC48P,Domestic Clock: Westminster Chimes,1,3.0,clock
+07022154.wav,Domestic clock striking half past the hour. (Domestic clock with Westminster chimes.),18,,EC48P,Domestic Clock: Westminster Chimes,2,3.0,clock
+07022155.wav,Domestic clock striking quarter to the hour. (Domestic clock with Westminster chimes.),23,,EC48P,Domestic Clock: Westminster Chimes,3,3.0,clock
+07022156.wav,Domestic clock striking ten o'clock. (Domestic clock with Westminster chimes.),52,,EC48P,Domestic Clock: Westminster Chimes,4,3.0,clock
+07022157.wav,Domestic clock striking eleven o'clock. (Domestic clock with Westminster chimes.),53,,EC48P,Domestic Clock: Westminster Chimes,5,3.0,clock
+07022158.wav,Domestic clock striking twelve o'clock. (Domestic clock with Westminster chimes.),55,,EC48P,Domestic Clock: Westminster Chimes,6,3.0,clock
+07022159.wav,Domestic clock striking one o'clock. (Domestic clock with Westminster chimes.),34,,EC48P,Domestic Clock: Westminster Chimes,7,3.0,clock
+07022147.wav,Domestic clock striking four o'clock. (Nineteenth century domestic clock.),18,,EC48N,Domestic Clock (19Th Century),7,3.0,clock
+07022133.wav,"Domestic clock striking seven o'clock. (English domestic clock, manufactured 1810.)",33,,EC48M,Domestic Clock Ticking,1,3.0,clock
+07022194.wav,Cuckoo clock striking three o'clock. (Cuckoo & chimes.),7,,EC48T,Cuckoo Clock (Cuckoo & Chimes),3,3.0,clock
+07022196.wav,Cuckoo clock striking five o'clock. (Cuckoo & chimes.),8,,EC48T,Cuckoo Clock (Cuckoo & Chimes),5,3.0,clock
+07022227.wav,Domestic clock striking twelve o'clock. (English domestic clock with double-strike mechanism.),35,,EC48V,English Domestic Clock: Double Strike,12,3.0,clock
+07022228.wav,"Domestic clock with striker removed striking one o'clock. (No chimes, hammer merely vibrates.)",7,,EC48W,Domestic Clock: Strike Removed; Hammer Merely Vibrates,1,3.0,clock
+07022251.wav,"Lantern clock striking twelve o'clock. (Domestic lantern clock, manufactured 1615.)",46,,EC48Y,"Lantern Clock, 1615",12,3.0,clock
+07022250.wav,"Lantern clock striking eleven o'clock. (Domestic lantern clock, manufactured 1615.)",43,,EC48Y,"Lantern Clock, 1615",11,3.0,clock
+07022249.wav,"Lantern clock striking ten o'clock. (Domestic lantern clock, manufactured 1615.)",40,,EC48Y,"Lantern Clock, 1615",10,3.0,clock
+07022248.wav,"Lantern clock striking nine o'clock. (Domestic lantern clock, manufactured 1615.)",35,,EC48Y,"Lantern Clock, 1615",9,3.0,clock
+07022247.wav,"Lantern clock striking eight o'clock. (Domestic lantern clock, manufactured 1615.)",32,,EC48Y,"Lantern Clock, 1615",8,3.0,clock
+07022246.wav,"Lantern clock striking seven o'clock. (Domestic lantern clock, manufactured 1615.)",30,,EC48Y,"Lantern Clock, 1615",7,3.0,clock
+07022245.wav,"Lantern clock striking six o'clock. (Domestic lantern clock, manufactured 1615.)",26,,EC48Y,"Lantern Clock, 1615",6,3.0,clock
+07022244.wav,"Lantern clock striking five o'clock. (Domestic lantern clock, manufactured 1615.)",24,,EC48Y,"Lantern Clock, 1615",5,3.0,clock
+07022243.wav,"Lantern clock striking four o'clock. (Domestic lantern clock, manufactured 1615.)",21,,EC48Y,"Lantern Clock, 1615",4,3.0,clock
+07022242.wav,"Lantern clock striking three o'clock. (Domestic lantern clock, manufactured 1615.)",17,,EC48Y,"Lantern Clock, 1615",3,3.0,clock
+07022229.wav,"Domestic clock with striker removed striking two o'clock. (No chimes, hammer merely vibrates.)",8,,EC48W,Domestic Clock: Strike Removed; Hammer Merely Vibrates,2,3.0,clock
+07022230.wav,"Domestic clock with striker removed striking three o'clock. (No chimes, hammer merely vibrates.)",11,,EC48W,Domestic Clock: Strike Removed; Hammer Merely Vibrates,3,3.0,clock
+07022241.wav,"Lantern clock striking two o'clock. (Domestic lantern clock, manufactured 1615.)",13,,EC48Y,"Lantern Clock, 1615",2,3.0,clock
+07022231.wav,"Domestic clock with striker removed striking four o'clock. (No chimes, hammer merely vibrates.)",13,,EC48W,Domestic Clock: Strike Removed; Hammer Merely Vibrates,4,3.0,clock
+07022232.wav,"Domestic clock with striker removed striking five o'clock. (No chimes, hammer merely vibrates.)",15,,EC48W,Domestic Clock: Strike Removed; Hammer Merely Vibrates,5,3.0,clock
+07022233.wav,"Domestic clock with striker removed striking six o'clock. (No chimes, hammer merely vibrates.)",17,,EC48W,Domestic Clock: Strike Removed; Hammer Merely Vibrates,6,3.0,clock
+07022240.wav,"Lantern clock striking one o'clock. (Domestic lantern clock, manufactured 1615.)",11,,EC48Y,"Lantern Clock, 1615",1,3.0,clock
+07022239.wav,"Domestic clock with striker removed striking twelve o'clock. (No chimes, hammer merely vibrates.)",29,,EC48W,Domestic Clock: Strike Removed; Hammer Merely Vibrates,12,3.0,clock
+07022238.wav,"Domestic clock with striker removed striking eleven o'clock. (No chimes, hammer merely vibrates.)",27,,EC48W,Domestic Clock: Strike Removed; Hammer Merely Vibrates,11,3.0,clock
+07022237.wav,"Domestic clock with striker removed striking ten o'clock. (No chimes, hammer merely vibrates.)",25,,EC48W,Domestic Clock: Strike Removed; Hammer Merely Vibrates,10,3.0,clock
+07022234.wav,"Domestic clock with striker removed striking seven o'clock. (No chimes, hammer merely vibrates.)",19,,EC48W,Domestic Clock: Strike Removed; Hammer Merely Vibrates,7,3.0,clock
+07022235.wav,"Domestic clock with striker removed striking eight o'clock. (No chimes, hammer merely vibrates.)",20,,EC48W,Domestic Clock: Strike Removed; Hammer Merely Vibrates,8,3.0,clock
+07022236.wav,"Domestic clock with striker removed striking nine o'clock. (No chimes, hammer merely vibrates.)",23,,EC48W,Domestic Clock: Strike Removed; Hammer Merely Vibrates,9,3.0,clock
+07022226.wav,Domestic clock striking eleven o'clock. (English domestic clock with double-strike mechanism.),32,,EC48V,English Domestic Clock: Double Strike,11,3.0,clock
+07022225.wav,Domestic clock striking ten o'clock. (English domestic clock with double-strike mechanism.),31,,EC48V,English Domestic Clock: Double Strike,10,3.0,clock
+07022224.wav,Domestic clock striking nine o'clock. (English domestic clock with double-strike mechanism.),29,,EC48V,English Domestic Clock: Double Strike,9,3.0,clock
+07022223.wav,Domestic clock striking eight o'clock. (English domestic clock with double-strike mechanism.),25,,EC48V,English Domestic Clock: Double Strike,8,3.0,clock
+07022197.wav,Cuckoo clock striking six o'clock. (Cuckoo & chimes.),10,,EC48T,Cuckoo Clock (Cuckoo & Chimes),6,3.0,clock
+07022198.wav,Cuckoo clock striking seven o'clock. (Cuckoo & chimes.),11,,EC48T,Cuckoo Clock (Cuckoo & Chimes),7,3.0,clock
+07022199.wav,Cuckoo clock striking eight o'clock. (Cuckoo & chimes.),11,,EC48T,Cuckoo Clock (Cuckoo & Chimes),8,3.0,clock
+07022200.wav,Cuckoo clock striking nine o'clock. (Cuckoo & chimes.),12,,EC48T,Cuckoo Clock (Cuckoo & Chimes),9,3.0,clock
+07022201.wav,Cuckoo clock striking ten o'clock. (Cuckoo & chimes.),14,,EC48T,Cuckoo Clock (Cuckoo & Chimes),10,3.0,clock
+07022202.wav,Cuckoo clock striking eleven o'clock. (Cuckoo & chimes.),14,,EC48T,Cuckoo Clock (Cuckoo & Chimes),11,3.0,clock
+07022203.wav,Cuckoo clock striking twelve o'clock. (Cuckoo & chimes.),15,,EC48T,Cuckoo Clock (Cuckoo & Chimes),12,3.0,clock
+07022204.wav,Cuckoo clock striking one o'clock. (Cuckoo only.),6,,EC48U,Cuckoo Clock (Cuckoo Only),1,3.0,clock
+07022205.wav,Cuckoo clock striking two o'clock. (Cuckoo only.),6,,EC48U,Cuckoo Clock (Cuckoo Only),2,3.0,clock
+07022206.wav,Cuckoo clock striking three o'clock. (Cuckoo only.),6,,EC48U,Cuckoo Clock (Cuckoo Only),3,3.0,clock
+07022207.wav,Cuckoo clock striking four o'clock. (Cuckoo only.),7,,EC48U,Cuckoo Clock (Cuckoo Only),4,3.0,clock
+07022208.wav,Cuckoo clock striking five o'clock. (Cuckoo only.),8,,EC48U,Cuckoo Clock (Cuckoo Only),5,3.0,clock
+07022195.wav,Cuckoo clock striking four o'clock. (Cuckoo & chimes.),8,,EC48T,Cuckoo Clock (Cuckoo & Chimes),4,3.0,clock
+07022209.wav,Cuckoo clock striking six o'clock. (Cuckoo only.),8,,EC48U,Cuckoo Clock (Cuckoo Only),6,3.0,clock
+07022211.wav,Cuckoo clock striking eight o'clock. (Cuckoo only.),10,,EC48U,Cuckoo Clock (Cuckoo Only),8,3.0,clock
+07022212.wav,Cuckoo clock striking nine o'clock. (Cuckoo only.),11,,EC48U,Cuckoo Clock (Cuckoo Only),9,3.0,clock
+07022213.wav,Cuckoo clock striking ten o'clock. (Cuckoo only.),11,,EC48U,Cuckoo Clock (Cuckoo Only),10,3.0,clock
+07022214.wav,Cuckoo clock striking eleven o'clock. (Cuckoo only.),12,,EC48U,Cuckoo Clock (Cuckoo Only),11,3.0,clock
+07022215.wav,Cuckoo clock striking twelve o'clock. (Cuckoo only.),13,,EC48U,Cuckoo Clock (Cuckoo Only),12,3.0,clock
+07022216.wav,Domestic clock striking one o'clock. (English domestic clock with double-strike mechanism.),13,,EC48V,English Domestic Clock: Double Strike,1,3.0,clock
+07022217.wav,Domestic clock striking two o'clock. (English domestic clock with double-strike mechanism.),14,,EC48V,English Domestic Clock: Double Strike,2,3.0,clock
+07022218.wav,Domestic clock striking three o'clock. (English domestic clock with double-strike mechanism.),17,,EC48V,English Domestic Clock: Double Strike,3,3.0,clock
+07022219.wav,Domestic clock striking four o'clock. (English domestic clock with double-strike mechanism.),18,,EC48V,English Domestic Clock: Double Strike,4,3.0,clock
+07022220.wav,Domestic clock striking five o'clock. (English domestic clock with double-strike mechanism.),20,,EC48V,English Domestic Clock: Double Strike,5,3.0,clock
+07022221.wav,Domestic clock striking six o'clock. (English domestic clock with double-strike mechanism.),21,,EC48V,English Domestic Clock: Double Strike,6,3.0,clock
+07022222.wav,Domestic clock striking seven o'clock. (English domestic clock with double-strike mechanism.),23,,EC48V,English Domestic Clock: Double Strike,7,3.0,clock
+07022210.wav,Cuckoo clock striking seven o'clock. (Cuckoo only.),9,,EC48U,Cuckoo Clock (Cuckoo Only),7,3.0,clock
+07022132.wav,"Domestic clock striking six o'clock. (English domestic clock, manufactured 1810.)",32,,EC48L,"Domestic Clock (English, 1810)",12,3.0,clock
+07022131.wav,"Domestic clock striking five o'clock. (English domestic clock, manufactured 1810.)",30,,EC48L,"Domestic Clock (English, 1810)",11,3.0,clock
+07022130.wav,"Domestic clock striking four o'clock. (English domestic clock, manufactured 1810.)",29,,EC48L,"Domestic Clock (English, 1810)",10,3.0,clock
+07022073.wav,Domestic clock striking ten o'clock. (Domestic clock with heavy gong.),31,,EC48G,Domestic Clock (Heavy Gong),1,3.0,clock
+07022074.wav,Domestic clock striking eleven o'clock. (Domestic clock with heavy gong.),32,,EC48G,Domestic Clock (Heavy Gong),2,3.0,clock
+07022075.wav,Domestic clock striking twelve o'clock. (Domestic clock with heavy gong.),34,,EC48G,Domestic Clock (Heavy Gong),3,3.0,clock
+07022076.wav,Domestic clock striking one o'clock. (Domestic clock with heavy gong.),13,,EC48G,Domestic Clock (Heavy Gong),4,3.0,clock
+07022077.wav,Domestic clock striking two o'clock. (Domestic clock with heavy gong.),16,,EC48G,Domestic Clock (Heavy Gong),5,3.0,clock
+07022078.wav,Domestic clock striking three o'clock. (Domestic clock with heavy gong.),17,,EC48G,Domestic Clock (Heavy Gong),6,3.0,clock
+07022079.wav,Domestic clock striking four o'clock. (Domestic clock with heavy gong.),20,,EC48G,Domestic Clock (Heavy Gong),7,3.0,clock
+07022080.wav,Domestic clock striking five o'clock. (Domestic clock with heavy gong.),21,,EC48G,Domestic Clock (Heavy Gong),8,3.0,clock
+07022081.wav,Domestic clock striking six o'clock. (Domestic clock with heavy gong.),23,,EC48G,Domestic Clock (Heavy Gong),9,3.0,clock
+07022082.wav,Domestic clock striking seven o'clock. (Domestic clock with heavy gong.),25,,EC48G,Domestic Clock (Heavy Gong),10,3.0,clock
+07022083.wav,Domestic clock striking eight o'clock. (Domestic clock with heavy gong.),26,,EC48G,Domestic Clock (Heavy Gong),11,3.0,clock
+07022084.wav,Domestic clock striking nine o'clock. (Domestic clock with heavy gong.),29,,EC48G,Domestic Clock (Heavy Gong),12,3.0,clock
+07022085.wav,Domestic clock striking ten o'clock. (Domestic clock with double-strike mechanism.),23,,EC48H,Domestic Clock (Bell: Double-Strike),1,3.0,clock
+07022086.wav,Domestic clock striking eleven o'clock. (Domestic clock with double-strike mechanism.),23,,EC48H,Domestic Clock (Bell: Double-Strike),2,3.0,clock
+07022087.wav,Domestic clock striking twelve o'clock. (Domestic clock with double-strike mechanism.),24,,EC48H,Domestic Clock (Bell: Double-Strike),3,3.0,clock
+07022088.wav,Domestic clock striking one o'clock. (Domestic clock with double-strike mechanism.),11,,EC48H,Domestic Clock (Bell: Double-Strike),4,3.0,clock
+07022089.wav,Domestic clock striking two o'clock. (Domestic clock with double-strike mechanism.),12,,EC48H,Domestic Clock (Bell: Double-Strike),5,3.0,clock
+07022090.wav,Domestic clock striking three o'clock. (Domestic clock with double-strike mechanism.),13,,EC48H,Domestic Clock (Bell: Double-Strike),6,3.0,clock
+07022091.wav,Domestic clock striking four o'clock. (Domestic clock with double-strike mechanism.),15,,EC48H,Domestic Clock (Bell: Double-Strike),7,3.0,clock
+07022092.wav,Domestic clock striking five o'clock. (Domestic clock with double-strike mechanism.),16,,EC48H,Domestic Clock (Bell: Double-Strike),8,3.0,clock
+07022093.wav,Domestic clock striking six o'clock. (Domestic clock with double-strike mechanism.),17,,EC48H,Domestic Clock (Bell: Double-Strike),9,3.0,clock
+07022094.wav,Domestic clock striking seven o'clock. (Domestic clock with double-strike mechanism.),18,,EC48H,Domestic Clock (Bell: Double-Strike),10,3.0,clock
+07022095.wav,Domestic clock striking eight o'clock. (Domestic clock with double-strike mechanism.),19,,EC48H,Domestic Clock (Bell: Double-Strike),11,3.0,clock
+07022096.wav,Domestic clock striking nine o'clock. (Domestic clock with double-strike mechanism.),21,,EC48H,Domestic Clock (Bell: Double-Strike),12,3.0,clock
+07022097.wav,Domestic clock striking ten o'clock. (Domestic clock with heavy double-strike mechanism.),32,,EC48J,Domestic Clock: Double-Strike (Heavy Mechanism),1,3.0,clock
+07022072.wav,Domestic clock striking nine o'clock. (Mid-perspective recording of domestic clock with bell.),24,,EC48F,Domestic Clock (Bell: Mid-Perspective),12,3.0,clock
+07022071.wav,Domestic clock striking eight o'clock. (Mid-perspective recording of domestic clock with bell.),21,,EC48F,Domestic Clock (Bell: Mid-Perspective),11,3.0,clock
+07022070.wav,Domestic clock striking seven o'clock. (Mid-perspective recording of domestic clock with bell.),19,,EC48F,Domestic Clock (Bell: Mid-Perspective),10,3.0,clock
+07070144.wav,Grandfather clock (1710) - strikes 12,28,Clocks: Grandfather,ECD104,Time - Clocks & Bells,1,3.0,clock
+07016222.wav,Christchurch College clock striking one o'clock.,31,,EC36W,"Christchurch College Clock, Oxford",4,3.0,clock
+07016223.wav,Christchurch College clock striking two o'clock.,29,,EC36W,"Christchurch College Clock, Oxford",5,3.0,clock
+07016224.wav,Christchurch College clock striking three o'clock.,33,,EC36W,"Christchurch College Clock, Oxford",6,3.0,clock
+07016225.wav,Christchurch College clock striking four o'clock.,37,,EC36W,"Christchurch College Clock, Oxford",7,3.0,clock
+07016226.wav,Christchurch College clock striking five o'clock.,40,,EC36W,"Christchurch College Clock, Oxford",8,3.0,clock
+07016227.wav,Christchurch College clock striking six o'clock.,44,,EC36W,"Christchurch College Clock, Oxford",9,3.0,clock
+07016228.wav,Christchurch College clock striking seven o'clock.,48,,EC36W,"Christchurch College Clock, Oxford",10,3.0,clock
+07016229.wav,Christchurch College clock striking eight o'clock.,51,,EC36W,"Christchurch College Clock, Oxford",11,3.0,clock
+07002213.wav,"Outdoor clock striking, chimes & 3 o'clock  SS. Peter & Paul ",46,,EC105Q,Outdoor Clock,6,3.0,clock
+07016231.wav,Christchurch College clock striking ten o'clock.,58,,EC36X,"Christchurch College Clock, Oxford",2,3.0,clock
+07016232.wav,Christchurch College clock striking eleven o'clock.,62,,EC36X,"Christchurch College Clock, Oxford",3,3.0,clock
+07016233.wav,Christchurch College clock striking twelve o'clock.,66,,EC36X,"Christchurch College Clock, Oxford",4,3.0,clock
+07022098.wav,Domestic clock striking eleven o'clock. (Domestic clock with heavy double-strike mechanism.),34,,EC48J,Domestic Clock: Double-Strike (Heavy Mechanism),2,3.0,clock
+07016234.wav,"Big Tom, bell in Christchurch College clock, striking 101 times.",291,,EC36X,"Christchurch College Clock, Oxford",5,3.0,clock
+07022065.wav,Domestic clock striking two o'clock. (Mid-perspective recording of domestic clock with bell.),11,,EC48F,Domestic Clock (Bell: Mid-Perspective),5,3.0,clock
+07022066.wav,Domestic clock striking three o'clock. (Mid-perspective recording of domestic clock with bell.),12,,EC48F,Domestic Clock (Bell: Mid-Perspective),6,3.0,clock
+07022067.wav,Domestic clock striking four o'clock. (Mid-perspective recording of domestic clock with bell.),14,,EC48F,Domestic Clock (Bell: Mid-Perspective),7,3.0,clock
+07022068.wav,Domestic clock striking five o'clock. (Mid-perspective recording of domestic clock with bell.),16,,EC48F,Domestic Clock (Bell: Mid-Perspective),8,3.0,clock
+07022069.wav,Domestic clock striking six o'clock. (Mid-perspective recording of domestic clock with bell.),18,,EC48F,Domestic Clock (Bell: Mid-Perspective),9,3.0,clock
+07070158.wav,French clock (late 19th Century) - strikes 12,18,Clocks: Striking,ECD104,Time - Clocks & Bells,15,3.0,clock
+07070156.wav,English Walnut clock (1700) - strikes 12,16,Clocks: Striking,ECD104,Time - Clocks & Bells,13,3.0,clock
+07070154.wav,Cuckoo clock (1820) - strikes 12,34,Clocks: Cuckoo,ECD104,Time - Clocks & Bells,11,3.0,clock
+07070153.wav,Bracket clock (1740) with gong - strikes 12,23,Clocks: Gong,ECD104,Time - Clocks & Bells,10,3.0,clock
+07070148.wav,Bracket clock (1920) with Westminster chimes - strikes 12,59,Clocks: Chiming,ECD104,Time - Clocks & Bells,5,3.0,clock
+07070146.wav,Grandfather clock (1850) - strikes 12 (rapid),18,Clocks: Grandfather,ECD104,Time - Clocks & Bells,3,3.0,clock
+07070145.wav,Grandfather clock (1750) - strikes 12,40,Clocks: Grandfather,ECD104,Time - Clocks & Bells,2,3.0,clock
+07022064.wav,Domestic clock striking one o'clock. (Mid-perspective recording of domestic clock with bell.),8,,EC48F,Domestic Clock (Bell: Mid-Perspective),4,3.0,clock
+07022099.wav,Domestic clock striking twelve o'clock. (Domestic clock with heavy double-strike mechanism.),37,,EC48J,Domestic Clock: Double-Strike (Heavy Mechanism),3,3.0,clock
+07022100.wav,Domestic clock striking one o'clock. (Domestic clock with heavy double-strike mechanism.),15,,EC48J,Domestic Clock: Double-Strike (Heavy Mechanism),4,3.0,clock
+07032129.wav,Emmanuel College clock striking one o'clock.,23,,EC212A,"Emmanuel College Clock, Cambridge",1,3.0,clock
+07022104.wav,Domestic clock striking five o'clock. (Domestic clock with heavy double-strike mechanism.),23,,EC48J,Domestic Clock: Double-Strike (Heavy Mechanism),8,3.0,clock
+07022105.wav,Domestic clock striking six o'clock. (Domestic clock with heavy double-strike mechanism.),25,,EC48J,Domestic Clock: Double-Strike (Heavy Mechanism),9,3.0,clock
+07022106.wav,Domestic clock striking seven o'clock. (Domestic clock with heavy double-strike mechanism.),26,,EC48J,Domestic Clock: Double-Strike (Heavy Mechanism),10,3.0,clock
+07022107.wav,Domestic clock striking eight o'clock. (Domestic clock with heavy double-strike mechanism.),28,,EC48J,Domestic Clock: Double-Strike (Heavy Mechanism),11,3.0,clock
+07022108.wav,Domestic clock striking nine o'clock. (Domestic clock with heavy double-strike mechanism.),30,,EC48J,Domestic Clock: Double-Strike (Heavy Mechanism),12,3.0,clock
+07022109.wav,Domestic clock striking ten o'clock. (Domestic clock with double-strike on wood.),24,,EC48K,Domestic Clock (Double-Strike On Wood),1,3.0,clock
+07022110.wav,Domestic clock striking eleven o'clock. (Domestic clock with double-strike on wood.),26,,EC48K,Domestic Clock (Double-Strike On Wood),2,3.0,clock
+07022111.wav,Domestic clock striking twelve o'clock. (Domestic clock with double-strike on wood.),28,,EC48K,Domestic Clock (Double-Strike On Wood),3,3.0,clock
+07022112.wav,Domestic clock striking one o'clock. (Domestic clock with double-strike on wood.),6,,EC48K,Domestic Clock (Double-Strike On Wood),4,3.0,clock
+07022113.wav,Domestic clock striking two o'clock. (Domestic clock with double-strike on wood.),7,,EC48K,Domestic Clock (Double-Strike On Wood),5,3.0,clock
+07022114.wav,Domestic clock striking three o'clock. (Domestic clock with double-strike on wood.),10,,EC48K,Domestic Clock (Double-Strike On Wood),6,3.0,clock
+07022115.wav,Domestic clock striking four o'clock. (Domestic clock with double-strike on wood.),12,,EC48K,Domestic Clock (Double-Strike On Wood),7,3.0,clock
+07022103.wav,Domestic clock striking four o'clock. (Domestic clock with heavy double-strike mechanism.),20,,EC48J,Domestic Clock: Double-Strike (Heavy Mechanism),7,3.0,clock
+07022116.wav,Domestic clock striking five o'clock. (Domestic clock with double-strike on wood.),14,,EC48K,Domestic Clock (Double-Strike On Wood),8,3.0,clock
+07022118.wav,Domestic clock striking seven o'clock. (Domestic clock with double-strike on wood.),18,,EC48K,Domestic Clock (Double-Strike On Wood),10,3.0,clock
+07022119.wav,Domestic clock striking eight o'clock. (Domestic clock with double-strike on wood.),20,,EC48K,Domestic Clock (Double-Strike On Wood),11,3.0,clock
+07022120.wav,Domestic clock striking nine o'clock. (Domestic clock with double-strike on wood.),22,,EC48K,Domestic Clock (Double-Strike On Wood),12,3.0,clock
+07022121.wav,"Domestic clock striking quarter past the hour. (English domestic clock, manufactured 1810.)",23,,EC48L,"Domestic Clock (English, 1810)",1,3.0,clock
+07022122.wav,"Domestic clock striking half past the hour. (English domestic clock, manufactured 1810.)",27,,EC48L,"Domestic Clock (English, 1810)",2,3.0,clock
+07022123.wav,"Domestic clock striking quarter to the hour. (English domestic clock, manufactured 1810.)",34,,EC48L,"Domestic Clock (English, 1810)",3,3.0,clock
+07022124.wav,"Domestic clock striking ten o'clock. (English domestic clock, manufactured 1810.)",36,,EC48L,"Domestic Clock (English, 1810)",4,3.0,clock
+07022125.wav,"Domestic clock striking eleven o'clock. (English domestic clock, manufactured 1810.)",37,,EC48L,"Domestic Clock (English, 1810)",5,3.0,clock
+07022126.wav,"Domestic clock striking twelve o'clock. (English domestic clock, manufactured 1810.)",38,,EC48L,"Domestic Clock (English, 1810)",6,3.0,clock
+07022127.wav,"Domestic clock striking one o'clock. (English domestic clock, manufactured 1810.)",26,,EC48L,"Domestic Clock (English, 1810)",7,3.0,clock
+07022128.wav,"Domestic clock striking two o'clock. (English domestic clock, manufactured 1810.)",27,,EC48L,"Domestic Clock (English, 1810)",8,3.0,clock
+07022129.wav,"Domestic clock striking three o'clock. (English domestic clock, manufactured 1810.)",28,,EC48L,"Domestic Clock (English, 1810)",9,3.0,clock
+07022117.wav,Domestic clock striking six o'clock. (Domestic clock with double-strike on wood.),16,,EC48K,Domestic Clock (Double-Strike On Wood),9,3.0,clock
+07016220.wav,New College clock striking eleven o'clock.,58,,EC36W,"Christchurch College Clock, Oxford",2,3.0,clock
+07032157.wav,Christ's College clock striking twelve o'clock.,44,,EC212C,"Christ’S College Clock, Cambridge",12,3.0,clock
+07032155.wav,Christ's College clock striking ten o'clock.,41,,EC212C,"Christ’S College Clock, Cambridge",10,3.0,clock
+07032130.wav,Emmanuel College clock striking two o'clock.,24,,EC212A,"Emmanuel College Clock, Cambridge",2,3.0,clock
+07032131.wav,Emmanuel College clock striking three o'clock.,27,,EC212A,"Emmanuel College Clock, Cambridge",3,3.0,clock
+07032132.wav,Emmanuel College clock striking four o'clock.,29,,EC212A,"Emmanuel College Clock, Cambridge",4,3.0,clock
+07032133.wav,Emmanuel College clock striking five o'clock.,31,,EC212A,"Emmanuel College Clock, Cambridge",5,3.0,clock
+07032134.wav,Emmanuel College clock striking six o'clock.,33,,EC212A,"Emmanuel College Clock, Cambridge",6,3.0,clock
+07032135.wav,Emmanuel College clock striking seven o'clock.,36,,EC212A,"Emmanuel College Clock, Cambridge",7,3.0,clock
+07032136.wav,Emmanuel College clock striking eight o'clock.,38,,EC212A,"Emmanuel College Clock, Cambridge",8,3.0,clock
+07032137.wav,Emmanuel College clock striking nine o'clock.,40,,EC212A,"Emmanuel College Clock, Cambridge",9,3.0,clock
+07032138.wav,Emmanuel College clock striking ten o'clock.,44,,EC212A,"Emmanuel College Clock, Cambridge",10,3.0,clock
+07032139.wav,Emmanuel College clock striking eleven o'clock.,45,,EC212A,"Emmanuel College Clock, Cambridge",11,3.0,clock
+07032140.wav,Emmanuel College clock striking twelve o'clock.,49,,EC212A,"Emmanuel College Clock, Cambridge",12,3.0,clock
+07032141.wav,"Emmanuel College clock striking twelve o'clock, into general background. (Recorded in quadrangle.)",214,,EC212B,Cambridge,1,3.0,clock
+07032156.wav,Christ's College clock striking eleven o'clock.,42,,EC212C,"Christ’S College Clock, Cambridge",11,3.0,clock
+07032142.wav,Christ's College clock striking quarter past the hour.,11,,EC212B,Cambridge,2,3.0,clock
+07032144.wav,Christ's College clock striking quarter to the hour.,14,,EC212B,Cambridge,4,3.0,clock
+07032146.wav,Christ's College clock striking one o'clock.,23,,EC212C,"Christ’S College Clock, Cambridge",1,3.0,clock
+07032147.wav,Christ's College clock striking two o'clock.,28,,EC212C,"Christ’S College Clock, Cambridge",2,3.0,clock
+07032148.wav,Christ's College clock striking three o'clock.,30,,EC212C,"Christ’S College Clock, Cambridge",3,3.0,clock
+07032149.wav,Christ's College clock striking four o'clock.,32,,EC212C,"Christ’S College Clock, Cambridge",4,3.0,clock
+07032150.wav,Christ's College clock striking five o'clock.,34,,EC212C,"Christ’S College Clock, Cambridge",5,3.0,clock
+07032151.wav,Christ's College clock striking six o'clock.,34,,EC212C,"Christ’S College Clock, Cambridge",6,3.0,clock
+07022101.wav,Domestic clock striking two o'clock. (Domestic clock with heavy double-strike mechanism.),17,,EC48J,Domestic Clock: Double-Strike (Heavy Mechanism),5,3.0,clock
+07032152.wav,Christ's College clock striking seven o'clock.,36,,EC212C,"Christ’S College Clock, Cambridge",7,3.0,clock
+07022102.wav,Domestic clock striking three o'clock. (Domestic clock with heavy double-strike mechanism.),19,,EC48J,Domestic Clock: Double-Strike (Heavy Mechanism),6,3.0,clock
+07032153.wav,Christ's College clock striking eight o'clock.,37,,EC212C,"Christ’S College Clock, Cambridge",8,3.0,clock
+07032154.wav,Christ's College clock striking nine o'clock.,39,,EC212C,"Christ’S College Clock, Cambridge",9,3.0,clock
+07032143.wav,Christ's College clock striking half past the hour.,13,,EC212B,Cambridge,3,3.0,clock
+07002212.wav,"Outdoor clock striking, chimes & 2 o'clock  SS. Peter & Paul ",45,,EC105Q,Outdoor Clock,5,3.0,clock
+07002245.wav,Osterley House Clock striking 7 o'clock,23,,EC105T,Osterley House Clock,7,3.0,clock
+07002210.wav,"Outdoor clock striking, three-quarters - SS. Peter & Paul ",37,,EC105Q,Outdoor Clock,3,3.0,clock
+07022015.wav,Domestic clock striking twelve o'clock. (Domestic clock with single-strike mechanism.),38,,EC48B,Domestic Clock,3,3.0,clock
+07022016.wav,Domestic clock striking one o'clock. (Domestic clock with single-strike mechanism.),13,,EC48B,Domestic Clock,4,3.0,clock
+07022017.wav,Domestic clock striking two o'clock. (Domestic clock with single-strike mechanism.),16,,EC48B,Domestic Clock,5,3.0,clock
+07022018.wav,Domestic clock striking three o'clock. (Domestic clock with single-strike mechanism.),16,,EC48B,Domestic Clock,6,3.0,clock
+07022019.wav,Domestic clock striking four o'clock. (Domestic clock with single-strike mechanism.),20,,EC48B,Domestic Clock,7,3.0,clock
+07022020.wav,Domestic clock striking five o'clock. (Domestic clock with single-strike mechanism.),22,,EC48B,Domestic Clock,8,3.0,clock
+07022021.wav,Domestic clock striking six o'clock. (Domestic clock with single-strike mechanism.),24,,EC48B,Domestic Clock,9,3.0,clock
+07022022.wav,Domestic clock striking seven o'clock. (Domestic clock with single-strike mechanism.),26,,EC48B,Domestic Clock,10,3.0,clock
+07022023.wav,Domestic clock striking eight o'clock. (Domestic clock with single-strike mechanism.),28,,EC48B,Domestic Clock,11,3.0,clock
+07022024.wav,Domestic clock striking nine o'clock. (Domestic clock with single-strike mechanism.),30,,EC48B,Domestic Clock,12,3.0,clock
+07022025.wav,Domestic clock striking ten o'clock. (Domestic clock with bell.),20,,EC48C,Domestic Clock (Bell),1,3.0,clock
+07022026.wav,Domestic clock striking eleven o'clock. (Domestic clock with bell.),21,,EC48C,Domestic Clock (Bell),2,3.0,clock
+07016042.wav,Queens College clock striking nine o'clock.,46,,EC36E,"University Of St. Mary The Virgin Church Clock, Oxford",1,3.0,clock
+07016043.wav,Queens College clock striking ten o'clock.,51,,EC36E,"University Of St. Mary The Virgin Church Clock, Oxford",2,3.0,clock
+07022027.wav,Domestic clock striking twelve o'clock. (Domestic clock with bell.),23,,EC48C,Domestic Clock (Bell),3,3.0,clock
+07016044.wav,Queens College clock striking eleven o'clock.,52,,EC36E,"University Of St. Mary The Virgin Church Clock, Oxford",3,3.0,clock
+07016045.wav,Queens College clock striking twelve o'clock.,56,,EC36E,"University Of St. Mary The Virgin Church Clock, Oxford",4,3.0,clock
+07022014.wav,Domestic clock striking eleven o'clock. (Domestic clock with single-strike mechanism.),35,,EC48B,Domestic Clock,2,3.0,clock
+07016046.wav,"Clock of the University Church of St Mary the Virgin, Oxford striking quarter past the hour.",12,,EC36E,"University Of St. Mary The Virgin Church Clock, Oxford",5,3.0,clock
+07022013.wav,Domestic clock striking ten o'clock. (Domestic clock with single-strike mechanism.),33,,EC48B,Domestic Clock,1,3.0,clock
+07022011.wav,Domestic clock striking eight o'clock. (Domestic clock with double-strike mechanism.),32,,EC48A,Domestic Clock: Double-Strike,11,3.0,clock
+07042236.wav,Domestic chiming clock striking 3 o'clock.,44,,ECD003,Household,6,3.0,clock
+07042235.wav,Domestic chiming clock striking 1 o'clock.,39,,ECD003,Household,5,3.0,clock
+07042234.wav,Domestic chiming clock striking 12 o'clock.,53,,ECD003,Household,4,3.0,clock
+07042233.wav,Domestic chiming clock striking quarter to the hour.,34,,ECD003,Household,3,3.0,clock
+07042232.wav,Domestic chiming clock striking half past the hour.,30,,ECD003,Household,2,3.0,clock
+07042231.wav,Domestic chiming clock striking quarter past the hour.,30,,ECD003,Household,1,3.0,clock
+07002211.wav,"Outdoor clock striking, chimes & 1 o'clock  SS. Peter & Paul ",39,,EC105Q,Outdoor Clock,4,3.0,clock
+07022001.wav,Domestic clock striking ten o'clock. (Domestic clock with double-strike mechanism.),37,,EC48A,Domestic Clock: Double-Strike,1,3.0,clock
+07022002.wav,Domestic clock striking eleven o'clock. (Domestic clock with double-strike mechanism.),40,,EC48A,Domestic Clock: Double-Strike,2,3.0,clock
+07022003.wav,Domestic clock striking twelve o'clock. (Domestic clock with double-strike mechanism.),43,,EC48A,Domestic Clock: Double-Strike,3,3.0,clock
+07022004.wav,Domestic clock striking one o'clock. (Domestic clock with double-strike mechanism.),15,,EC48A,Domestic Clock: Double-Strike,4,3.0,clock
+07022005.wav,Domestic clock striking two o'clock. (Domestic clock with double-strike mechanism.),18,,EC48A,Domestic Clock: Double-Strike,5,3.0,clock
+07022006.wav,Domestic clock striking three o'clock. (Domestic clock with double-strike mechanism.),20,,EC48A,Domestic Clock: Double-Strike,6,3.0,clock
+07022007.wav,Domestic clock striking four o'clock. (Domestic clock with double-strike mechanism.),23,,EC48A,Domestic Clock: Double-Strike,7,3.0,clock
+07022008.wav,Domestic clock striking five o'clock. (Domestic clock with double-strike mechanism.),27,,EC48A,Domestic Clock: Double-Strike,8,3.0,clock
+07022009.wav,Domestic clock striking six o'clock. (Domestic clock with double-strike mechanism.),37,,EC48A,Domestic Clock: Double-Strike,9,3.0,clock
+07022010.wav,Domestic clock striking seven o'clock. (Domestic clock with double-strike mechanism.),30,,EC48A,Domestic Clock: Double-Strike,10,3.0,clock
+07022012.wav,Domestic clock striking nine o'clock. (Domestic clock with double-strike mechanism.),35,,EC48A,Domestic Clock: Double-Strike,12,3.0,clock
+07042237.wav,Domestic chiming clock striking 6 o'clock.,47,,ECD003,Household,7,3.0,clock
+07016047.wav,"Clock of the University Church of St Mary the Virgin, Oxford striking half past the hour.",17,,EC36E,"University Of St. Mary The Virgin Church Clock, Oxford",6,3.0,clock
+07016049.wav,"Clock of the University Church of St Mary the Virgin, Oxford striking one o'clock.",30,,EC36E,"University Of St. Mary The Virgin Church Clock, Oxford",8,3.0,clock
+07016064.wav,Trinity College clock striking one o'clock.,18,,EC36G,"Trinity College Clock, Oxford",4,3.0,clock
+07016065.wav,Trinity College clock striking two o'clock.,20,,EC36G,"Trinity College Clock, Oxford",5,3.0,clock
+07016066.wav,Trinity College clock striking three o'clock.,23,,EC36G,"Trinity College Clock, Oxford",6,3.0,clock
+07016067.wav,Trinity College clock striking four o'clock.,24,,EC36G,"Trinity College Clock, Oxford",7,3.0,clock
+07016068.wav,Trinity College clock striking five o'clock.,26,,EC36G,"Trinity College Clock, Oxford",8,3.0,clock
+07016069.wav,Trinity College clock striking six o'clock.,28,,EC36G,"Trinity College Clock, Oxford",9,3.0,clock
+07016070.wav,Trinity College clock striking seven o'clock.,30,,EC36G,"Trinity College Clock, Oxford",10,3.0,clock
+07016071.wav,Trinity College clock striking eight o'clock.,33,,EC36G,"Trinity College Clock, Oxford",11,3.0,clock
+07016072.wav,Trinity College clock striking nine o'clock.,35,,EC36H,Oxford College Clocks Ticking,1,3.0,clock
+07022036.wav,Domestic clock striking nine o'clock. (Domestic clock with bell.),19,,EC48C,Domestic Clock (Bell),12,3.0,clock
+07016073.wav,Trinity College clock striking ten o'clock.,36,,EC36H,Oxford College Clocks Ticking,2,3.0,clock
+07016074.wav,Trinity College clock striking eleven o'clock.,38,,EC36H,Oxford College Clocks Ticking,3,3.0,clock
+07016075.wav,Trinity College clock striking twelve o'clock.,40,,EC36H,Oxford College Clocks Ticking,4,3.0,clock
+07016076.wav,Trinity College clock ticking.,184,,EC36H,Oxford College Clocks Ticking,5,3.0,clock
+07016077.wav,Oriel College clock ticking.,166,,EC36H,Oxford College Clocks Ticking,6,3.0,clock
+07016078.wav,Oriel College clock striking ten o'clock.,24,,EC36J,"Oriel College Clock, Oxford",1,3.0,clock
+07016079.wav,Oriel College clock striking eleven o'clock.,25,,EC36J,"Oriel College Clock, Oxford",2,3.0,clock
+07016063.wav,Trinity College clock striking quarter to the hour.,14,,EC36G,"Trinity College Clock, Oxford",3,3.0,clock
+07016048.wav,"Clock of the University Church of St Mary the Virgin, Oxford striking quarter to the hour.",18,,EC36E,"University Of St. Mary The Virgin Church Clock, Oxford",7,3.0,clock
+07016062.wav,Trinity College clock striking half past the hour.,10,,EC36G,"Trinity College Clock, Oxford",2,3.0,clock
+07016060.wav,"Clock of the University Church of St Mary the Virgin, Oxford striking twelve o'clock.",62,,EC36F,"University Of St. Mary The Virgin Church Clock, Oxford",9,3.0,clock
+07016050.wav,"Clock of the University Church of St Mary the Virgin, Oxford striking two o'clock.",33,,EC36E,"University Of St. Mary The Virgin Church Clock, Oxford",9,3.0,clock
+07016051.wav,"Clock of the University Church of St Mary the Virgin, Oxford striking three o'clock.",36,,EC36E,"University Of St. Mary The Virgin Church Clock, Oxford",10,3.0,clock
+07016052.wav,"Clock of the University Church of St Mary the Virgin, Oxford striking four o'clock.",39,,EC36F,"University Of St. Mary The Virgin Church Clock, Oxford",1,3.0,clock
+07016053.wav,"Clock of the University Church of St Mary the Virgin, Oxford striking five o'clock.",41,,EC36F,"University Of St. Mary The Virgin Church Clock, Oxford",2,3.0,clock
+07016054.wav,"Clock of the University Church of St Mary the Virgin, Oxford striking six o'clock.",44,,EC36F,"University Of St. Mary The Virgin Church Clock, Oxford",3,3.0,clock
+07016055.wav,"Clock of the University Church of St Mary the Virgin, Oxford striking seven o'clock.",48,,EC36F,"University Of St. Mary The Virgin Church Clock, Oxford",4,3.0,clock
+07016056.wav,"Clock of the University Church of St Mary the Virgin, Oxford striking eight o'clock.",50,,EC36F,"University Of St. Mary The Virgin Church Clock, Oxford",5,3.0,clock
+07016057.wav,"Clock of the University Church of St Mary the Virgin, Oxford striking nine o'clock.",52,,EC36F,"University Of St. Mary The Virgin Church Clock, Oxford",6,3.0,clock
+07016058.wav,"Clock of the University Church of St Mary the Virgin, Oxford striking ten o'clock.",56,,EC36F,"University Of St. Mary The Virgin Church Clock, Oxford",7,3.0,clock
+07016059.wav,"Clock of the University Church of St Mary the Virgin, Oxford striking eleven o'clock.",59,,EC36F,"University Of St. Mary The Virgin Church Clock, Oxford",8,3.0,clock
+07022028.wav,Domestic clock striking one o'clock. (Domestic clock with bell.),7,,EC48C,Domestic Clock (Bell),4,3.0,clock
+07022030.wav,Domestic clock striking three o'clock. (Domestic clock with bell.),11,,EC48C,Domestic Clock (Bell),6,3.0,clock
+07022031.wav,Domestic clock striking four o'clock. (Domestic clock with bell.),13,,EC48C,Domestic Clock (Bell),7,3.0,clock
+07022032.wav,Domestic clock striking five o'clock. (Domestic clock with bell.),14,,EC48C,Domestic Clock (Bell),8,3.0,clock
+07022033.wav,Domestic clock striking six o'clock. (Domestic clock with bell.),15,,EC48C,Domestic Clock (Bell),9,3.0,clock
+07022034.wav,Domestic clock striking seven o'clock. (Domestic clock with bell.),16,,EC48C,Domestic Clock (Bell),10,3.0,clock
+07022035.wav,Domestic clock striking eight o'clock. (Domestic clock with bell.),18,,EC48C,Domestic Clock (Bell),11,3.0,clock
+07016061.wav,Trinity College clock striking quarter past the hour.,10,,EC36G,"Trinity College Clock, Oxford",1,3.0,clock
+07042238.wav,Domestic chiming clock ticking.,242,,ECD003,Household,8,3.0,clock
+07042239.wav,Domestic alarm clock ticking.,286,,ECD003,Household,9,3.0,clock
+07042278.wav,Big Ben chiming & striking 12 o'clock.,84,,ECD014,London,1,3.0,clock
+07016016.wav,Merton College clock striking quarter past the hour.,21,,EC36B,"Merton College Clock, Oxford",5,3.0,clock
+07016017.wav,Merton College clock striking half past the hour.,27,,EC36B,"Merton College Clock, Oxford",6,3.0,clock
+07016018.wav,Merton College clock striking quarter to the hour.,34,,EC36B,"Merton College Clock, Oxford",7,3.0,clock
+07016019.wav,Merton College clock striking one o'clock.,48,,EC36B,"Merton College Clock, Oxford",8,3.0,clock
+07016020.wav,Merton College clock striking two o'clock.,50,,EC36B,"Merton College Clock, Oxford",9,3.0,clock
+07016021.wav,Merton College clock striking three o'clock.,54,,EC36B,"Merton College Clock, Oxford",10,3.0,clock
+07039177.wav,Bracket clock striking nine o'clock.,20,,EC1004C,,9,3.0,clock
+07039176.wav,Bracket clock striking eight o'clock.,18,,EC1004C,,8,3.0,clock
+07039175.wav,Bracket clock striking seven o'clock.,17,,EC1004C,,7,3.0,clock
+07039174.wav,Bracket clock striking six o'clock.,18,,EC1004C,,6,3.0,clock
+07039173.wav,Bracket clock striking five o'clock.,13,,EC1004C,,5,3.0,clock
+07039172.wav,Bracket clock striking four o'clock.,14,,EC1004C,,4,3.0,clock
+07039171.wav,Bracket clock striking three o'clock.,13,,EC1004C,,3,3.0,clock
+07039170.wav,Bracket clock striking two o'clock.,14,,EC1004C,,2,3.0,clock
+07039169.wav,Bracket clock striking one o'clock.,11,,EC1004C,,1,3.0,clock
+07039168.wav,Tompion & Banger household clock striking twelve o'clock.,38,,EC1004B,,12,3.0,clock
+07039167.wav,Tompion & Banger household clock striking eleven o'clock.,37,,EC1004B,,11,3.0,clock
+07016015.wav,Magdalen College clock striking twelve o'clock.,62,,EC36B,"Merton College Clock, Oxford",4,3.0,clock
+07039166.wav,Tompion & Banger household clock striking ten o'clock.,37,,EC1004B,,10,3.0,clock
+07016014.wav,Magdalen College clock striking eleven o'clock.,60,,EC36B,"Merton College Clock, Oxford",3,3.0,clock
+07016012.wav,Magdalen College clock striking nine o'clock.,54,,EC36B,"Merton College Clock, Oxford",1,3.0,clock
+07039187.wav,Dunedin Town Hall clock striking & chiming twelve o'clock.,63,,EC1004D,,7,3.0,clock
+07039186.wav,"St Magnus' Cathedral, Kirkwall clock striking twelve o'clock. ",42,,EC1004D,,6,3.0,clock
+07039182.wav,Lerwick Town Hall clock striking & chiming twelve o'clock.,64,,EC1004D,,2,3.0,clock
+07039180.wav,Bracket clock striking twelve o'clock.,21,,EC1004C,,12,3.0,clock
+07039179.wav,Bracket clock striking eleven o'clock.,21,,EC1004C,,11,3.0,clock
+07039178.wav,Bracket clock striking ten o'clock.,22,,EC1004C,,10,3.0,clock
+07016001.wav,Magdalen College clock striking quarter past the hour.,17,,EC36A,"Magdalen College Clock, Oxford",1,3.0,clock
+07016002.wav,Magdalen College clock striking half past the hour.,18,,EC36A,"Magdalen College Clock, Oxford",2,3.0,clock
+07016003.wav,Magdalen College clock striking quarter to the hour.,22,,EC36A,"Magdalen College Clock, Oxford",3,3.0,clock
+07016004.wav,Magdalen College clock striking one o'clock.,32,,EC36A,"Magdalen College Clock, Oxford",4,3.0,clock
+07016005.wav,Magdalen College clock striking two o'clock.,35,,EC36A,"Magdalen College Clock, Oxford",5,3.0,clock
+07016006.wav,Magdalen College clock striking three o'clock.,37,,EC36A,"Magdalen College Clock, Oxford",6,3.0,clock
+07016007.wav,Magdalen College clock striking four o'clock.,40,,EC36A,"Magdalen College Clock, Oxford",7,3.0,clock
+07016008.wav,Magdalen College clock striking five o'clock.,42,,EC36A,"Magdalen College Clock, Oxford",8,3.0,clock
+07016009.wav,Magdalen College clock striking six o'clock.,44,,EC36A,"Magdalen College Clock, Oxford",9,3.0,clock
+07016010.wav,Magdalen College clock striking seven o'clock.,47,,EC36A,"Magdalen College Clock, Oxford",10,3.0,clock
+07016011.wav,Magdalen College clock striking eight o'clock.,51,,EC36A,"Magdalen College Clock, Oxford",11,3.0,clock
+07016013.wav,Magdalen College clock striking ten o'clock.,57,,EC36B,"Merton College Clock, Oxford",2,3.0,clock
+07039165.wav,Tompion & Banger household clock striking nine o'clock.,34,,EC1004B,,9,3.0,clock
+07039164.wav,Tompion & Banger household clock striking eight o'clock.,33,,EC1004B,,8,3.0,clock
+07039163.wav,Tompion & Banger household clock striking seven o'clock.,32,,EC1004B,,7,3.0,clock
+07039152.wav,Lincoln's Inn clock striking eight o'clock.,28,,EC1004A,,8,3.0,clock
+07039151.wav,Lincoln's Inn clock striking seven o'clock.,23,,EC1004A,,7,3.0,clock
+07039150.wav,Lincoln's Inn clock striking six o'clock.,22,,EC1004A,,6,3.0,clock
+07039149.wav,Lincoln's Inn clock striking five o'clock.,20,,EC1004A,,5,3.0,clock
+07039148.wav,Lincoln's Inn clock striking four o'clock.,17,,EC1004A,,4,3.0,clock
+07039147.wav,Lincoln's Inn clock striking three o'clock.,19,,EC1004A,,3,3.0,clock
+07039146.wav,Lincoln's Inn clock striking two o'clock.,14,,EC1004A,,2,3.0,clock
+07039145.wav,Lincoln's Inn clock striking one o'clock.,14,,EC1004A,,1,3.0,clock
+07016034.wav,Queens College clock striking one o'clock.,25,,EC36D,"Queens College Clock, Oxford",4,3.0,clock
+07016035.wav,Queens College clock striking two o'clock.,28,,EC36D,"Queens College Clock, Oxford",5,3.0,clock
+07016036.wav,Queens College clock striking three o'clock.,31,,EC36D,"Queens College Clock, Oxford",6,3.0,clock
+07016037.wav,Queens College clock striking four o'clock.,33,,EC36D,"Queens College Clock, Oxford",7,3.0,clock
+07016038.wav,Queens College clock striking five o'clock.,36,,EC36D,"Queens College Clock, Oxford",8,3.0,clock
+07016039.wav,Queens College clock striking six o'clock.,38,,EC36D,"Queens College Clock, Oxford",9,3.0,clock
+07016040.wav,Queens College clock striking seven o'clock.,41,,EC36D,"Queens College Clock, Oxford",10,3.0,clock
+07016041.wav,Queens College clock striking eight o'clock.,44,,EC36D,"Queens College Clock, Oxford",11,3.0,clock
+07042282.wav,Big Ben chiming & striking 1 o'clock.,37,,ECD014,London,5,3.0,clock
+07039153.wav,Lincoln's Inn clock striking nine o'clock.,30,,EC1004A,,9,3.0,clock
+07039154.wav,Lincoln's Inn clock striking ten o'clock.,33,,EC1004A,,10,3.0,clock
+07039155.wav,Lincoln's Inn clock striking eleven o'clock.,36,,EC1004A,,11,3.0,clock
+07039156.wav,Lincoln's Inn clock striking twelve o'clock.,38,,EC1004A,,12,3.0,clock
+07016022.wav,Merton College clock striking four o'clock.,56,,EC36C,"Merton College Clock, Oxford",1,3.0,clock
+07016023.wav,Merton College clock striking five o'clock.,58,,EC36C,"Merton College Clock, Oxford",2,3.0,clock
+07016024.wav,Merton College clock striking six o'clock.,63,,EC36C,"Merton College Clock, Oxford",3,3.0,clock
+07016025.wav,Merton College clock striking seven o'clock.,65,,EC36C,"Merton College Clock, Oxford",4,3.0,clock
+07016026.wav,Merton College clock striking eight o'clock.,66,,EC36C,"Merton College Clock, Oxford",5,3.0,clock
+07016027.wav,Merton College clock striking nine o'clock.,68,,EC36C,"Merton College Clock, Oxford",6,3.0,clock
+07016028.wav,Merton College clock striking ten o'clock.,71,,EC36C,"Merton College Clock, Oxford",7,3.0,clock
+07016029.wav,Merton College clock striking eleven o'clock.,78,,EC36C,"Merton College Clock, Oxford",8,3.0,clock
+07016080.wav,Oriel College clock striking twelve o'clock.,27,,EC36J,"Oriel College Clock, Oxford",3,3.0,clock
+07016030.wav,Merton College clock striking twelve o'clock.,82,,EC36C,"Merton College Clock, Oxford",9,3.0,clock
+07016032.wav,Queens College clock striking half past the hour.,12,,EC36D,"Queens College Clock, Oxford",2,3.0,clock
+07039162.wav,Tompion & Banger household clock striking six o'clock.,31,,EC1004B,,6,3.0,clock
+07039161.wav,Tompion & Banger household clock striking five o'clock.,29,,EC1004B,,5,3.0,clock
+07039160.wav,Tompion & Banger household clock striking four o'clock.,27,,EC1004B,,4,3.0,clock
+07016033.wav,Queens College clock striking quarter to the hour.,15,,EC36D,"Queens College Clock, Oxford",3,3.0,clock
+07039159.wav,Tompion & Banger household clock striking three o'clock.,26,,EC1004B,,3,3.0,clock
+07039158.wav,Tompion & Banger household clock striking two o'clock.,25,,EC1004B,,2,3.0,clock
+07039157.wav,Tompion & Banger household clock striking one o'clock.,23,,EC1004B,,1,3.0,clock
+07016031.wav,Queens College clock striking quarter past the hour.,9,,EC36D,"Queens College Clock, Oxford",1,3.0,clock
+07016081.wav,Oriel College clock striking one o'clock.,9,,EC36J,"Oriel College Clock, Oxford",4,3.0,clock
+07022029.wav,Domestic clock striking two o'clock. (Domestic clock with bell.),9,,EC48C,Domestic Clock (Bell),5,3.0,clock
+07002177.wav,Great Tom clock with street atmosphere striking 12 o'clock,79,,EC105H,St. Paul’S Cathedral Clock (Great Tom),8,3.0,clock
+07022037.wav,Domestic clock striking ten o'clock. (Domestic clock with bell & heavy machanism.),32,,EC48D,Domestic Clock (Bell: Heavy Mechanism),1,3.0,clock
+07002171.wav,Great Tom clock striking 10 o'clock,70,,EC105H,St. Paul’S Cathedral Clock (Great Tom),2,3.0,clock
+07002172.wav,Great Tom clock striking 11 o'clock,75,,EC105H,St. Paul’S Cathedral Clock (Great Tom),3,3.0,clock
+07002173.wav,Great Tom clock striking 12 o'clock,80,,EC105H,St. Paul’S Cathedral Clock (Great Tom),4,3.0,clock
+07002174.wav,Great Tom clock with street atmosphere striking quarter-hour,34,,EC105H,St. Paul’S Cathedral Clock (Great Tom),5,3.0,clock
+07002175.wav,Great Tom clock with street atmosphere striking half-hour.,34,,EC105H,St. Paul’S Cathedral Clock (Great Tom),6,3.0,clock
+07002176.wav,Great Tom clock with street atmosphere striking three-quarters,35,,EC105H,St. Paul’S Cathedral Clock (Great Tom),7,3.0,clock
+07002179.wav,"St. Clement Danes Church Clock, striking quarter-hour",25,,EC105J,"St. Clemen Danes Church, London",1,3.0,clock
+07002180.wav,"St. Clement Danes Church Clock, striking half-hour",24,,EC105J,"St. Clemen Danes Church, London",2,3.0,clock
+07002181.wav,"St. Clement Danes Church Clock, striking three-quarters",28,,EC105J,"St. Clemen Danes Church, London",3,3.0,clock
+07002182.wav,"St. Clement Danes Church Clock, striking 2 o'clock followed by Oranges & Lemons",201,,EC105J,"St. Clemen Danes Church, London",4,3.0,clock
+07002184.wav,"Outdoor clock striking, 1 o'clock",13,,EC105N,Outdoor Clock,1,3.0,clock
+07002185.wav,"Outdoor clock striking, 2 o'clock",15,,EC105N,Outdoor Clock,2,3.0,clock
+07002186.wav,"Outdoor clock striking, 3 o'clock",16,,EC105N,Outdoor Clock,3,3.0,clock
+07002187.wav,"Outdoor clock striking, 4 o'clock",18,,EC105N,Outdoor Clock,4,3.0,clock
+07002188.wav,"Outdoor clock striking, 5 o'clock",18,,EC105N,Outdoor Clock,5,3.0,clock
+07002189.wav,"Outdoor clock striking, 6 o'clock",21,,EC105N,Outdoor Clock,6,3.0,clock
+07002190.wav,"Outdoor clock striking, 7 o'clock",23,,EC105N,Outdoor Clock,7,3.0,clock
+07002191.wav,"Outdoor clock striking, 8 o'clock",24,,EC105N,Outdoor Clock,8,3.0,clock
+07002193.wav,"Outdoor clock striking, 10 o'clock",26,,EC105N,Outdoor Clock,10,3.0,clock
+07002194.wav,"Outdoor clock striking, 11 o'clock",28,,EC105N,Outdoor Clock,11,3.0,clock
+07002195.wav,"Outdoor clock striking, 12 o'clock",31,,EC105N,Outdoor Clock,12,3.0,clock
+07002196.wav,"Outdoor clock striking, 1 o'clock St. Mary's Church",16,,EC105P,Outdoor Clock,1,3.0,clock
+07002170.wav,Great Tom clock striking 9 o'clock,68,,EC105H,St. Paul’S Cathedral Clock (Great Tom),1,3.0,clock
+07022038.wav,Domestic clock striking eleven o'clock. (Domestic clock with bell & heavy machanism.),34,,EC48D,Domestic Clock (Bell: Heavy Mechanism),2,3.0,clock
+07002169.wav,Great Tom clock striking 8 o'clock,66,,EC105G,St. Paul’S Cathedral Clock (Great Tom),11,3.0,clock
+07002168.wav,Great Tom clock striking 7 o'clock,60,,EC105G,St. Paul’S Cathedral Clock (Great Tom),10,3.0,clock
+07022055.wav,Domestic clock striking four o'clock. (Domestic clock with bell.),16,,EC48E,Domestic Clock (Bell),7,3.0,clock
+07022051.wav,Domestic clock striking twelve o'clock. (Domestic clock with bell.),25,,EC48E,Domestic Clock (Bell),3,3.0,clock
+07002137.wav,"Sound of Big Ben chiming and striking 12 o'clock, recorded prior to repair in 1956. (Inside clock tower)",87,,EC105B,Time Signals & Clocks,7,3.0,clock
+07002159.wav,Great Tom clock striking quarter-hour,25,,EC105G,St. Paul’S Cathedral Clock (Great Tom),1,3.0,clock
+07002160.wav,Great Tom clock striking half-hour,27,,EC105G,St. Paul’S Cathedral Clock (Great Tom),2,3.0,clock
+07002161.wav,Great Tom clock striking three-quarters,30,,EC105G,St. Paul’S Cathedral Clock (Great Tom),3,3.0,clock
+07022050.wav,Domestic clock striking eleven o'clock. (Domestic clock with bell.),25,,EC48E,Domestic Clock (Bell),2,3.0,clock
+07002162.wav,Great Tom clock striking 1 o'clock,42,,EC105G,St. Paul’S Cathedral Clock (Great Tom),4,3.0,clock
+07022049.wav,Domestic clock striking ten o'clock. (Domestic clock with bell.),25,,EC48E,Domestic Clock (Bell),1,3.0,clock
+07002163.wav,Great Tom clock striking 2 o'clock,44,,EC105G,St. Paul’S Cathedral Clock (Great Tom),5,3.0,clock
+07022048.wav,Domestic clock striking nine o'clock. (Domestic clock with bell & heavy machanism.),31,,EC48D,Domestic Clock (Bell: Heavy Mechanism),12,3.0,clock
+07002197.wav,"Outdoor clock striking, 2 o'clock St. Mary's Church",21,,EC105P,Outdoor Clock,2,3.0,clock
+07022047.wav,Domestic clock striking eight o'clock. (Domestic clock with bell & heavy machanism.),28,,EC48D,Domestic Clock (Bell: Heavy Mechanism),11,3.0,clock
+07002164.wav,Great Tom clock striking 3 o'clock,47,,EC105G,St. Paul’S Cathedral Clock (Great Tom),6,3.0,clock
+07022045.wav,Domestic clock striking six o'clock. (Domestic clock with bell & heavy machanism.),23,,EC48D,Domestic Clock (Bell: Heavy Mechanism),9,3.0,clock
+07022044.wav,Domestic clock striking five o'clock. (Domestic clock with bell & heavy machanism.),20,,EC48D,Domestic Clock (Bell: Heavy Mechanism),8,3.0,clock
+07002165.wav,Great Tom clock striking 4 o'clock,51,,EC105G,St. Paul’S Cathedral Clock (Great Tom),7,3.0,clock
+07022043.wav,Domestic clock striking four o'clock. (Domestic clock with bell & heavy machanism.),18,,EC48D,Domestic Clock (Bell: Heavy Mechanism),7,3.0,clock
+07022042.wav,Domestic clock striking three o'clock. (Domestic clock with bell & heavy machanism.),14,,EC48D,Domestic Clock (Bell: Heavy Mechanism),6,3.0,clock
+07022041.wav,Domestic clock striking two o'clock. (Domestic clock with bell & heavy machanism.),13,,EC48D,Domestic Clock (Bell: Heavy Mechanism),5,3.0,clock
+07002166.wav,Great Tom clock striking 5 o'clock,53,,EC105G,St. Paul’S Cathedral Clock (Great Tom),8,3.0,clock
+07022040.wav,Domestic clock striking one o'clock. (Domestic clock with bell & heavy machanism.),10,,EC48D,Domestic Clock (Bell: Heavy Mechanism),4,3.0,clock
+07022039.wav,Domestic clock striking twelve o'clock. (Domestic clock with bell & heavy machanism.),37,,EC48D,Domestic Clock (Bell: Heavy Mechanism),3,3.0,clock
+07002167.wav,Great Tom clock striking 6 o'clock,57,,EC105G,St. Paul’S Cathedral Clock (Great Tom),9,3.0,clock
+07022046.wav,Domestic clock striking seven o'clock. (Domestic clock with bell & heavy machanism.),24,,EC48D,Domestic Clock (Bell: Heavy Mechanism),10,3.0,clock
+07002198.wav,"Outdoor clock striking, 3 o'clock St. Mary's Church",21,,EC105P,Outdoor Clock,3,3.0,clock
+07002192.wav,"Outdoor clock striking, 9 o'clock",26,,EC105N,Outdoor Clock,9,3.0,clock
+07016116.wav,Jesus College clock striking twelve o'clock.,33,,EC36M,"Jesus College Clock, Oxford",3,3.0,clock
+07022052.wav,Domestic clock striking one o'clock. (Domestic clock with bell.),13,,EC48E,Domestic Clock (Bell),4,3.0,clock
+07016101.wav,"University College, Oxford clock striking nine o'clock.",33,,EC36K,"University College Clock, Oxford",12,3.0,clock
+07016117.wav,Jesus College clock striking one o'clock.,10,,EC36M,"Jesus College Clock, Oxford",4,3.0,clock
+07022053.wav,Domestic clock striking two o'clock. (Domestic clock with bell.),13,,EC48E,Domestic Clock (Bell),5,3.0,clock
+07022054.wav,Domestic clock striking three o'clock. (Domestic clock with bell.),14,,EC48E,Domestic Clock (Bell),6,3.0,clock
+07016100.wav,"University College, Oxford clock striking eight o'clock.",29,,EC36K,"University College Clock, Oxford",11,3.0,clock
+07016099.wav,"University College, Oxford clock striking seven o'clock.",24,,EC36K,"University College Clock, Oxford",10,3.0,clock
+07016098.wav,"University College, Oxford clock striking six o'clock.",22,,EC36K,"University College Clock, Oxford",9,3.0,clock
+07016097.wav,"University College, Oxford clock striking five o'clock.",21,,EC36K,"University College Clock, Oxford",8,3.0,clock
+07016096.wav,"University College, Oxford clock striking four o'clock.",17,,EC36K,"University College Clock, Oxford",7,3.0,clock
+07016095.wav,"University College, Oxford clock striking three o'clock.",14,,EC36K,"University College Clock, Oxford",6,3.0,clock
+07016094.wav,"University College, Oxford clock striking two o'clock.",10,,EC36K,"University College Clock, Oxford",5,3.0,clock
+07016093.wav,"University College, Oxford clock striking one o'clock.",11,,EC36K,"University College Clock, Oxford",4,3.0,clock
+07016092.wav,"University College, Oxford clock striking twelve o'clock.",42,,EC36K,"University College Clock, Oxford",3,3.0,clock
+07016091.wav,"University College, Oxford clock striking eleven o'clock.",39,,EC36K,"University College Clock, Oxford",2,3.0,clock
+07016090.wav,"University College, Oxford clock striking ten o'clock.",36,,EC36K,"University College Clock, Oxford",1,3.0,clock
+07016089.wav,Oriel College clock striking nine o'clock.,23,,EC36J,"Oriel College Clock, Oxford",12,3.0,clock
+07016088.wav,Oriel College clock striking eight o'clock.,21,,EC36J,"Oriel College Clock, Oxford",11,3.0,clock
+07016087.wav,Oriel College clock striking seven o'clock.,19,,EC36J,"Oriel College Clock, Oxford",10,3.0,clock
+07016086.wav,Oriel College clock striking six o'clock.,18,,EC36J,"Oriel College Clock, Oxford",9,3.0,clock
+07016085.wav,Oriel College clock striking five o'clock.,16,,EC36J,"Oriel College Clock, Oxford",8,3.0,clock
+07016084.wav,Oriel College clock striking four o'clock.,14,,EC36J,"Oriel College Clock, Oxford",7,3.0,clock
+07016083.wav,Oriel College clock striking three o'clock.,14,,EC36J,"Oriel College Clock, Oxford",6,3.0,clock
+07016102.wav,Worcester College clock striking ten o'clock.,31,,EC36L,"Worcester College Clock, Oxford",1,3.0,clock
+07002209.wav,"Outdoor clock striking, half-hour - SS. Peter & Paul ",28,,EC105Q,Outdoor Clock,2,3.0,clock
+07016082.wav,Oriel College clock striking two o'clock.,12,,EC36J,"Oriel College Clock, Oxford",5,3.0,clock
+07002207.wav,"Outdoor clock striking, 12 o'clock St. Mary's Church",47,,EC105P,Outdoor Clock,12,3.0,clock
+07002199.wav,"Outdoor clock striking, 4 o'clock St. Mary's Church",25,,EC105P,Outdoor Clock,4,3.0,clock
+07016115.wav,Jesus College clock striking eleven o'clock.,30,,EC36M,"Jesus College Clock, Oxford",2,3.0,clock
+07002200.wav,"Outdoor clock striking, 5 o'clock St. Mary's Church",26,,EC105P,Outdoor Clock,5,3.0,clock
+07002201.wav,"Outdoor clock striking, 6 o'clock St. Mary's Church",28,,EC105P,Outdoor Clock,6,3.0,clock
+07016114.wav,Jesus College clock striking ten o'clock.,28,,EC36M,"Jesus College Clock, Oxford",1,3.0,clock
+07016113.wav,Worcester College clock striking nine o'clock.,29,,EC36L,"Worcester College Clock, Oxford",12,3.0,clock
+07016112.wav,Worcester College clock striking eight o'clock.,26,,EC36L,"Worcester College Clock, Oxford",11,3.0,clock
+07002208.wav,"Outdoor clock striking, quarter-hour - SS. Peter & Paul ",27,,EC105Q,Outdoor Clock,1,3.0,clock
+07002202.wav,"Outdoor clock striking, 7 o'clock St. Mary's Church",32,,EC105P,Outdoor Clock,7,3.0,clock
+07016110.wav,Worcester College clock striking six o'clock.,22,,EC36L,"Worcester College Clock, Oxford",9,3.0,clock
+07016109.wav,Worcester College clock striking five o'clock.,19,,EC36L,"Worcester College Clock, Oxford",8,3.0,clock
+07002203.wav,"Outdoor clock striking, 8 o'clock St. Mary's Church",36,,EC105P,Outdoor Clock,8,3.0,clock
+07002204.wav,"Outdoor clock striking, 9 o'clock St. Mary's Church",38,,EC105P,Outdoor Clock,9,3.0,clock
+07016111.wav,Worcester College clock striking seven o'clock.,24,,EC36L,"Worcester College Clock, Oxford",10,3.0,clock
+07002205.wav,"Outdoor clock striking, 10 o'clock St. Mary's Church",41,,EC105P,Outdoor Clock,10,3.0,clock
+07016107.wav,Worcester College clock striking three o'clock.,15,,EC36L,"Worcester College Clock, Oxford",6,3.0,clock
+07016106.wav,Worcester College clock striking two o'clock.,12,,EC36L,"Worcester College Clock, Oxford",5,3.0,clock
+07016105.wav,Worcester College clock striking one o'clock.,10,,EC36L,"Worcester College Clock, Oxford",4,3.0,clock
+07016104.wav,Worcester College clock striking twelve o'clock.,35,,EC36L,"Worcester College Clock, Oxford",3,3.0,clock
+07016103.wav,Worcester College clock striking eleven o'clock.,33,,EC36L,"Worcester College Clock, Oxford",2,3.0,clock
+07002206.wav,"Outdoor clock striking, 11 o'clock St. Mary's Church",43,,EC105P,Outdoor Clock,11,3.0,clock
+07016108.wav,Worcester College clock striking four o'clock.,17,,EC36L,"Worcester College Clock, Oxford",7,3.0,clock
+07072031.wav,1 man walking (tired with start and stop).,40,Caves: Caving,ECD132,Caving & Potholing,31,5.0,footstep
+07037138.wav,"Footsteps Down Wooden Stairs, two men, slow, departing.",21,,EC99M,Slow Footsteps Down Wooden Stairs,6,5.0,footstep
+07072033.wav,1 man climbing with start and stop.,13,Caves: Caving,ECD132,Caving & Potholing,33,5.0,footstep
+07037148.wav,"Footsteps Down Wooden Stairs, man & woman, slow, with start and stop.",20,,EC99N,Slow Footsteps Down Wooden Stairs,4,5.0,footstep
+07037147.wav,"Footsteps Down Wooden Stairs, two women, slow, departing.",20,,EC99N,Slow Footsteps Down Wooden Stairs,3,5.0,footstep
+07037139.wav,"Footsteps Down Wooden Stairs, three men, slow, with start & stop.",21,,EC99M,Slow Footsteps Down Wooden Stairs,7,5.0,footstep
+07037146.wav,"Footsteps Down Wooden Stairs, two women, slow, with approach & stop.",19,,EC99N,Slow Footsteps Down Wooden Stairs,2,5.0,footstep
+07037144.wav,"Footsteps Down Wooden Stairs, woman, slow, departing.",20,,EC99M,Slow Footsteps Down Wooden Stairs,12,5.0,footstep
+07037140.wav,"Footsteps Down Wooden Stairs, three men, slow, with approach & stop.",21,,EC99M,Slow Footsteps Down Wooden Stairs,8,5.0,footstep
+07037142.wav,"Footsteps Down Wooden Stairs, woman, slow, with start & stop.",19,,EC99M,Slow Footsteps Down Wooden Stairs,10,5.0,footstep
+07037143.wav,"Footsteps Down Wooden Stairs, woman, slow, with approach & stop.",20,,EC99M,Slow Footsteps Down Wooden Stairs,11,5.0,footstep
+07072032.wav,Woman climbing with start and stop.,28,Caves: Caving,ECD132,Caving & Potholing,32,5.0,footstep
+07072030.wav,2 men walking (tired with start and stop).,39,Caves: Caving,ECD132,Caving & Potholing,30,5.0,footstep
+07037145.wav,"Footsteps Down Wooden Stairs, two women, slow, with start & stop.",21,,EC99N,Slow Footsteps Down Wooden Stairs,1,5.0,footstep
+07037141.wav,"Footsteps Down Wooden Stairs, three men, slow, departing.",21,,EC99M,Slow Footsteps Down Wooden Stairs,9,5.0,footstep
+07037049.wav,"Footsteps on Country Road, man walking, with start & stop.",67,,EC99E,Footsteps On Country Road: Walking,1,5.0,footstep
+07037136.wav,"Footsteps Down Wooden Stairs, two men, slow, with start & stop.",20,,EC99M,Slow Footsteps Down Wooden Stairs,4,5.0,footstep
+07037114.wav,"Footsteps Up Wooden Stairs, man & woman, slow, departing.",23,,EC99K,Slow Footsteps Up Wooden Stairs,6,5.0,footstep
+07037115.wav,"Footsteps Up Wooden Stairs, two men & one woman, slow, with start & stop.",28,,EC99K,Slow Footsteps Up Wooden Stairs,7,5.0,footstep
+07037116.wav,"Footsteps Up Wooden Stairs, two men & one woman, slow, with approach & stop.",25,,EC99K,Slow Footsteps Up Wooden Stairs,8,5.0,footstep
+07037117.wav,"Footsteps Up Wooden Stairs, two men & one woman, slow, departing.",25,,EC99K,Slow Footsteps Up Wooden Stairs,9,5.0,footstep
+07037118.wav,"Footsteps Up Wooden Stairs, two men & two women, slow, with start & stop.",27,,EC99K,Slow Footsteps Up Wooden Stairs,10,5.0,footstep
+07037119.wav,"Footsteps Up Wooden Stairs, two men & two women, slow, with approach & stop.",33,,EC99K,Slow Footsteps Up Wooden Stairs,11,5.0,footstep
+07037120.wav,"Footsteps Up Wooden Stairs, two men & two women, slow, departing.",26,,EC99K,Slow Footsteps Up Wooden Stairs,12,5.0,footstep
+07037121.wav,"Footsteps Up Wooden Stairs, man, fast, with start & stop.",17,,EC99L,Fast Footsteps Up Wooden Stairs,1,5.0,footstep
+07037122.wav,"Footsteps Up Wooden Stairs, man, fast, with approach & stop.",16,,EC99L,Fast Footsteps Up Wooden Stairs,2,5.0,footstep
+07037123.wav,"Footsteps Up Wooden Stairs, man, fast, departing.",15,,EC99L,Fast Footsteps Up Wooden Stairs,3,5.0,footstep
+07037137.wav,"Footsteps Down Wooden Stairs, two men, slow, with approach & stop.",22,,EC99M,Slow Footsteps Down Wooden Stairs,5,5.0,footstep
+07037124.wav,"Footsteps Up Wooden Stairs, two men, fast, with start & stop.",17,,EC99L,Fast Footsteps Up Wooden Stairs,4,5.0,footstep
+07037126.wav,"Footsteps Up Wooden Stairs, two men, fast, departing.",17,,EC99L,Fast Footsteps Up Wooden Stairs,6,5.0,footstep
+07037127.wav,"Footsteps Up Wooden Stairs, three men, fast, with start & stop.",20,,EC99L,Fast Footsteps Up Wooden Stairs,7,5.0,footstep
+07037128.wav,"Footsteps Up Wooden Stairs, three men, fast, with approach & stop.",17,,EC99L,Fast Footsteps Up Wooden Stairs,8,5.0,footstep
+07037129.wav,"Footsteps Up Wooden Stairs, three men, fast, departing.",19,,EC99L,Fast Footsteps Up Wooden Stairs,9,5.0,footstep
+07037130.wav,"Footsteps Up Wooden Stairs, woman, fast, with start & stop.",19,,EC99L,Fast Footsteps Up Wooden Stairs,10,5.0,footstep
+07037131.wav,"Footsteps Up Wooden Stairs, woman, fast, with approach & stop.",19,,EC99L,Fast Footsteps Up Wooden Stairs,11,5.0,footstep
+07037132.wav,"Footsteps Up Wooden Stairs, woman, fast, departing.",17,,EC99L,Fast Footsteps Up Wooden Stairs,12,5.0,footstep
+07037133.wav,"Footsteps Down Wooden Stairs, man, slow, with start & stop.",20,,EC99M,Slow Footsteps Down Wooden Stairs,1,5.0,footstep
+07037134.wav,"Footsteps Down Wooden Stairs, man, slow, with approach & stop.",20,,EC99M,Slow Footsteps Down Wooden Stairs,2,5.0,footstep
+07037135.wav,"Footsteps Down Wooden Stairs, man, slow, departing.",21,,EC99M,Slow Footsteps Down Wooden Stairs,3,5.0,footstep
+07037125.wav,"Footsteps Up Wooden Stairs, two men, fast, with approach & stop.",19,,EC99L,Fast Footsteps Up Wooden Stairs,5,5.0,footstep
+07037149.wav,"Footsteps Down Wooden Stairs, man & woman, slow, with approach & stop.",19,,EC99N,Slow Footsteps Down Wooden Stairs,5,5.0,footstep
+07037161.wav,"Footsteps Up Metal Stairs, two men, slow, with approach & stop.",32,,EC99P,Slow Footsteps Up Metal Stairs,5,5.0,footstep
+07037151.wav,"Footsteps Down Wooden Stairs, two men & one woman, slow, with start and stop.",20,,EC99N,Slow Footsteps Down Wooden Stairs,7,5.0,footstep
+07037175.wav,"Footsteps Down Metal Stairs, three men, slow, with start & stop.",29,,EC99Q,Footsteps Down Metal Stairs,7,5.0,footstep
+07037176.wav,"Footsteps Down Metal Stairs, three men, slow, with approach & stop.",23,,EC99Q,Footsteps Down Metal Stairs,8,5.0,footstep
+07037177.wav,"Footsteps Down Metal Stairs, three men, slow, departing.",24,,EC99Q,Footsteps Down Metal Stairs,9,5.0,footstep
+07037178.wav,"Footsteps Down Metal Stairs, woman, slow, with start & stop.",40,,EC99Q,Footsteps Down Metal Stairs,10,5.0,footstep
+07037179.wav,"Footsteps Down Metal Stairs, woman, slow, with approach & stop.",26,,EC99Q,Footsteps Down Metal Stairs,11,5.0,footstep
+07037180.wav,"Footsteps Down Metal Stairs, woman, slow, departing.",27,,EC99Q,Footsteps Down Metal Stairs,12,5.0,footstep
+07037181.wav,"Footsteps Up Metal Stairs, man, fast, with start & stop.",41,,EC99R,Fast Footsteps Down Metal Stairs,1,5.0,footstep
+07037182.wav,"Footsteps Up Metal Stairs, man, fast, with approach & stop.",28,,EC99R,Fast Footsteps Down Metal Stairs,2,5.0,footstep
+07037183.wav,"Footsteps Up Metal Stairs, man, fast, departing.",27,,EC99R,Fast Footsteps Down Metal Stairs,3,5.0,footstep
+07037184.wav,"Footsteps Up Metal Stairs, two men, fast, with start & stop.",41,,EC99R,Fast Footsteps Down Metal Stairs,4,5.0,footstep
+07037185.wav,"Footsteps Up Metal Stairs, two men, fast, with approach & stop.",28,,EC99R,Fast Footsteps Down Metal Stairs,5,5.0,footstep
+07037186.wav,"Footsteps Up Metal Stairs, two men, fast, departing.",27,,EC99R,Fast Footsteps Down Metal Stairs,6,5.0,footstep
+07037187.wav,"Footsteps Down Metal Stairs, man, fast, with start & stop.",39,,EC99R,Fast Footsteps Down Metal Stairs,7,5.0,footstep
+07037188.wav,"Footsteps Down Metal Stairs, man, fast, with approach & stop.",24,,EC99R,Fast Footsteps Down Metal Stairs,8,5.0,footstep
+07037189.wav,"Footsteps Down Metal Stairs, man, fast, departing.",22,,EC99R,Fast Footsteps Down Metal Stairs,9,5.0,footstep
+07037190.wav,"Footsteps Down Metal Stairs, two men, fast, with start & stop.",47,,EC99R,Fast Footsteps Down Metal Stairs,10,5.0,footstep
+07037191.wav,"Footsteps Down Metal Stairs, two men, fast, with approach & stop.",32,,EC99R,Fast Footsteps Down Metal Stairs,11,5.0,footstep
+07037192.wav,"Footsteps Down Metal Stairs, two men, fast, departing.",24,,EC99R,Fast Footsteps Down Metal Stairs,12,5.0,footstep
+07037193.wav,"Footsteps on Wood, man walking, with start & stop. (Dead acoustic.)",66,,EC99S,Footsteps On Wood: Walking (Dead Acoustic),1,5.0,footstep
+07037063.wav,"Footsteps on Country Road, two women walking, departing.",17,,EC99F,Footsteps On Country Road: Walking,3,5.0,footstep
+07037174.wav,"Footsteps Down Metal Stairs, two men, slow, departing.",26,,EC99Q,Footsteps Down Metal Stairs,6,5.0,footstep
+07037173.wav,"Footsteps Down Metal Stairs, two men, slow, with approach & stop.",28,,EC99Q,Footsteps Down Metal Stairs,5,5.0,footstep
+07037172.wav,"Footsteps Down Metal Stairs, two men, slow, with start & stop.",40,,EC99Q,Footsteps Down Metal Stairs,4,5.0,footstep
+07037152.wav,"Footsteps Down Wooden Stairs, two men & one woman, slow, with approach & stop.",18,,EC99N,Slow Footsteps Down Wooden Stairs,8,5.0,footstep
+07037153.wav,"Footsteps Down Wooden Stairs, two men & one woman, slow, departing.",21,,EC99N,Slow Footsteps Down Wooden Stairs,9,5.0,footstep
+07037154.wav,"Footsteps Down Wooden Stairs, two men & two women, slow, with start and stop.",19,,EC99N,Slow Footsteps Down Wooden Stairs,10,5.0,footstep
+07037155.wav,"Footsteps Down Wooden Stairs, two men & two women, slow, with approach & stop.",24,,EC99N,Slow Footsteps Down Wooden Stairs,11,5.0,footstep
+07037156.wav,"Footsteps Down Wooden Stairs, two men & two women, slow, departing.",27,,EC99N,Slow Footsteps Down Wooden Stairs,12,5.0,footstep
+07037157.wav,"Footsteps Up Metal Stairs, man, slow, with start & stop.",37,,EC99P,Slow Footsteps Up Metal Stairs,1,5.0,footstep
+07037158.wav,"Footsteps Up Metal Stairs, man, slow, with approach & stop.",28,,EC99P,Slow Footsteps Up Metal Stairs,2,5.0,footstep
+07037159.wav,"Footsteps Up Metal Stairs, man, slow, departing.",33,,EC99P,Slow Footsteps Up Metal Stairs,3,5.0,footstep
+07037160.wav,"Footsteps Up Metal Stairs, two men, slow, with start & stop.",39,,EC99P,Slow Footsteps Up Metal Stairs,4,5.0,footstep
+07037150.wav,"Footsteps Down Wooden Stairs, man & woman, slow, departing.",21,,EC99N,Slow Footsteps Down Wooden Stairs,6,5.0,footstep
+07037113.wav,"Footsteps Up Wooden Stairs, man & woman, slow, with approach & stop.",27,,EC99K,Slow Footsteps Up Wooden Stairs,5,5.0,footstep
+07037163.wav,"Footsteps Up Metal Stairs, three men, slow, with start & stop.",41,,EC99P,Slow Footsteps Up Metal Stairs,7,5.0,footstep
+07037164.wav,"Footsteps Up Metal Stairs, three men, slow, with approach & stop.",27,,EC99P,Slow Footsteps Up Metal Stairs,8,5.0,footstep
+07037165.wav,"Footsteps Up Metal Stairs, three men, slow, departing.",30,,EC99P,Slow Footsteps Up Metal Stairs,9,5.0,footstep
+07037166.wav,"Footsteps Up Metal Stairs, woman, slow, with start & stop.",41,,EC99P,Slow Footsteps Up Metal Stairs,10,5.0,footstep
+07037167.wav,"Footsteps Up Metal Stairs, woman, slow, with approach & stop.",32,,EC99P,Slow Footsteps Up Metal Stairs,11,5.0,footstep
+07037168.wav,"Footsteps Up Metal Stairs, woman, slow, departing.",21,,EC99P,Slow Footsteps Up Metal Stairs,12,5.0,footstep
+07037169.wav,"Footsteps Down Metal Stairs, man, slow, with start & stop.",39,,EC99Q,Footsteps Down Metal Stairs,1,5.0,footstep
+07037170.wav,"Footsteps Down Metal Stairs, man, slow, with approach & stop.",26,,EC99Q,Footsteps Down Metal Stairs,2,5.0,footstep
+07037171.wav,"Footsteps Down Metal Stairs, man, slow, departing.",27,,EC99Q,Footsteps Down Metal Stairs,3,5.0,footstep
+07037162.wav,"Footsteps Up Metal Stairs, two men, slow, departing.",30,,EC99P,Slow Footsteps Up Metal Stairs,6,5.0,footstep
+07037112.wav,"Footsteps Up Wooden Stairs, man & woman, slow, with start & stop.",28,,EC99K,Slow Footsteps Up Wooden Stairs,4,5.0,footstep
+07064131.wav,1 man approaches and stops (reprocessed),14,Footsteps: Male: Road: Running,ECD055,Footsteps 1,56,5.0,footstep
+07037110.wav,"Footsteps Up Wooden Stairs, two women, slow, with approach & stop.",27,,EC99K,Slow Footsteps Up Wooden Stairs,2,5.0,footstep
+07037040.wav,"Footsteps on Pavement, two men running, with start & stop.",65,,EC99D,Footsteps On Pavement: Running,4,5.0,footstep
+07004041.wav,"Walking, 1 man. (With start and stop)",68,,EC100A,Footsteps In Undergrowth: Running,1,5.0,footstep
+07004042.wav,"Walking, 1 man. (With approach and stop)",24,,EC100A,Footsteps In Undergrowth: Running,2,5.0,footstep
+07004043.wav,"Walking, 1 man departing.",28,,EC100A,Footsteps In Undergrowth: Running,3,5.0,footstep
+07004044.wav,"Walking, 2 men. (With start and stop)",71,,EC100A,Footsteps In Undergrowth: Running,4,5.0,footstep
+07004045.wav,"Walking, 2 men. (With approach and stop)",30,,EC100A,Footsteps In Undergrowth: Running,5,5.0,footstep
+07004046.wav,"Walking, 2 men departing.",27,,EC100A,Footsteps In Undergrowth: Running,6,5.0,footstep
+07004047.wav,"Running, 1 man. (With start and stop)",64,,EC100A,Footsteps In Undergrowth: Running,7,5.0,footstep
+07037085.wav,"Footsteps on Country Road, two women running, with start & stop.",67,,EC99H,Footsteps On Country Road: Running,1,5.0,footstep
+07037057.wav,"Footsteps on Country Road, three men walking, departing.",20,,EC99E,Footsteps On Country Road: Walking,9,5.0,footstep
+07037084.wav,"Footsteps on Country Road, woman running, departing.",19,,EC99G,Footsteps On Country Road: Running,12,5.0,footstep
+07037083.wav,"Footsteps on Country Road, woman running, with approach & stop.",18,,EC99G,Footsteps On Country Road: Running,11,5.0,footstep
+07004048.wav,"Running, 1 man. (With approach and stop)",24,,EC100A,Footsteps In Undergrowth: Running,8,5.0,footstep
+07050162.wav,"One horse & cart at walk approach, stop & depart.",46,Horses: Carts,ECD038,Horses / Dogs,7,5.0,footstep
+07004049.wav,"Running, 1 man departing.",24,,EC100A,Footsteps In Undergrowth: Running,9,5.0,footstep
+07004050.wav,"Running, 2 men. (With start and stop)",65,,EC100A,Footsteps In Undergrowth: Running,10,5.0,footstep
+07004051.wav,"Running, 2 men. (With approach and stop)",28,,EC100A,Footsteps In Undergrowth: Running,11,5.0,footstep
+07037082.wav,"Footsteps on Country Road, woman running, with start & stop.",67,,EC99G,Footsteps On Country Road: Running,10,5.0,footstep
+07037081.wav,"Footsteps on Country Road, three men running, departing.",17,,EC99G,Footsteps On Country Road: Running,9,5.0,footstep
+07037041.wav,"Footsteps on Pavement, two men running, with approach & stop.",17,,EC99D,Footsteps On Pavement: Running,5,5.0,footstep
+07037080.wav,"Footsteps on Country Road, three men running, with approach & stop.",17,,EC99G,Footsteps On Country Road: Running,8,5.0,footstep
+07064127.wav,2 men 2 women start and stop (reprocessed),67,Footsteps: Male: Road: Walking,ECD055,Footsteps 1,52,5.0,footstep
+07037042.wav,"Footsteps on Pavement, two men running, departing.",19,,EC99D,Footsteps On Pavement: Running,6,5.0,footstep
+07037048.wav,"Footsteps on Pavement, woman running, departing.",25,,EC99D,Footsteps On Pavement: Running,12,5.0,footstep
+07037047.wav,"Footsteps on Pavement, woman running, with approach & stop.",17,,EC99D,Footsteps On Pavement: Running,11,5.0,footstep
+07037050.wav,"Footsteps on Country Road, man walking, with approach & stop.",17,,EC99E,Footsteps On Country Road: Walking,2,5.0,footstep
+07037051.wav,"Footsteps on Country Road, man walking, departing.",18,,EC99E,Footsteps On Country Road: Walking,3,5.0,footstep
+07037052.wav,"Footsteps on Country Road, two men walking, with start & stop.",69,,EC99E,Footsteps On Country Road: Walking,4,5.0,footstep
+07037053.wav,"Footsteps on Country Road, two men walking, with approach & stop.",21,,EC99E,Footsteps On Country Road: Walking,5,5.0,footstep
+07037054.wav,"Footsteps on Country Road, two men walking, departing.",18,,EC99E,Footsteps On Country Road: Walking,6,5.0,footstep
+07037046.wav,"Footsteps on Pavement, woman running, with start & stop.",67,,EC99D,Footsteps On Pavement: Running,10,5.0,footstep
+07037055.wav,"Footsteps on Country Road, three men walking, with start & stop.",77,,EC99E,Footsteps On Country Road: Walking,7,5.0,footstep
+07037056.wav,"Footsteps on Country Road, three men walking, with approach & stop.",17,,EC99E,Footsteps On Country Road: Walking,8,5.0,footstep
+07037045.wav,"Footsteps on Pavement, three men running, departing.",18,,EC99D,Footsteps On Pavement: Running,9,5.0,footstep
+07037044.wav,"Footsteps on Pavement, three men running, with approach & stop.",18,,EC99D,Footsteps On Pavement: Running,8,5.0,footstep
+07037043.wav,"Footsteps on Pavement, three men running, with start & stop.",69,,EC99D,Footsteps On Pavement: Running,7,5.0,footstep
+07037086.wav,"Footsteps on Country Road, two women running, with approach & stop.",19,,EC99H,Footsteps On Country Road: Running,2,5.0,footstep
+07037087.wav,"Footsteps on Country Road, two women running, departing.",19,,EC99H,Footsteps On Country Road: Running,3,5.0,footstep
+07037088.wav,"Footsteps on Country Road, man & woman running, with start & stop.",63,,EC99H,Footsteps On Country Road: Running,4,5.0,footstep
+07037089.wav,"Footsteps on Country Road, man & woman running, with approach & stop.",20,,EC99H,Footsteps On Country Road: Running,5,5.0,footstep
+07037090.wav,"Footsteps on Country Road, man & woman running, departing.",18,,EC99H,Footsteps On Country Road: Running,6,5.0,footstep
+07037091.wav,"Footsteps on Country Road, two men & one woman running, with start & stop.",70,,EC99H,Footsteps On Country Road: Running,7,5.0,footstep
+07037092.wav,"Footsteps on Country Road, two men & one woman running, with approach & stop.",18,,EC99H,Footsteps On Country Road: Running,8,5.0,footstep
+07037111.wav,"Footsteps Up Wooden Stairs, two women, slow, departing.",23,,EC99K,Slow Footsteps Up Wooden Stairs,3,5.0,footstep
+07037079.wav,"Footsteps on Country Road, three men running, with start & stop.",69,,EC99G,Footsteps On Country Road: Running,7,5.0,footstep
+07037077.wav,"Footsteps on Country Road, two men running, with approach & stop.",18,,EC99G,Footsteps On Country Road: Running,5,5.0,footstep
+07037099.wav,"Footsteps Up Wooden Stairs, man, slow, departing.",24,,EC99J,Slow Footsteps Up Wooden Stairs,3,5.0,footstep
+07037100.wav,"Footsteps Up Wooden Stairs, two men, slow, with start & stop.",24,,EC99J,Slow Footsteps Up Wooden Stairs,4,5.0,footstep
+07037101.wav,"Footsteps Up Wooden Stairs, two men, slow, with approach & stop.",26,,EC99J,Slow Footsteps Up Wooden Stairs,5,5.0,footstep
+07037102.wav,"Footsteps Up Wooden Stairs, two men, slow, departing.",24,,EC99J,Slow Footsteps Up Wooden Stairs,6,5.0,footstep
+07037061.wav,"Footsteps on Country Road, two women walking, with start & stop.",75,,EC99F,Footsteps On Country Road: Walking,1,5.0,footstep
+07037062.wav,"Footsteps on Country Road, two women walking, with approach & stop.",17,,EC99F,Footsteps On Country Road: Walking,2,5.0,footstep
+07037103.wav,"Footsteps Up Wooden Stairs, three men, slow, with start & stop.",26,,EC99J,Slow Footsteps Up Wooden Stairs,7,5.0,footstep
+07064130.wav,1 man starts and stops (reprocessed),154,Footsteps: Male: Road: Running,ECD055,Footsteps 1,55,5.0,footstep
+07037194.wav,"Footsteps on Wood, man walking, with approach & stop. (Dead acoustic.)",15,,EC99S,Footsteps On Wood: Walking (Dead Acoustic),2,5.0,footstep
+07037064.wav,"Footsteps on Country Road, man & woman, with start & stop.",71,,EC99F,Footsteps On Country Road: Walking,4,5.0,footstep
+07037104.wav,"Footsteps Up Wooden Stairs, three men, slow, with approach & stop.",24,,EC99J,Slow Footsteps Up Wooden Stairs,8,5.0,footstep
+07037105.wav,"Footsteps Up Wooden Stairs, three men, slow, departing.",25,,EC99J,Slow Footsteps Up Wooden Stairs,9,5.0,footstep
+07064132.wav,1 man departs (reprocessed),14,Footsteps: Male: Road: Running,ECD055,Footsteps 1,57,5.0,footstep
+07064133.wav,2 men start and stop (reprocessed),65,Footsteps: Male: Road: Running,ECD055,Footsteps 1,58,5.0,footstep
+07037106.wav,"Footsteps Up Wooden Stairs, woman, slow, with start & stop.",20,,EC99J,Slow Footsteps Up Wooden Stairs,10,5.0,footstep
+07037107.wav,"Footsteps Up Wooden Stairs, woman, slow, with approach & stop.",24,,EC99J,Slow Footsteps Up Wooden Stairs,11,5.0,footstep
+07037108.wav,"Footsteps Up Wooden Stairs, woman, slow, departing.",23,,EC99J,Slow Footsteps Up Wooden Stairs,12,5.0,footstep
+07064134.wav,2 men approach and stop (reprocessed),14,Footsteps: Male: Road: Running,ECD055,Footsteps 1,59,5.0,footstep
+07037109.wav,"Footsteps Up Wooden Stairs, two women, slow, with start & stop.",28,,EC99K,Slow Footsteps Up Wooden Stairs,1,5.0,footstep
+07037098.wav,"Footsteps Up Wooden Stairs, man, slow, with approach & stop.",23,,EC99J,Slow Footsteps Up Wooden Stairs,2,5.0,footstep
+07037078.wav,"Footsteps on Country Road, two men running, departing.",18,,EC99G,Footsteps On Country Road: Running,6,5.0,footstep
+07037097.wav,"Footsteps Up Wooden Stairs, man, slow, with start & stop.",29,,EC99J,Slow Footsteps Up Wooden Stairs,1,5.0,footstep
+07037095.wav,"Footsteps on Country Road, two men & two women running, with approach & stop.",20,,EC99H,Footsteps On Country Road: Running,11,5.0,footstep
+07037076.wav,"Footsteps on Country Road, two men running, with start & stop.",69,,EC99G,Footsteps On Country Road: Running,4,5.0,footstep
+07037093.wav,"Footsteps on Country Road, two men & one woman running, departing.",19,,EC99H,Footsteps On Country Road: Running,9,5.0,footstep
+07037075.wav,"Footsteps on Country Road, man running, departing.",18,,EC99G,Footsteps On Country Road: Running,3,5.0,footstep
+07037074.wav,"Footsteps on Country Road, man running, with approach & stop.",16,,EC99G,Footsteps On Country Road: Running,2,5.0,footstep
+07037073.wav,"Footsteps on Country Road, man running, with start & stop.",68,,EC99G,Footsteps On Country Road: Running,1,5.0,footstep
+07037072.wav,"Footsteps on Country Road, two men & two women walking, departing.",16,,EC99F,Footsteps On Country Road: Walking,12,5.0,footstep
+07037071.wav,"Footsteps on Country Road, two men & two women walking, with approach & stop.",17,,EC99F,Footsteps On Country Road: Walking,11,5.0,footstep
+07037094.wav,"Footsteps on Country Road, two men & two women running, with start & stop.",71,,EC99H,Footsteps On Country Road: Running,10,5.0,footstep
+07037070.wav,"Footsteps on Country Road, two men & two women walking, with start & stop.",69,,EC99F,Footsteps On Country Road: Walking,10,5.0,footstep
+07037069.wav,"Footsteps on Country Road, two men & one woman walking, departing.",18,,EC99F,Footsteps On Country Road: Walking,9,5.0,footstep
+07037068.wav,"Footsteps on Country Road, two men & one woman walking, with approach & stop.",18,,EC99F,Footsteps On Country Road: Walking,8,5.0,footstep
+07037067.wav,"Footsteps on Country Road, two men & one woman walking, with start & stop.",69,,EC99F,Footsteps On Country Road: Walking,7,5.0,footstep
+07037066.wav,"Footsteps on Country Road, man & woman, departing.",17,,EC99F,Footsteps On Country Road: Walking,6,5.0,footstep
+07037065.wav,"Footsteps on Country Road, man & woman, with approach & stop.",17,,EC99F,Footsteps On Country Road: Walking,5,5.0,footstep
+07037058.wav,"Footsteps on Country Road, woman walking, with start & stop.",67,,EC99E,Footsteps On Country Road: Walking,10,5.0,footstep
+07037059.wav,"Footsteps on Country Road, woman walking, with approach & stop.",17,,EC99E,Footsteps On Country Road: Walking,11,5.0,footstep
+07037060.wav,"Footsteps on Country Road, woman walking, departing.",17,,EC99E,Footsteps On Country Road: Walking,12,5.0,footstep
+07064128.wav,2 men 2 women approach and stop (reprocessed),14,Footsteps: Male: Road: Walking,ECD055,Footsteps 1,53,5.0,footstep
+07064129.wav,2 men 2 women depart (reprocessed),14,Footsteps: Male: Road: Walking,ECD055,Footsteps 1,54,5.0,footstep
+07037096.wav,"Footsteps on Country Road, two men & two women running, departing.",20,,EC99H,Footsteps On Country Road: Running,12,5.0,footstep
+07037195.wav,"Footsteps on Wood, man walking, departing. (Dead acoustic.)",16,,EC99S,Footsteps On Wood: Walking (Dead Acoustic),3,5.0,footstep
+07064200.wav,1 woman approaches and stops (reprocessed),11,Footsteps: Female: Stone: Running,ECD056,Footsteps 2,26,5.0,footstep
+07037197.wav,"Footsteps on Wood, two men walking, with approach & stop. (Dead acoustic.)",16,,EC99S,Footsteps On Wood: Walking (Dead Acoustic),5,5.0,footstep
+07064209.wav,1 woman approaches and stops (reprocessed),22,Footsteps: Female: Wooden Stairs: Ascending,ECD056,Footsteps 2,35,5.0,footstep
+07064210.wav,1 woman departs (reprocessed),19,Footsteps: Female: Wooden Stairs: Ascending,ECD056,Footsteps 2,36,5.0,footstep
+07064211.wav,2 women start and stop (reprocessed),25,Footsteps: Female: Wooden Stairs: Ascending,ECD056,Footsteps 2,37,5.0,footstep
+07064212.wav,2 women approach and stop (reprocessed),24,Footsteps: Female: Wooden Stairs: Ascending,ECD056,Footsteps 2,38,5.0,footstep
+07064213.wav,2 women depart (reprocessed),20,Footsteps: Female: Wooden Stairs: Ascending,ECD056,Footsteps 2,39,5.0,footstep
+07064214.wav,1 man 1 woman start and stop (reprocessed),22,Footsteps: Male: Wooden Stairs: Ascending,ECD056,Footsteps 2,40,5.0,footstep
+07064215.wav,1 man 1 woman approach and stop (reprocessed),20,Footsteps: Male: Wooden Stairs: Ascending,ECD056,Footsteps 2,41,5.0,footstep
+07064216.wav,1 man 1 woman depart (reprocessed),16,Footsteps: Male: Wooden Stairs: Ascending,ECD056,Footsteps 2,42,5.0,footstep
+07064217.wav,1 man starts and stops (reprocessed),15,Footsteps: Male: Wooden Stairs: Descending,ECD056,Footsteps 2,43,5.0,footstep
+07064218.wav,1 man approaches and stops (reprocessed),16,Footsteps: Male: Wooden Stairs: Descending,ECD056,Footsteps 2,44,5.0,footstep
+07064219.wav,1 man departs (reprocessed),17,Footsteps: Male: Wooden Stairs: Descending,ECD056,Footsteps 2,45,5.0,footstep
+07064220.wav,2 men start and stop (reprocessed),16,Footsteps: Male: Wooden Stairs: Descending,ECD056,Footsteps 2,46,5.0,footstep
+07064221.wav,2 men approach and stop (reprocessed),17,Footsteps: Male: Wooden Stairs: Descending,ECD056,Footsteps 2,47,5.0,footstep
+07064222.wav,2 men depart (reprocessed),16,Footsteps: Male: Wooden Stairs: Descending,ECD056,Footsteps 2,48,5.0,footstep
+07064223.wav,1 woman starts and stops (reprocessed),14,Footsteps: Female: Wooden Stairs: Descending,ECD056,Footsteps 2,49,5.0,footstep
+07064224.wav,1 woman approaches and stops (reprocessed),16,Footsteps: Female: Wooden Stairs: Descending,ECD056,Footsteps 2,50,5.0,footstep
+07064225.wav,1 woman departs (reprocessed),15,Footsteps: Female: Wooden Stairs: Descending,ECD056,Footsteps 2,51,5.0,footstep
+07064226.wav,2 women start and stop (reprocessed),16,Footsteps: Female: Wooden Stairs: Descending,ECD056,Footsteps 2,52,5.0,footstep
+07064227.wav,2 women approach and stop (reprocessed),14,Footsteps: Female: Wooden Stairs: Descending,ECD056,Footsteps 2,53,5.0,footstep
+07064208.wav,1 woman starts and stops (reprocessed),17,Footsteps: Female: Wooden Stairs: Ascending,ECD056,Footsteps 2,34,5.0,footstep
+07043089.wav,Two men walking on pavement.,53,,ECD007,"Crowds, Children & Footsteps",44,5.0,footstep
+07064207.wav,2 men depart (reprocessed),20,Footsteps: Male: Wooden Stairs: Ascending,ECD056,Footsteps 2,33,5.0,footstep
+07064205.wav,2 men start and stop (reprocessed),20,Footsteps: Male: Wooden Stairs: Ascending,ECD056,Footsteps 2,31,5.0,footstep
+07037227.wav,"Footsteps on Wood, woman running, with approach & stop. (Dead acoustic.)",16,,EC99U,Footsteps On Wood: Running (Dead Acoustic),11,5.0,footstep
+07037228.wav,"Footsteps on Wood, woman running, departing. (Dead acoustic.)",15,,EC99U,Footsteps On Wood: Running (Dead Acoustic),12,5.0,footstep
+07037229.wav,"Footsteps on Wood, two women running, with start & stop. (Dead acoustic.)",62,,EC99V,Footsteps On Wood: Running (Dead Acoustic),1,5.0,footstep
+07037230.wav,"Footsteps on Wood, two women running, with approach & stop. (Dead acoustic.)",17,,EC99V,Footsteps On Wood: Running (Dead Acoustic),2,5.0,footstep
+07037231.wav,"Footsteps on Wood, two women running, departing. (Dead acoustic.)",14,,EC99V,Footsteps On Wood: Running (Dead Acoustic),3,5.0,footstep
+07037232.wav,"Footsteps on Wood, man & woman running, with start & stop. (Dead acoustic.)",64,,EC99V,Footsteps On Wood: Running (Dead Acoustic),4,5.0,footstep
+07037233.wav,"Footsteps on Wood, man & woman running, with approach & stop. (Dead acoustic.)",21,,EC99V,Footsteps On Wood: Running (Dead Acoustic),5,5.0,footstep
+07037234.wav,"Footsteps on Wood, man & woman running, departing. (Dead acoustic.)",21,,EC99V,Footsteps On Wood: Running (Dead Acoustic),6,5.0,footstep
+07037235.wav,"Footsteps on Wood, two men & one woman running, with start and stop. (Dead acoustic.)",71,,EC99V,Footsteps On Wood: Running (Dead Acoustic),7,5.0,footstep
+07037236.wav,"Footsteps on Wood, two men & one woman running, with approach & stop. (Dead acoustic.)",18,,EC99V,Footsteps On Wood: Running (Dead Acoustic),8,5.0,footstep
+07037237.wav,"Footsteps on Wood, two men & one woman running, departing. (Dead acoustic.)",17,,EC99V,Footsteps On Wood: Running (Dead Acoustic),9,5.0,footstep
+07037238.wav,"Footsteps on Wood, two men & two women running, with start & stop. (Dead acoustic.)",69,,EC99V,Footsteps On Wood: Running (Dead Acoustic),10,5.0,footstep
+07037239.wav,"Footsteps on Wood, two men & two women running, with approach & stop. (Dead acoustic.)",21,,EC99V,Footsteps On Wood: Running (Dead Acoustic),11,5.0,footstep
+07037240.wav,"Footsteps on Wood, two men & two women running, departing. (Dead acoustic.)",21,,EC99V,Footsteps On Wood: Running (Dead Acoustic),12,5.0,footstep
+07004052.wav,"Running, 2 men departing.",27,,EC100A,Footsteps In Undergrowth: Running,12,5.0,footstep
+07064201.wav,1 woman departs (reprocessed),13,Footsteps: Female: Stone: Running,ECD056,Footsteps 2,27,5.0,footstep
+07064202.wav,1 man starts and stops (reprocessed),24,Footsteps: Male: Wooden Stairs: Ascending,ECD056,Footsteps 2,28,5.0,footstep
+07064203.wav,1 man approaches and stops (reprocessed),21,Footsteps: Male: Wooden Stairs: Ascending,ECD056,Footsteps 2,29,5.0,footstep
+07064204.wav,1 man departs (reprocessed),19,Footsteps: Male: Wooden Stairs: Ascending,ECD056,Footsteps 2,30,5.0,footstep
+07064206.wav,2 men approach and stop (reprocessed),23,Footsteps: Male: Wooden Stairs: Ascending,ECD056,Footsteps 2,32,5.0,footstep
+07064228.wav,2 women depart (reprocessed),14,Footsteps: Female: Wooden Stairs: Descending,ECD056,Footsteps 2,54,5.0,footstep
+07064229.wav,1 man 1 woman start and stop (reprocessed),15,Footsteps: Male: Wooden Stairs: Descending,ECD056,Footsteps 2,55,5.0,footstep
+07064230.wav,1 man 1 woman approach and stop (reprocessed),14,Footsteps: Male: Wooden Stairs: Descending,ECD056,Footsteps 2,56,5.0,footstep
+07064253.wav,2 women start and stop (reprocessed),43,Footsteps: Female: Stone Stairs: Descending,ECD056,Footsteps 2,79,5.0,footstep
+07064254.wav,2 women approach and stop (reprocessed),9,Footsteps: Female: Stone Stairs: Descending,ECD056,Footsteps 2,80,5.0,footstep
+07064273.wav,1 woman departs (reprocessed),21,Footsteps: Female: Metal Stairs: Descending,ECD056,Footsteps 2,99,5.0,footstep
+07064272.wav,1 woman approaches and stops (reprocessed),18,Footsteps: Female: Metal Stairs: Descending,ECD056,Footsteps 2,98,5.0,footstep
+07064271.wav,1 woman starts and stops (reprocessed),22,Footsteps: Female: Metal Stairs: Descending,ECD056,Footsteps 2,97,5.0,footstep
+07064270.wav,2 men depart (reprocessed),20,Footsteps: Male: Metal Stairs: Descending,ECD056,Footsteps 2,96,5.0,footstep
+07064269.wav,2 men approach and stop (reprocessed),26,Footsteps: Male: Metal Stairs: Descending,ECD056,Footsteps 2,95,5.0,footstep
+07064268.wav,2 men start and stop (reprocessed),41,Footsteps: Male: Metal Stairs: Descending,ECD056,Footsteps 2,94,5.0,footstep
+07064267.wav,1 man departs (reprocessed),18,Footsteps: Male: Metal Stairs: Descending,ECD056,Footsteps 2,93,5.0,footstep
+07064266.wav,1 man approaches and stops (reprocessed),18,Footsteps: Male: Metal Stairs: Descending,ECD056,Footsteps 2,92,5.0,footstep
+07064255.wav,2 women depart (reprocessed),9,Footsteps: Female: Stone Stairs: Descending,ECD056,Footsteps 2,81,5.0,footstep
+07064265.wav,1 man starts and stops (reprocessed),34,Footsteps: Male: Metal Stairs: Descending,ECD056,Footsteps 2,91,5.0,footstep
+07064264.wav,1 woman departs (reprocessed),17,Footsteps: Female: Metal Stairs: Ascending,ECD056,Footsteps 2,90,5.0,footstep
+07064263.wav,1 woman approaches and stops (reprocessed),25,Footsteps: Female: Metal Stairs: Ascending,ECD056,Footsteps 2,89,5.0,footstep
+07064262.wav,1 woman starts and stops (reprocessed),36,Footsteps: Female: Metal Stairs: Ascending,ECD056,Footsteps 2,88,5.0,footstep
+07064261.wav,2 men depart (reprocessed),21,Footsteps: Male: Metal Stairs: Ascending,ECD056,Footsteps 2,87,5.0,footstep
+07064260.wav,2 men approach and stop (reprocessed),24,Footsteps: Male: Metal Stairs: Ascending,ECD056,Footsteps 2,86,5.0,footstep
+07064259.wav,2 men start and stop (reprocessed),36,Footsteps: Male: Metal Stairs: Ascending,ECD056,Footsteps 2,85,5.0,footstep
+07064256.wav,1 man starts and stops (reprocessed),35,Footsteps: Male: Metal Stairs: Ascending,ECD056,Footsteps 2,82,5.0,footstep
+07064252.wav,1 woman departs (reprocessed),11,Footsteps: Female: Stone Stairs: Descending,ECD056,Footsteps 2,78,5.0,footstep
+07064251.wav,1 woman approaches and stops (reprocessed),9,Footsteps: Female: Stone Stairs: Descending,ECD056,Footsteps 2,77,5.0,footstep
+07064250.wav,1 woman starts and stops (reprocessed),49,Footsteps: Female: Stone Stairs: Descending,ECD056,Footsteps 2,76,5.0,footstep
+07064249.wav,2 men depart (reprocessed),12,Footsteps: Male: Stone Stairs: Descending,ECD056,Footsteps 2,75,5.0,footstep
+07064231.wav,1 man 1 woman depart (reprocessed),15,Footsteps: Male: Wooden Stairs: Descending,ECD056,Footsteps 2,57,5.0,footstep
+07064232.wav,1 man starts and stops (reprocessed),26,Footsteps: Male: Stone Stairs: Ascending,ECD056,Footsteps 2,58,5.0,footstep
+07064233.wav,1 man approaches and stops (reprocessed),11,Footsteps: Male: Stone Stairs: Ascending,ECD056,Footsteps 2,59,5.0,footstep
+07064234.wav,1 man departs (reprocessed),12,Footsteps: Male: Stone Stairs: Ascending,ECD056,Footsteps 2,60,5.0,footstep
+07064235.wav,2 men start and stop (reprocessed),28,Footsteps: Male: Stone Stairs: Ascending,ECD056,Footsteps 2,61,5.0,footstep
+07064236.wav,2 men approach and stop (reprocessed),11,Footsteps: Male: Stone Stairs: Ascending,ECD056,Footsteps 2,62,5.0,footstep
+07064237.wav,2 men depart (reprocessed),14,Footsteps: Male: Stone Stairs: Ascending,ECD056,Footsteps 2,63,5.0,footstep
+07064238.wav,1 woman starts and stops (reprocessed),37,Footsteps: Female: Stone Stairs: Ascending,ECD056,Footsteps 2,64,5.0,footstep
+07064239.wav,1 woman approaches and stops (reprocessed),15,Footsteps: Female: Stone Stairs: Ascending,ECD056,Footsteps 2,65,5.0,footstep
+07037226.wav,"Footsteps on Wood, woman running, with start & stop. (Dead acoustic.)",70,,EC99U,Footsteps On Wood: Running (Dead Acoustic),10,5.0,footstep
+07064240.wav,1 woman departs (reprocessed),13,Footsteps: Female: Stone Stairs: Ascending,ECD056,Footsteps 2,66,5.0,footstep
+07064242.wav,2 women approach and stop (reprocessed),17,Footsteps: Female: Stone Stairs: Ascending,ECD056,Footsteps 2,68,5.0,footstep
+07064243.wav,2 women depart (reprocessed),16,Footsteps: Female: Stone Stairs: Ascending,ECD056,Footsteps 2,69,5.0,footstep
+07039250.wav,Woman walking on country road.,53,,EC1009B,,7,5.0,footstep
+07039253.wav,Woman walking on country road.,55,,EC1009B,,10,5.0,footstep
+07064244.wav,1 man starts and stops (reprocessed),36,Footsteps: Male: Stone Stairs: Descending,ECD056,Footsteps 2,70,5.0,footstep
+07064245.wav,1 man approaches and stops (reprocessed),10,Footsteps: Male: Stone Stairs: Descending,ECD056,Footsteps 2,71,5.0,footstep
+07064246.wav,1 man departs (reprocessed),13,Footsteps: Male: Stone Stairs: Descending,ECD056,Footsteps 2,72,5.0,footstep
+07064247.wav,2 men start and stop (reprocessed),36,Footsteps: Male: Stone Stairs: Descending,ECD056,Footsteps 2,73,5.0,footstep
+07064248.wav,2 men approach and stop (reprocessed),11,Footsteps: Male: Stone Stairs: Descending,ECD056,Footsteps 2,74,5.0,footstep
+07064241.wav,2 women start and stop (reprocessed),30,Footsteps: Female: Stone Stairs: Ascending,ECD056,Footsteps 2,67,5.0,footstep
+07037196.wav,"Footsteps on Wood, two men walking, with start & stop. (Dead acoustic.)",67,,EC99S,Footsteps On Wood: Walking (Dead Acoustic),4,5.0,footstep
+07037225.wav,"Footsteps on Wood, three men running, departing. (Dead acoustic.)",18,,EC99U,Footsteps On Wood: Running (Dead Acoustic),9,5.0,footstep
+07037223.wav,"Footsteps on Wood, three men running, with start & stop. (Dead acoustic.)",67,,EC99U,Footsteps On Wood: Running (Dead Acoustic),7,5.0,footstep
+07064153.wav,1 woman departs (reprocessed),10,Footsteps: Female: Wood: Walking,ECD055,Footsteps 1,78,5.0,footstep
+07064154.wav,2 women start and stop (reprocessed),64,Footsteps: Female: Wood: Walking,ECD055,Footsteps 1,79,5.0,footstep
+07064155.wav,2 women approach and stop (reprocessed),10,Footsteps: Female: Wood: Walking,ECD055,Footsteps 1,80,5.0,footstep
+07064156.wav,2 women depart (reprocessed),10,Footsteps: Female: Wood: Walking,ECD055,Footsteps 1,81,5.0,footstep
+07064157.wav,1 man 1 woman start and stop (reprocessed),59,Footsteps: Male: Wood: Walking,ECD055,Footsteps 1,82,5.0,footstep
+07064158.wav,1 man 1 woman approach and stop (reprocessed),12,Footsteps: Male: Wood: Walking,ECD055,Footsteps 1,83,5.0,footstep
+07064159.wav,1 man 1 woman depart (reprocessed),12,Footsteps: Male: Wood: Walking,ECD055,Footsteps 1,84,5.0,footstep
+07064160.wav,1 man starts and stops (reprocessed),65,Footsteps: Male: Wood: Running,ECD055,Footsteps 1,85,5.0,footstep
+07064161.wav,1 man approaches and stops (reprocessed),14,Footsteps: Male: Wood: Running,ECD055,Footsteps 1,86,5.0,footstep
+07064162.wav,1 man departs (reprocessed),12,Footsteps: Male: Wood: Running,ECD055,Footsteps 1,87,5.0,footstep
+07064164.wav,2 men approach and stop (reprocessed),14,Footsteps: Male: Wood: Running,ECD055,Footsteps 1,89,5.0,footstep
+07064165.wav,2 men depart (reprocessed),16,Footsteps: Male: Wood: Running,ECD055,Footsteps 1,90,5.0,footstep
+07064166.wav,1 woman starts and stops (reprocessed),67,Footsteps: Female: Wood: Running,ECD055,Footsteps 1,91,5.0,footstep
+07064167.wav,1 woman approaches and stops (reprocessed),12,Footsteps: Female: Wood: Running,ECD055,Footsteps 1,92,5.0,footstep
+07064168.wav,1 woman departs (reprocessed),13,Footsteps: Female: Wood: Running,ECD055,Footsteps 1,93,5.0,footstep
+07064169.wav,2 women start and stop (reprocessed),60,Footsteps: Female: Wood: Running,ECD055,Footsteps 1,94,5.0,footstep
+07064170.wav,2 women approach and stop (reprocessed),13,Footsteps: Female: Wood: Running,ECD055,Footsteps 1,95,5.0,footstep
+07037203.wav,"Footsteps on Wood, woman walking, with approach & stop. (Dead acoustic.)",15,,EC99S,Footsteps On Wood: Walking (Dead Acoustic),11,5.0,footstep
+07064171.wav,2 women depart (reprocessed),12,Footsteps: Female: Wood: Running,ECD055,Footsteps 1,96,5.0,footstep
+07064152.wav,1 woman approaches and stops (reprocessed),12,Footsteps: Female: Wood: Walking,ECD055,Footsteps 1,77,5.0,footstep
+07064172.wav,1 man 1 woman start and stop (reprocessed),61,Footsteps: Male: Wood: Running,ECD055,Footsteps 1,97,5.0,footstep
+07064151.wav,1 woman starts and stops (reprocessed),62,Footsteps: Female: Wood: Walking,ECD055,Footsteps 1,76,5.0,footstep
+07064149.wav,2 men approach and stop (reprocessed),13,Footsteps: Male: Wood: Walking,ECD055,Footsteps 1,74,5.0,footstep
+07037198.wav,"Footsteps on Wood, two men walking, departing. (Dead acoustic.)",21,,EC99S,Footsteps On Wood: Walking (Dead Acoustic),6,5.0,footstep
+07037199.wav,"Footsteps on Wood, three men walking, with start & stop. (Dead acoustic.)",69,,EC99S,Footsteps On Wood: Walking (Dead Acoustic),7,5.0,footstep
+07037200.wav,"Footsteps on Wood, three men walking, with approach & stop. (Dead acoustic.)",17,,EC99S,Footsteps On Wood: Walking (Dead Acoustic),8,5.0,footstep
+07037201.wav,"Footsteps on Wood, three men walking, departing. (Dead acoustic.)",16,,EC99S,Footsteps On Wood: Walking (Dead Acoustic),9,5.0,footstep
+07037202.wav,"Footsteps on Wood, woman walking, with start & stop. (Dead acoustic.)",65,,EC99S,Footsteps On Wood: Walking (Dead Acoustic),10,5.0,footstep
+07064135.wav,2 men depart (reprocessed),15,Footsteps: Male: Road: Running,ECD055,Footsteps 1,60,5.0,footstep
+07064136.wav,1 woman starts and stops (reprocessed),64,Footsteps: Female: Road: Running,ECD055,Footsteps 1,61,5.0,footstep
+07064137.wav,1 woman approaches and stops (reprocessed),16,Footsteps: Female: Road: Running,ECD055,Footsteps 1,62,5.0,footstep
+07064138.wav,1 woman departs (reprocessed),15,Footsteps: Female: Road: Running,ECD055,Footsteps 1,63,5.0,footstep
+07064139.wav,2 women start and stop (reprocessed),65,Footsteps: Female: Road: Running,ECD055,Footsteps 1,64,5.0,footstep
+07064140.wav,2 women approach and stop (reprocessed),15,Footsteps: Female: Road: Running,ECD055,Footsteps 1,65,5.0,footstep
+07064141.wav,2 women depart (reprocessed),16,Footsteps: Female: Road: Running,ECD055,Footsteps 1,66,5.0,footstep
+07064142.wav,1 man 1 woman start and stop (reprocessed),61,Footsteps: Male: Road: Running,ECD055,Footsteps 1,67,5.0,footstep
+07064143.wav,1 man 1 woman approach and stop (reprocessed),17,Footsteps: Male: Road: Running,ECD055,Footsteps 1,68,5.0,footstep
+07064144.wav,1 man 1 woman depart (reprocessed),14,Footsteps: Male: Road: Running,ECD055,Footsteps 1,69,5.0,footstep
+07064145.wav,1 man starts and stops (reprocessed),63,Footsteps: Male: Wood: Walking,ECD055,Footsteps 1,70,5.0,footstep
+07064146.wav,1 man approaches and stops (reprocessed),13,Footsteps: Male: Wood: Walking,ECD055,Footsteps 1,71,5.0,footstep
+07064147.wav,1 man departs (reprocessed),12,Footsteps: Male: Wood: Walking,ECD055,Footsteps 1,72,5.0,footstep
+07064148.wav,2 men start and stop (reprocessed),64,Footsteps: Male: Wood: Walking,ECD055,Footsteps 1,73,5.0,footstep
+07064150.wav,2 men depart (reprocessed),10,Footsteps: Male: Wood: Walking,ECD055,Footsteps 1,75,5.0,footstep
+07064173.wav,1 man 1 woman approach and stop (reprocessed),17,Footsteps: Male: Wood: Running,ECD055,Footsteps 1,98,5.0,footstep
+07064174.wav,1 man 1 woman depart (reprocessed),14,Footsteps: Male: Wood: Running,ECD055,Footsteps 1,99,5.0,footstep
+07064175.wav,1 man starts and stops (reprocessed),63,Footsteps: Male: Stone: Walking,ECD056,Footsteps 2,1,5.0,footstep
+07064198.wav,3 men depart (reprocessed),13,Footsteps: Male: Stone: Running,ECD056,Footsteps 2,24,5.0,footstep
+07064199.wav,1 woman starts and stops (reprocessed),62,Footsteps: Female: Stone: Running,ECD056,Footsteps 2,25,5.0,footstep
+07037206.wav,"Footsteps on Wood, two women walking, with approach & stop. (Dead acoustic.)",14,,EC99T,Footsteps On Wood: Walking (Dead Acoustic),2,5.0,footstep
+07037207.wav,"Footsteps on Wood, two women walking, departing. (Dead acoustic.)",14,,EC99T,Footsteps On Wood: Walking (Dead Acoustic),3,5.0,footstep
+07037208.wav,"Footsteps on Wood, man & woman walking, with start & stop. (Dead acoustic.)",63,,EC99T,Footsteps On Wood: Walking (Dead Acoustic),4,5.0,footstep
+07037209.wav,"Footsteps on Wood, man & woman walking, with approach & stop. (Dead acoustic.)",15,,EC99T,Footsteps On Wood: Walking (Dead Acoustic),5,5.0,footstep
+07037210.wav,"Footsteps on Wood, man & woman walking, departing. (Dead acoustic.)",16,,EC99T,Footsteps On Wood: Walking (Dead Acoustic),6,5.0,footstep
+07037211.wav,"Footsteps on Wood, two men & one woman walking, with start & stop. (Dead acoustic.)",65,,EC99T,Footsteps On Wood: Walking (Dead Acoustic),7,5.0,footstep
+07037212.wav,"Footsteps on Wood, two men & one woman walking, with approach & stop. (Dead acoustic.)",16,,EC99T,Footsteps On Wood: Walking (Dead Acoustic),8,5.0,footstep
+07037213.wav,"Footsteps on Wood, two men & one woman walking, departing. (Dead acoustic.)",17,,EC99T,Footsteps On Wood: Walking (Dead Acoustic),9,5.0,footstep
+07037214.wav,"Footsteps on Wood, two men & two women walking, with start and stop. (Dead acoustic.)",64,,EC99T,Footsteps On Wood: Walking (Dead Acoustic),10,5.0,footstep
+07037215.wav,"Footsteps on Wood, two men & two women walking, with approach & stop. (Dead acoustic.)",17,,EC99T,Footsteps On Wood: Walking (Dead Acoustic),11,5.0,footstep
+07037216.wav,"Footsteps on Wood, two men & two women walking, departing. (Dead acoustic.)",18,,EC99T,Footsteps On Wood: Walking (Dead Acoustic),12,5.0,footstep
+07037217.wav,"Footsteps on Wood, man running, with start & stop. (Dead acoustic.)",68,,EC99U,Footsteps On Wood: Running (Dead Acoustic),1,5.0,footstep
+07037218.wav,"Footsteps on Wood, man running, with approach & stop. (Dead acoustic.)",17,,EC99U,Footsteps On Wood: Running (Dead Acoustic),2,5.0,footstep
+07037219.wav,"Footsteps on Wood, man running, departing. (Dead acoustic.)",16,,EC99U,Footsteps On Wood: Running (Dead Acoustic),3,5.0,footstep
+07037220.wav,"Footsteps on Wood, two men running, with start & stop. (Dead acoustic.)",68,,EC99U,Footsteps On Wood: Running (Dead Acoustic),4,5.0,footstep
+07037221.wav,"Footsteps on Wood, two men running, with approach & stop. (Dead acoustic.)",18,,EC99U,Footsteps On Wood: Running (Dead Acoustic),5,5.0,footstep
+07037222.wav,"Footsteps on Wood, two men running, departing. (Dead acoustic.)",18,,EC99U,Footsteps On Wood: Running (Dead Acoustic),6,5.0,footstep
+07037205.wav,"Footsteps on Wood, two women walking, with start & stop. (Dead acoustic.)",67,,EC99T,Footsteps On Wood: Walking (Dead Acoustic),1,5.0,footstep
+07037204.wav,"Footsteps on Wood, woman walking, departing. (Dead acoustic.)",13,,EC99S,Footsteps On Wood: Walking (Dead Acoustic),12,5.0,footstep
+07064197.wav,3 men approach and stop (reprocessed),14,Footsteps: Male: Stone: Running,ECD056,Footsteps 2,23,5.0,footstep
+07064196.wav,3 men start and stop (reprocessed),64,Footsteps: Male: Stone: Running,ECD056,Footsteps 2,22,5.0,footstep
+07064176.wav,1 man approaches and stops (reprocessed),13,Footsteps: Male: Stone: Walking,ECD056,Footsteps 2,2,5.0,footstep
+07064177.wav,1 man departs (reprocessed),14,Footsteps: Male: Stone: Walking,ECD056,Footsteps 2,3,5.0,footstep
+07064178.wav,2 men start and stop (reprocessed),63,Footsteps: Male: Stone: Walking,ECD056,Footsteps 2,4,5.0,footstep
+07064179.wav,2 men approach and stop (reprocessed),14,Footsteps: Male: Stone: Walking,ECD056,Footsteps 2,5,5.0,footstep
+07064180.wav,2 men depart (reprocessed),14,Footsteps: Male: Stone: Walking,ECD056,Footsteps 2,6,5.0,footstep
+07064181.wav,1 woman starts and stops (reprocessed),64,Footsteps: Female: Stone: Walking,ECD056,Footsteps 2,7,5.0,footstep
+07064182.wav,1 woman approaches and stops (reprocessed),14,Footsteps: Female: Stone: Walking,ECD056,Footsteps 2,8,5.0,footstep
+07064183.wav,1 woman departs (reprocessed),13,Footsteps: Female: Stone: Walking,ECD056,Footsteps 2,9,5.0,footstep
+07064184.wav,2 women start and stop (reprocessed),65,Footsteps: Female: Stone: Walking,ECD056,Footsteps 2,10,5.0,footstep
+07037224.wav,"Footsteps on Wood, three men running, with approach & stop. (Dead acoustic.)",18,,EC99U,Footsteps On Wood: Running (Dead Acoustic),8,5.0,footstep
+07064185.wav,2 women approach and stop,14,Footsteps: Female: Stone: Walking,ECD056,Footsteps 2,11,5.0,footstep
+07064187.wav,1 man 1 woman start and stop (reprocessed),62,Footsteps: Male: Stone: Walking,ECD056,Footsteps 2,13,5.0,footstep
+07064188.wav,1 man 1 woman approach and stop (reprocessed),14,Footsteps: Male: Stone: Walking,ECD056,Footsteps 2,14,5.0,footstep
+07064189.wav,1 man 1 woman depart  (reprocessed),15,Footsteps: Male: Stone: Walking,ECD056,Footsteps 2,15,5.0,footstep
+07064190.wav,1 man starts and stops (reprocessed),62,Footsteps: Male: Stone: Running,ECD056,Footsteps 2,16,5.0,footstep
+07064191.wav,1 man approaches and stops (reprocessed),12,Footsteps: Male: Stone: Running,ECD056,Footsteps 2,17,5.0,footstep
+07064192.wav,1 man departs (reprocessed),14,Footsteps: Male: Stone: Running,ECD056,Footsteps 2,18,5.0,footstep
+07064193.wav,2 men start and stop (reprocessed),62,Footsteps: Male: Stone: Running,ECD056,Footsteps 2,19,5.0,footstep
+07064194.wav,2 men approach and stop (reprocessed),12,Footsteps: Male: Stone: Running,ECD056,Footsteps 2,20,5.0,footstep
+07064195.wav,2 men depart (reprocessed),14,Footsteps: Male: Stone: Running,ECD056,Footsteps 2,21,5.0,footstep
+07064186.wav,2 women depart (reprocessed),14,Footsteps: Female: Stone: Walking,ECD056,Footsteps 2,12,5.0,footstep
+07004053.wav,"Footsteps in snow, 1 man. (With start and stop)",93,,EC100C,Footsteps In Snow,1,5.0,footstep
+07064163.wav,2 men start and stop (reprocessed),64,Footsteps: Male: Wood: Running,ECD055,Footsteps 1,88,5.0,footstep
+07004055.wav,"Footsteps in snow, 1 man departing.",31,,EC100C,Footsteps In Snow,3,5.0,footstep
+07037029.wav,"Footsteps on Pavement, man & woman running, with approach & stop.",15,,EC99C,Footsteps On Pavement: Running,5,5.0,footstep
+07037028.wav,"Footsteps on Pavement, man & woman running, with start & stop.",61,,EC99C,Footsteps On Pavement: Running,4,5.0,footstep
+07037027.wav,"Footsteps on Pavement, two women running, departing.",18,,EC99C,Footsteps On Pavement: Running,3,5.0,footstep
+07037026.wav,"Footsteps on Pavement, two women running, with approach & stop.",17,,EC99C,Footsteps On Pavement: Running,2,5.0,footstep
+07037025.wav,"Footsteps on Pavement, two women running, with start & stop.",67,,EC99C,Footsteps On Pavement: Running,1,5.0,footstep
+07037024.wav,"Footsteps on Pavement, two men & two women walking, departing.",19,,EC99B,Footsteps On Pavement: Walking,12,5.0,footstep
+07037023.wav,"Footsteps on Pavement, two men & two women walking, with approach & stop.",17,,EC99B,Footsteps On Pavement: Walking,11,5.0,footstep
+07037022.wav,"Footsteps on Pavement, two men & two women walking, with start & stop.",66,,EC99B,Footsteps On Pavement: Walking,10,5.0,footstep
+07037021.wav,"Footsteps on Pavement, two men & one woman walking, departing.",20,,EC99B,Footsteps On Pavement: Walking,9,5.0,footstep
+07037020.wav,"Footsteps on Pavement, two men & one woman walking, with approach & stop.",17,,EC99B,Footsteps On Pavement: Walking,8,5.0,footstep
+07037019.wav,"Footsteps on Pavement, two men & one woman walking, with start & stop.",66,,EC99B,Footsteps On Pavement: Walking,7,5.0,footstep
+07037018.wav,"Footsteps on Pavement, man & woman walking, departing.",20,,EC99B,Footsteps On Pavement: Walking,6,5.0,footstep
+07037030.wav,"Footsteps on Pavement, man & woman running, departing.",14,,EC99C,Footsteps On Pavement: Running,6,5.0,footstep
+07037017.wav,"Footsteps on Pavement, man & woman walking, with approach & stop.",16,,EC99B,Footsteps On Pavement: Walking,5,5.0,footstep
+07037015.wav,"Footsteps on Pavement, two women walking, departing.",18,,EC99B,Footsteps On Pavement: Walking,3,5.0,footstep
+07037014.wav,"Footsteps on Pavement, two women walking, with approach & stop.",15,,EC99B,Footsteps On Pavement: Walking,2,5.0,footstep
+07037013.wav,"Footsteps on Pavement, two women walking, with start & stop.",64,,EC99B,Footsteps On Pavement: Walking,1,5.0,footstep
+07037012.wav,"Footsteps on Pavement, woman walking, departing.",22,,EC99A,Footsteps On Pavement: Walking,12,5.0,footstep
+07037011.wav,"Footsteps on Pavement, woman walking, with approach & stop.",15,,EC99A,Footsteps On Pavement: Walking,11,5.0,footstep
+07037010.wav,"Footsteps on Pavement, woman walking, with start & stop.",62,,EC99A,Footsteps On Pavement: Walking,10,5.0,footstep
+07037009.wav,"Footsteps on Pavement, three men walking, departing.",16,,EC99A,Footsteps On Pavement: Walking,9,5.0,footstep
+07037008.wav,"Footsteps on Pavement, three men walking, with approach & stop.",24,,EC99A,Footsteps On Pavement: Walking,8,5.0,footstep
+07037007.wav,"Footsteps on Pavement, three men walking, with start & stop.",67,,EC99A,Footsteps On Pavement: Walking,7,5.0,footstep
+07037006.wav,"Footsteps on Pavement, two men walking, departing.",16,,EC99A,Footsteps On Pavement: Walking,6,5.0,footstep
+07037005.wav,"Footsteps on Pavement, two men walking, with approach & stop.",16,,EC99A,Footsteps On Pavement: Walking,5,5.0,footstep
+07037004.wav,"Footsteps on Pavement, two men walking, with start & stop.",63,,EC99A,Footsteps On Pavement: Walking,4,5.0,footstep
+07037016.wav,"Footsteps on Pavement, man & woman walking, with start & stop.",66,,EC99B,Footsteps On Pavement: Walking,4,5.0,footstep
+07037031.wav,"Footsteps on Pavement, two men & one woman running, with start & stop.",67,,EC99C,Footsteps On Pavement: Running,7,5.0,footstep
+07037032.wav,"Footsteps on Pavement, two men & one woman running, with approach & stop.",20,,EC99C,Footsteps On Pavement: Running,8,5.0,footstep
+07037033.wav,"Footsteps on Pavement, two men & one woman running, departing.",16,,EC99C,Footsteps On Pavement: Running,9,5.0,footstep
+07004150.wav,"Fast footsteps down stone stairs, 1 man. (With approach and stop)",11,,EC100N,Fast Footsteps Down Stone Stars,2,5.0,footstep
+07004151.wav,"Fast footsteps down stone stairs, 1 man departing.",10,,EC100N,Fast Footsteps Down Stone Stars,3,5.0,footstep
+07004152.wav,"Fast footsteps down stone stairs, 2 men. (With start and stop)",41,,EC100N,Fast Footsteps Down Stone Stars,4,5.0,footstep
+07004153.wav,"Fast footsteps down stone stairs, 2 men. (With approach and stop)",12,,EC100N,Fast Footsteps Down Stone Stars,5,5.0,footstep
+07004154.wav,"Fast footsteps down stone stairs, 2 men departing.",12,,EC100N,Fast Footsteps Down Stone Stars,6,5.0,footstep
+07004155.wav,"Fast footsteps down stone stairs, 1 woman. (With start and stop)",36,,EC100N,Fast Footsteps Down Stone Stars,7,5.0,footstep
+07004156.wav,"Fast footsteps down stone stairs, 1 woman. (With approach and stop)",11,,EC100N,Fast Footsteps Down Stone Stars,8,5.0,footstep
+07004157.wav,"Fast footsteps down stone stairs, 1 woman departing.",11,,EC100N,Fast Footsteps Down Stone Stars,9,5.0,footstep
+07004158.wav,"Fast footsteps down stone stairs, 1 woman. (With start and stop)",37,,EC100N,Fast Footsteps Down Stone Stars,10,5.0,footstep
+07004159.wav,"Fast footsteps down stone stairs, 2 women. (With approach and stop)",11,,EC100N,Fast Footsteps Down Stone Stars,11,5.0,footstep
+07004160.wav,"Fast footsteps down stone stairs, 2 women departing.",10,,EC100N,Fast Footsteps Down Stone Stars,12,5.0,footstep
+07004161.wav,"Footsteps down stone stairs, 1 man. (With start and stop)",86,,EC100P,Footsteps,1,5.0,footstep
+07004162.wav,"Footsteps down stone stairs, 1 man. (With approach and stop)",14,,EC100P,Footsteps,2,5.0,footstep
+07004163.wav,"Footsteps down stone stairs, 1 man departing.",18,,EC100P,Footsteps,3,5.0,footstep
+07004164.wav,"Footsteps down stone stairs, 2 men. (With start and stop)",66,,EC100P,Footsteps,4,5.0,footstep
+07004165.wav,"Footsteps down stone stairs, 2 men. (With approach and stop)",15,,EC100P,Footsteps,5,5.0,footstep
+07004166.wav,"Footsteps down stone stairs, 2 men departing.",15,,EC100P,Footsteps,6,5.0,footstep
+07004167.wav,"Footsteps down stone stairs, 1 woman. (With start and stop)",60,,EC100P,Footsteps,7,5.0,footstep
+07004168.wav,"Footsteps down stone stairs, 1 woman. (With approach and stop)",13,,EC100P,Footsteps,8,5.0,footstep
+07004169.wav,"Footsteps down stone stairs, 1 woman departing.",16,,EC100P,Footsteps,9,5.0,footstep
+07037039.wav,"Footsteps on Pavement, man running, departing.",18,,EC99D,Footsteps On Pavement: Running,3,5.0,footstep
+07037038.wav,"Footsteps on Pavement, man running, with approach & stop.",21,,EC99D,Footsteps On Pavement: Running,2,5.0,footstep
+07037037.wav,"Footsteps on Pavement, man running, with start & stop.",72,,EC99D,Footsteps On Pavement: Running,1,5.0,footstep
+07037036.wav,"Footsteps on Pavement, two men & two women running, departing.",17,,EC99C,Footsteps On Pavement: Running,12,5.0,footstep
+07037035.wav,"Footsteps on Pavement, two men & two women running, with approach & stop.",19,,EC99C,Footsteps On Pavement: Running,11,5.0,footstep
+07037034.wav,"Footsteps on Pavement, two men & two women running, with start & stop.",68,,EC99C,Footsteps On Pavement: Running,10,5.0,footstep
+07004176.wav,"Running, 1 man in mud.",78,,EC100Q,Footsteps,5,5.0,footstep
+07037003.wav,"Footsteps on Pavement, man walking, departing.",14,,EC99A,Footsteps On Pavement: Walking,3,5.0,footstep
+07004149.wav,"Fast footsteps down stone stairs, 1 man. (With start and stop)",38,,EC100N,Fast Footsteps Down Stone Stars,1,5.0,footstep
+07037002.wav,"Footsteps on Pavement, man walking, with approach & stop.",15,,EC99A,Footsteps On Pavement: Walking,2,5.0,footstep
+07064126.wav,1 man 1 woman depart (reprocessed),13,Footsteps: Male: Road: Walking,ECD055,Footsteps 1,51,5.0,footstep
+07064097.wav,2 men start and stop (reprocessed),62,Footsteps: Male: Pavement: Running,ECD055,Footsteps 1,22,5.0,footstep
+07064096.wav,1 man departs (reprocessed),15,Footsteps: Male: Pavement: Running,ECD055,Footsteps 1,21,5.0,footstep
+07064095.wav,1 man approaches and stops (reprocessed),14,Footsteps: Male: Pavement: Running,ECD055,Footsteps 1,20,5.0,footstep
+07064094.wav,1 man starts and stops (reprocessed),62,Footsteps: Male: Pavement: Running,ECD055,Footsteps 1,19,5.0,footstep
+07064093.wav,2 men 2 women depart (reprocessed),13,Footsteps: Male: Pavement: Walking,ECD055,Footsteps 1,18,5.0,footstep
+07064092.wav,2 men 2 women approach and stop (reprocessed),13,Footsteps: Male: Pavement: Walking,ECD055,Footsteps 1,17,5.0,footstep
+07064091.wav,2 men 2 women start and stop (reprocessed),64,Footsteps: Male: Pavement: Walking,ECD055,Footsteps 1,16,5.0,footstep
+07064090.wav,1 man 1 woman depart (reprocessed),15,Footsteps: Male: Pavement: Walking,ECD055,Footsteps 1,15,5.0,footstep
+07064089.wav,1 man 1 woman approach and stop (reprocessed),13,Footsteps: Male: Pavement: Walking,ECD055,Footsteps 1,14,5.0,footstep
+07064088.wav,1 man 1 woman start and stop (reprocessed),64,Footsteps: Male: Pavement: Walking,ECD055,Footsteps 1,13,5.0,footstep
+07064087.wav,2 women depart (reprocessed),14,Footsteps: Female: Pavement: Walking,ECD055,Footsteps 1,12,5.0,footstep
+07064086.wav,2 women approach and stop (reprocessed),12,Footsteps: Female: Pavement: Walking,ECD055,Footsteps 1,11,5.0,footstep
+07064098.wav,2 men approach and stop (reprocessed),12,Footsteps: Male: Pavement: Running,ECD055,Footsteps 1,23,5.0,footstep
+07064085.wav,2 women start and stop (reprocessed),61,Footsteps: Female: Pavement: Walking,ECD055,Footsteps 1,10,5.0,footstep
+07064083.wav,1 woman approaches and stops (reprocessed),12,Footsteps: Female: Pavement: Walking,ECD055,Footsteps 1,8,5.0,footstep
+07064082.wav,1 woman starts and stops (reprocessed),59,Footsteps: Female: Pavement: Walking,ECD055,Footsteps 1,7,5.0,footstep
+07064081.wav,2 men depart (reprocessed),14,Footsteps: Male: Pavement: Walking,ECD055,Footsteps 1,6,5.0,footstep
+07064080.wav,2 men approach and stop (reprocessed),12,Footsteps: Male: Pavement: Walking,ECD055,Footsteps 1,5,5.0,footstep
+07064079.wav,2 men start and stop (reprocessed),59,Footsteps: Male: Pavement: Walking,ECD055,Footsteps 1,4,5.0,footstep
+07064078.wav,1 man departs (reprocessed),13,Footsteps: Male: Pavement: Walking,ECD055,Footsteps 1,3,5.0,footstep
+07064077.wav,1 man approaches and stops (reprocessed),12,Footsteps: Male: Pavement: Walking,ECD055,Footsteps 1,2,5.0,footstep
+07064076.wav,1 man starts and stops (reprocessed),60,Footsteps: Male: Pavement: Walking,ECD055,Footsteps 1,1,5.0,footstep
+07033083.wav,Two tired men walking with start & stop.,45,,EC166B,Caving & Pot-Holing,3,5.0,footstep
+07033084.wav,Tired man walking with start & stop.,45,,EC166B,Caving & Pot-Holing,4,5.0,footstep
+07033085.wav,"Woman climbing, with start & stop.",35,,EC166B,Caving & Pot-Holing,5,5.0,footstep
+07033086.wav,"Man climbing, with start & stop.",20,,EC166B,Caving & Pot-Holing,6,5.0,footstep
+07064084.wav,1 woman departs (reprocessed),13,Footsteps: Female: Pavement: Walking,ECD055,Footsteps 1,9,5.0,footstep
+07064099.wav,2 men depart (reprocessed),13,Footsteps: Male: Pavement: Running,ECD055,Footsteps 1,24,5.0,footstep
+07064100.wav,1 woman starts and stops (reprocessed),64,Footsteps: Female: Pavement: Running,ECD055,Footsteps 1,25,5.0,footstep
+07064101.wav,1 woman approaches and stops (reprocessed),14,Footsteps: Female: Pavement: Running,ECD055,Footsteps 1,26,5.0,footstep
+07064125.wav,1 man 1 woman approach and stop (reprocessed),14,Footsteps: Male: Road: Walking,ECD055,Footsteps 1,50,5.0,footstep
+07064124.wav,1 man 1 woman start and stop (reprocessed),68,Footsteps: Male: Road: Walking,ECD055,Footsteps 1,49,5.0,footstep
+07064123.wav,2 women depart (reprocessed),14,Footsteps: Female: Road: Walking,ECD055,Footsteps 1,48,5.0,footstep
+07064122.wav,2 women approach and stop (reprocessed),14,Footsteps: Female: Road: Walking,ECD055,Footsteps 1,47,5.0,footstep
+07064121.wav,2 women start and stop (reprocessed),72,Footsteps: Female: Road: Walking,ECD055,Footsteps 1,46,5.0,footstep
+07064120.wav,1 woman departs (reprocessed),13,Footsteps: Female: Road: Walking,ECD055,Footsteps 1,45,5.0,footstep
+07064119.wav,1 woman approaches and stops (reprocessed),13,Footsteps: Female: Road: Walking,ECD055,Footsteps 1,44,5.0,footstep
+07064118.wav,1 woman starts and stops (reprocessed),64,Footsteps: Female: Road: Walking,ECD055,Footsteps 1,43,5.0,footstep
+07064258.wav,1 man departs (reprocessed),20,Footsteps: Male: Metal Stairs: Ascending,ECD056,Footsteps 2,84,5.0,footstep
+07064117.wav,2 men depart (reprocessed),15,Footsteps: Male: Road: Walking,ECD055,Footsteps 1,42,5.0,footstep
+07064116.wav,2 men approach and stop (reprocessed),14,Footsteps: Male: Road: Walking,ECD055,Footsteps 1,41,5.0,footstep
+07064115.wav,2 men start and stop (reprocessed),64,Footsteps: Male: Road: Walking,ECD055,Footsteps 1,40,5.0,footstep
+07064114.wav,1 man departs (reprocessed),13,Footsteps: Male: Road: Walking,ECD055,Footsteps 1,39,5.0,footstep
+07064113.wav,1 man approaches and stops (reprocessed),12,Footsteps: Male: Road: Walking,ECD055,Footsteps 1,38,5.0,footstep
+07064112.wav,1 man starts and stops (reprocessed),64,Footsteps: Male: Road: Walking,ECD055,Footsteps 1,37,5.0,footstep
+07064111.wav,2 men 2 women depart (reprocessed),15,Footsteps: Male: Pavement: Running,ECD055,Footsteps 1,36,5.0,footstep
+07064110.wav,2 men 2 women approach and stop (reprocessed),16,Footsteps: Male: Pavement: Running,ECD055,Footsteps 1,35,5.0,footstep
+07004054.wav,"Footsteps in snow, 1 man. (With approach and stop)",33,,EC100C,Footsteps In Snow,2,5.0,footstep
+07064109.wav,2 men 2 women start and stop (reprocessed),68,Footsteps: Male: Pavement: Running,ECD055,Footsteps 1,34,5.0,footstep
+07048035.wav,2 men running on deck (reprocessed),57,Boats: Trawlers,ECD071,World War 2 - 2,35,5.0,footstep
+07064108.wav,1 man 1 woman depart (reprocessed),10,Footsteps: Male: Pavement: Running,ECD055,Footsteps 1,33,5.0,footstep
+07064107.wav,1 man 1 woman approach and stop (reprocessed),18,Footsteps: Male: Pavement: Running,ECD055,Footsteps 1,32,5.0,footstep
+07064106.wav,1 man 1 woman start and stop (reprocessed),63,Footsteps: Male: Pavement: Running,ECD055,Footsteps 1,31,5.0,footstep
+07064105.wav,2 women depart (reprocessed),10,Footsteps: Female: Pavement: Running,ECD055,Footsteps 1,30,5.0,footstep
+07064104.wav,2 women approach and stop (reprocessed),12,Footsteps: Female: Pavement: Running,ECD055,Footsteps 1,29,5.0,footstep
+07064103.wav,2 women start and stop (reprocessed),58,Footsteps: Female: Pavement: Running,ECD055,Footsteps 1,28,5.0,footstep
+07064102.wav,1 woman departs (reprocessed),18,Footsteps: Female: Pavement: Running,ECD055,Footsteps 1,27,5.0,footstep
+07037001.wav,"Footsteps on Pavement, man walking, with start & stop.",65,,EC99A,Footsteps On Pavement: Walking,1,5.0,footstep
+07004148.wav,"Medium tempo footsteps down stone stairs, 2 women departing.",11,,EC100M,Footsteps Down Stone Stairs,12,5.0,footstep
+07064257.wav,1 man approaches and stops (reprocessed),21,Footsteps: Male: Metal Stairs: Ascending,ECD056,Footsteps 2,83,5.0,footstep
+07004146.wav,"Medium tempo footsteps down stone stairs, 2 women. (With start and stop)",43,,EC100M,Footsteps Down Stone Stairs,10,5.0,footstep
+07004064.wav,"Footsteps in snow, 4 men departing.",29,,EC100C,Footsteps In Snow,12,5.0,footstep
+07004063.wav,"Footsteps in snow, 4 men. (With approach and stop)",36,,EC100C,Footsteps In Snow,11,5.0,footstep
+07004089.wav,"Walking, 2 women on stone. (With start and stop, slight echo)",68,,EC100H,Footsteps On Stone: Walking (Slight Echo),1,5.0,footstep
+07004090.wav,"Walking, 2 women on stone. (With approach and stop, slight echo)",16,,EC100H,Footsteps On Stone: Walking (Slight Echo),2,5.0,footstep
+07004062.wav,"Footsteps in snow, 4 men. (With start and stop)",126,,EC100C,Footsteps In Snow,10,5.0,footstep
+07004061.wav,"Footsteps in snow, 3 men departing.",31,,EC100C,Footsteps In Snow,9,5.0,footstep
+07004091.wav,"Walking, 2 women on stone, departing. (Slight echo)",16,,EC100H,Footsteps On Stone: Walking (Slight Echo),3,5.0,footstep
+07004092.wav,"Walking, 1 man and woman on stone. (With start and stop, slight echo)",65,,EC100H,Footsteps On Stone: Walking (Slight Echo),4,5.0,footstep
+07004093.wav,"Walking, 1 man and woman on stone. (With approach and stop, slight echo)",17,,EC100H,Footsteps On Stone: Walking (Slight Echo),5,5.0,footstep
+07004088.wav,"Walking, 1 woman on stone departing. (Slight echo)",16,,EC100G,Footsteps On Stone: Walking (Slight Echo),12,5.0,footstep
+07004094.wav,"Walking, 1 man and woman on stone departing. (Slight echo)",18,,EC100H,Footsteps On Stone: Walking (Slight Echo),6,5.0,footstep
+07004096.wav,"Walking, 2 men and 1 woman on stone. (With approach and stop, slight echo)",16,,EC100H,Footsteps On Stone: Walking (Slight Echo),8,5.0,footstep
+07004097.wav,"Walking, 2 men and 1 woman on stone departing. (Slight echo)",18,,EC100H,Footsteps On Stone: Walking (Slight Echo),9,5.0,footstep
+07004098.wav,"Walking, 2 men and women on stone. (With start and stop, slight echo)",66,,EC100H,Footsteps On Stone: Walking (Slight Echo),10,5.0,footstep
+07004099.wav,"Walking, 2 men and women on stone. (With approach and stop, slight echo)",17,,EC100H,Footsteps On Stone: Walking (Slight Echo),11,5.0,footstep
+07004100.wav,"Walking, 2 men and women on stone departing. (Slight echo)",17,,EC100H,Footsteps On Stone: Walking (Slight Echo),12,5.0,footstep
+07004101.wav,"Running, 1 man on stone. (With start and stop)",64,,EC100J,Footsteps On Stone: Running,1,5.0,footstep
+07004102.wav,"Running, 1 man on stone. (With approach and stop)",14,,EC100J,Footsteps On Stone: Running,2,5.0,footstep
+07004103.wav,"Running, 1 man on stone, departing.",18,,EC100J,Footsteps On Stone: Running,3,5.0,footstep
+07004104.wav,"Running, 2 men on stone. (With start and stop)",65,,EC100J,Footsteps On Stone: Running,4,5.0,footstep
+07004095.wav,"Walking, 2 men and 1 woman on stone. (With start and stop, slight echo)",66,,EC100H,Footsteps On Stone: Walking (Slight Echo),7,5.0,footstep
+07004105.wav,"Running, 2 men on stone. (With approach and stop)",14,,EC100J,Footsteps On Stone: Running,5,5.0,footstep
+07004087.wav,"Walking, 1 woman on stone. (With approach and stop, slight echo)",16,,EC100G,Footsteps On Stone: Walking (Slight Echo),11,5.0,footstep
+07004066.wav,"Footsteps on shingle, 1 man. (With approach and stop)",30,,EC100E,Footsteps On Stones & Shingle,2,5.0,footstep
+07004084.wav,"Walking, 3 men on stone. (With approach and stop, slight echo)",18,,EC100G,Footsteps On Stone: Walking (Slight Echo),8,5.0,footstep
+07004083.wav,"Walking, 3 men on stone. (With start and stop, slight echo)",67,,EC100G,Footsteps On Stone: Walking (Slight Echo),7,5.0,footstep
+07004071.wav,"Footsteps on stones and shingle, 1 man. (With start and stop)",137,,EC100E,Footsteps On Stones & Shingle,7,5.0,footstep
+07004070.wav,"Footsteps on shingle, 2 men departing.",31,,EC100E,Footsteps On Stones & Shingle,6,5.0,footstep
+07004069.wav,"Footsteps on shingle, 2 men. (With approach and stop)",35,,EC100E,Footsteps On Stones & Shingle,5,5.0,footstep
+07004082.wav,"Walking, 2 men on stone departing. (Slight echo)",19,,EC100G,Footsteps On Stone: Walking (Slight Echo),6,5.0,footstep
+07004081.wav,"Walking, 2 men on stone. (With approach and stop, slight echo)",17,,EC100G,Footsteps On Stone: Walking (Slight Echo),5,5.0,footstep
+07004080.wav,"Walking, 2 men on stone. (With start and stop, slight echo)",66,,EC100G,Footsteps On Stone: Walking (Slight Echo),4,5.0,footstep
+07004079.wav,"Walking, 1 man on stone departing. (Slight echo)",16,,EC100G,Footsteps On Stone: Walking (Slight Echo),3,5.0,footstep
+07004147.wav,"Medium tempo footsteps down stone stairs, 2 women. (With approach and stop)",11,,EC100M,Footsteps Down Stone Stairs,11,5.0,footstep
+07004078.wav,"Walking, 1 man on stone. (With approach and stop, slight echo)",16,,EC100G,Footsteps On Stone: Walking (Slight Echo),2,5.0,footstep
+07004076.wav,"Walking, 1 man on loose shingle. (With start and stop)",91,,EC100E,Footsteps On Stones & Shingle,12,5.0,footstep
+07004075.wav,"Footsteps on stones and shingle, one man and woman. (With start and stop)",74,,EC100E,Footsteps On Stones & Shingle,11,5.0,footstep
+07004074.wav,"Running, 1 man passing on stones and shingle.",12,,EC100E,Footsteps On Stones & Shingle,10,5.0,footstep
+07004073.wav,"Footsteps on stones and shingle, 1 man. (With start, run and stop)",40,,EC100E,Footsteps On Stones & Shingle,9,5.0,footstep
+07004072.wav,"Footsteps on stones and shingle, 1 man departing.",16,,EC100E,Footsteps On Stones & Shingle,8,5.0,footstep
+07004085.wav,"Walking, 3 men on stone departing, slight echo.",19,,EC100G,Footsteps On Stone: Walking (Slight Echo),9,5.0,footstep
+07004086.wav,"Walking, 1 woman on stone. (With start and stop, slight echo)",68,,EC100G,Footsteps On Stone: Walking (Slight Echo),10,5.0,footstep
+07004068.wav,"Footsteps on shingle, 2 men. (With start and stop)",130,,EC100E,Footsteps On Stones & Shingle,4,5.0,footstep
+07004067.wav,"Footsteps on shingle, 1 man departing.",29,,EC100E,Footsteps On Stones & Shingle,3,5.0,footstep
+07004077.wav,"Walking, 1 man on stone. (With start and stop, slight echo)",65,,EC100G,Footsteps On Stone: Walking (Slight Echo),1,5.0,footstep
+07004106.wav,"Running, 2 men on stone, departing.",16,,EC100J,Footsteps On Stone: Running,6,5.0,footstep
+07004065.wav,"Footsteps on shingle, 1 man. (With start and stop)",125,,EC100E,Footsteps On Stones & Shingle,1,5.0,footstep
+07004108.wav,"Running, 3 men on stone. (With approach and stop)",16,,EC100J,Footsteps On Stone: Running,8,5.0,footstep
+07004122.wav,"Footsteps up stone stairs, 2 women. (With start and stop, slight echo)",33,,EC100K,Footsteps Up Stone Stairs (Slight Echo),10,5.0,footstep
+07004135.wav,"Fast footsteps up stone stairs, 2 women. (With approach and stop, slight echo)",18,,EC100L,Fast Footsteps Up Stone Stairs (Slight Echo),11,5.0,footstep
+07004134.wav,"Fast footsteps up stone stairs, 2 women. (With start and stop, slight echo)",27,,EC100L,Fast Footsteps Up Stone Stairs (Slight Echo),10,5.0,footstep
+07004128.wav,"Fast footsteps up stone stairs, 2 men. (With start and stop, slight echo)",29,,EC100L,Fast Footsteps Up Stone Stairs (Slight Echo),4,5.0,footstep
+07004132.wav,"Fast footsteps up stone stairs, 1 woman. (With approach and stop, slight echo)",17,,EC100L,Fast Footsteps Up Stone Stairs (Slight Echo),8,5.0,footstep
+07004131.wav,"Fast footsteps up stone stairs, 1 woman. (With start and stop, slight echo)",21,,EC100L,Fast Footsteps Up Stone Stairs (Slight Echo),7,5.0,footstep
+07004145.wav,"Medium tempo footsteps down stone stairs, 1 woman departing.",13,,EC100M,Footsteps Down Stone Stairs,9,5.0,footstep
+07004107.wav,"Running, 3 men on stone. (With start and stop)",66,,EC100J,Footsteps On Stone: Running,7,5.0,footstep
+07004123.wav,"Footsteps up stone stairs, 2 women. (With approach and stop, slight echo)",18,,EC100K,Footsteps Up Stone Stairs (Slight Echo),11,5.0,footstep
+07004121.wav,"Footsteps up stone stairs, 1 woman departing. (Slight echo)",14,,EC100K,Footsteps Up Stone Stairs (Slight Echo),9,5.0,footstep
+07004124.wav,"Footsteps up stone stairs, 2 women departing, slight echo.",18,,EC100K,Footsteps Up Stone Stairs (Slight Echo),12,5.0,footstep
+07004056.wav,"Footsteps in snow, 2 men. (With start and stop)",123,,EC100C,Footsteps In Snow,4,5.0,footstep
+07004125.wav,"Fast footsteps up stone stairs, 1 man. (With start and stop, slight echo)",30,,EC100L,Fast Footsteps Up Stone Stairs (Slight Echo),1,5.0,footstep
+07004058.wav,"Footsteps in snow, 2 men departing.",28,,EC100C,Footsteps In Snow,6,5.0,footstep
+07004144.wav,"Medium tempo footsteps down stone stairs, 1 woman. (With approach and stop)",11,,EC100M,Footsteps Down Stone Stairs,8,5.0,footstep
+07004130.wav,"Fast footsteps up stone stairs, 2 men departing. (Slight echo)",15,,EC100L,Fast Footsteps Up Stone Stairs (Slight Echo),6,5.0,footstep
+07004129.wav,"Fast footsteps up stone stairs, 2 men. (With approach and stop, slight echo)",16,,EC100L,Fast Footsteps Up Stone Stairs (Slight Echo),5,5.0,footstep
+07004057.wav,"Footsteps in snow, 2 men. (With approach and stop)",34,,EC100C,Footsteps In Snow,5,5.0,footstep
+07004126.wav,"Fast footsteps up stone stairs, 1 man. (With approach and stop, slight echo)",15,,EC100L,Fast Footsteps Up Stone Stairs (Slight Echo),2,5.0,footstep
+07004127.wav,"Fast footsteps up stone stairs, 1 man departing. (Slight echo)",14,,EC100L,Fast Footsteps Up Stone Stairs (Slight Echo),3,5.0,footstep
+07004143.wav,"Medium tempo footsteps down stone stairs, 1 woman. (With start and stop)",51,,EC100M,Footsteps Down Stone Stairs,7,5.0,footstep
+07004136.wav,"Fast footsteps up stone stairs, 2 women departing, slight echo.",16,,EC100L,Fast Footsteps Up Stone Stairs (Slight Echo),12,5.0,footstep
+07004133.wav,"Fast footsteps up stone stairs, 1 woman departing. (Slight echo)",17,,EC100L,Fast Footsteps Up Stone Stairs (Slight Echo),9,5.0,footstep
+07004138.wav,"Medium tempo footsteps down stone stairs, 1 man. (With approach and stop)",12,,EC100M,Footsteps Down Stone Stairs,2,5.0,footstep
+07004111.wav,"Running, 1 woman on stone. (With approach and stop)",13,,EC100J,Footsteps On Stone: Running,11,5.0,footstep
+07004060.wav,"Footsteps in snow, 3 men. (With approach and stop)",33,,EC100C,Footsteps In Snow,8,5.0,footstep
+07004142.wav,"Medium tempo footsteps down stone stairs, 2 men departing.",13,,EC100M,Footsteps Down Stone Stairs,6,5.0,footstep
+07004137.wav,"Medium tempo footsteps down stone stairs, 1 man. (With start and stop)",40,,EC100M,Footsteps Down Stone Stairs,1,5.0,footstep
+07004114.wav,"Footsteps up stone stairs, 1 man. (With approach and stop, slight echo)",14,,EC100K,Footsteps Up Stone Stairs (Slight Echo),2,5.0,footstep
+07004115.wav,"Footsteps up stone stairs, 1 man departing. (slight echo)",13,,EC100K,Footsteps Up Stone Stairs (Slight Echo),3,5.0,footstep
+07004116.wav,"Footsteps up stone stairs, 2 men. (With start and stop, slight echo)",30,,EC100K,Footsteps Up Stone Stairs (Slight Echo),4,5.0,footstep
+07004117.wav,"Footsteps up stone stairs, 2 men. (With approach and stop, slight echo)",13,,EC100K,Footsteps Up Stone Stairs (Slight Echo),5,5.0,footstep
+07004112.wav,"Running, 1 woman on stone, departing.",17,,EC100J,Footsteps On Stone: Running,12,5.0,footstep
+07004113.wav,"Footsteps up stone stairs, 1 man. (With start and stop, slight echo)",28,,EC100K,Footsteps Up Stone Stairs (Slight Echo),1,5.0,footstep
+07004119.wav,"Footsteps up stone stairs, 1 woman. (With start and stop, slight echo)",38,,EC100K,Footsteps Up Stone Stairs (Slight Echo),7,5.0,footstep
+07004059.wav,"Footsteps in snow, 3 men. (With start and stop)",96,,EC100C,Footsteps In Snow,7,5.0,footstep
+07004110.wav,"Running, 1 woman on stone. (With start and stop)",64,,EC100J,Footsteps On Stone: Running,10,5.0,footstep
+07004109.wav,"Running, 3 men on stone departing.",17,,EC100J,Footsteps On Stone: Running,9,5.0,footstep
+07004141.wav,"Medium tempo footsteps down stone stairs, 2 men. (With approach and stop)",13,,EC100M,Footsteps Down Stone Stairs,5,5.0,footstep
+07004140.wav,"Medium tempo footsteps down stone stairs, 2 men. (With start and stop)",38,,EC100M,Footsteps Down Stone Stairs,4,5.0,footstep
+07004139.wav,"Medium tempo footsteps down stone stairs, 1 man departing.",15,,EC100M,Footsteps Down Stone Stairs,3,5.0,footstep
+07004120.wav,"Footsteps up stone stairs, 1 woman. (With approach and stop, slight echo)",17,,EC100K,Footsteps Up Stone Stairs (Slight Echo),8,5.0,footstep
+07004118.wav,"Footsteps up stone stairs, 2 men departing, slight echo.",16,,EC100K,Footsteps Up Stone Stairs (Slight Echo),6,5.0,footstep
